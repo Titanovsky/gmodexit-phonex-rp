@@ -6,7 +6,7 @@
 
 ## Сборка
 
-![a](https://i.imgur.com/cbw1nd7.png)
+![a](https://i.imgur.com/DMM0HRC.jpeg)
 
 💙 Полная сборка (с ассетами) доступна на Google Drive -> [Клик Сюда](https://drive.google.com/file/d/1BNWJIXFFnEqIk5-TO8udByMzK2_BuLkH/view?usp=sharing). Можете скачать его и просто распаковать на сервер, всё будет готово! 
 
