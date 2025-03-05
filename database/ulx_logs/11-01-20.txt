@@ -1,0 +1,79 @@
+<Logging continued from "data/ulx_logs/10-31-20.txt">
+[00:00:35] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:37] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:39] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog01_short.mdl
+[00:00:42] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/wood_fence01b.mdl
+[00:00:43] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/wood_fence01b.mdl
+[00:00:43] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:43] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:43] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:44] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:44] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:44] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:44] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:44] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:45] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:45] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:45] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:45] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:45] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:00:45] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/fencewoodlog03_long.mdl
+[00:01:03] Dropped "MATH30" from server<STEAM_0:1:117258430>
+[00:45:48] Client "Фюрер Уток [CR2066]" connected.
+[00:46:46] Client "Фюрер Уток [CR2066]" spawned in server <STEAM_0:0:103023757> (took 58 seconds).
+[00:48:27] Client "Lorenci" connected.
+[00:48:41] Фюрер Уток [CR2066]: !menu
+[00:49:17] Фюрер Уток [CR2066] banned steamid STEAM_0:1:420015395 for 4 hours (Bad Player)
+[00:50:23] Client "Lorenci" spawned in server <STEAM_0:0:431981598> (took 116 seconds).
+[00:51:24] Lorenci<STEAM_0:0:431981598> spawned model models/m_pump/m_pump.mdl
+[00:51:28] Lorenci<STEAM_0:0:431981598> spawned model models/bag/bag.mdl
+[00:51:31] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned model models/apple/apple.mdl
+[00:51:39] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:40] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:50] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:51] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:53] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:54] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:55] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:55] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:55] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:56] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:56] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:56] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:56] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:51:56] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[00:52:49] Lorenci: /drop
+[00:53:33] Dropped "Фюрер Уток [CR2066]" from server<STEAM_0:0:103023757>
+[00:54:12] Dropped "Lorenci" from server<STEAM_0:0:431981598>
+[01:07:30] Client "Combine Ordinal" connected.
+
+
+
+[06:06:03] New map: rp_downtown_v4_exl
+[11:44:38] Client "Фюрер Уток [CR2066]" connected.
+[11:45:28] Client "Фюрер Уток [CR2066]" spawned in server <STEAM_0:0:103023757> (took 50 seconds).
+[11:47:02] Фюрер Уток [CR2066]: !noclip
+[11:52:55] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned vehicle models/buggy.mdl
+[11:53:06] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned vehicle models/airboat.mdl
+[11:53:10] Dropped "Фюрер Уток [CR2066]" from server<STEAM_0:0:103023757>
+
+
+
+[11:54:14] New map: rp_downtown_v4_exl
+[12:18:35] Client "ИНВАЛИД" connected.
+[17:39:04] Client "rodrigoguedes2007" connected.
+[18:06:08] Client "rodrigoguedes2007" spawned in server <STEAM_0:1:564627092> (took 1624 seconds).
+[19:01:00] Dropped "rodrigoguedes2007" from server<STEAM_0:1:564627092>
+[20:49:28] Client "Halboy" connected.
+[20:58:35] Client "Halboy" spawned in server <STEAM_0:1:458362135> (took 547 seconds).
+[21:04:22] Halboy: /jc1
+[21:04:41] Halboy: /jalien4
+[21:04:47] Halboy: /jbussiness1
+[21:04:48] Halboy: /jbussiness1
+[21:04:50] Halboy: /jc2
+[21:08:27] Halboy: /buycold1
+[21:09:02] Dropped "Halboy" from server<STEAM_0:1:458362135>
+[23:12:27] Client "Meliodas" connected.
+[23:14:56] Client "Meliodas" spawned in server <STEAM_0:0:542365595> (took 149 seconds).
+[23:16:38] Dropped "Meliodas" from server<STEAM_0:0:542365595>
+[23:23:27] Client "качок" connected.

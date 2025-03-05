@@ -1,0 +1,46 @@
+[03:04:03] New map: rp_downtown_v4_exl
+
+
+
+[06:06:22] New map: rp_downtown_v4_exl
+[10:56:13] Client "Titanovsky" connected.
+[10:57:18] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 65 seconds).
+[11:01:23] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[15:17:01] Client "Perian" connected.
+[16:11:31] Client "۞ ۞BLACK GUARD۞ ۞ Порыв" connected.
+[16:18:16] Client "۞ ۞BLACK GUARD۞ ۞ Порыв" spawned in server <STEAM_0:0:556114204> (took 405 seconds).
+[16:27:16] ۞ ۞BLACK GUARD۞ ۞ Порыв: UJIUY
+[16:28:02] ۞ ۞BLACK GUARD۞ ۞ Порыв<STEAM_0:0:556114204> spawned model models/m_pump/m_pump.mdl
+[16:34:45] ۞ ۞BLACK GUARD۞ ۞ Порыв<STEAM_0:0:556114204> spawned model models/scarecrow/scarecrow.mdl
+[16:48:58] Dropped "۞ ۞BLACK GUARD۞ ۞ Порыв" from server<STEAM_0:0:556114204>
+[16:52:41] Client "..." connected.
+[16:53:26] Client "..." spawned in server <STEAM_0:0:226914413> (took 45 seconds).
+[16:57:27] Dropped "..." from server<STEAM_0:0:226914413>
+[20:24:22] Client "minedaruu" connected.
+[22:25:59] Client "(= TaKaC1 =)" connected.
+[22:32:14] Client "(= TaKaC1 =)" spawned in server <STEAM_0:0:504657381> (took 375 seconds).
+[22:38:00] (= TaKaC1 =): /jcrim1
+[22:38:59] (= TaKaC1 =): /buymoneyprinter1
+[22:39:03] (= TaKaC1 =): /buymoneyprinter1
+[22:39:06] (= TaKaC1 =): /buymoneyprinter1
+[22:47:07] Client "MATH30" connected.
+[22:47:34] Client "MATH30" spawned in server <STEAM_0:1:117258430> (took 27 seconds).
+[22:47:48] Dropped "MATH30" from server<STEAM_0:1:117258430>
+[23:32:48] Client "MARL" connected.
+[23:33:37] Client "MARL" spawned in server <STEAM_0:0:420111027> (took 49 seconds).
+[23:38:16] MARL: /dropweapon
+[23:38:37] MARL: /jcrim1
+[23:39:33] MARL killed (= TaKaC1 =) using player
+[23:42:01] Client "aero" connected.
+[23:43:48] (= TaKaC1 =): Привет 
+[23:43:55] MARL: привет
+[23:44:12] (= TaKaC1 =): Я короч тут типо новенький, а как тут развится 
+[23:44:14] (= TaKaC1 =): ?
+[23:45:28] MARL: /sellalldoors
+[23:46:08] MARL killed (= TaKaC1 =) using player
+[23:46:25] Dropped "(= TaKaC1 =)" from server<STEAM_0:0:504657381>
+[23:49:51] MARL: /dropweapon
+[23:50:01] Client "aero" spawned in server <STEAM_0:1:189115894> (took 480 seconds).
+[23:50:05] Dropped "MARL" from server<STEAM_0:0:420111027>
+[23:51:27] Dropped "aero" from server<STEAM_0:1:189115894>
+<Logging continued in "data/ulx_logs/11-03-20.txt">

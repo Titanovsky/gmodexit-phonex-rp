@@ -1,0 +1,681 @@
+<Logging continued from "data/ulx_logs/10-30-20.txt">
+[03:15:08] Client "vadim.surinov" connected.
+[03:19:01] Client "vadim.surinov" spawned in server <STEAM_0:1:453508466> (took 233 seconds).
+[03:32:59] vadim.surinov<STEAM_0:1:453508466> spawned model models/props_lab/monitor02.mdl
+[03:33:43] Dropped "vadim.surinov" from server<STEAM_0:1:453508466>
+
+
+
+[06:06:01] New map: rp_downtown_v4_exl
+[09:07:33] Client "๖ۣۣۜBaby Yoda#4366" connected.
+[12:00:14] Client "I am the only" connected.
+[12:12:08] Client "I am the only" connected.
+[12:13:21] Client "I am the only" spawned in server <STEAM_0:0:520909765> (took 73 seconds).
+[12:16:49] I am the only: /adminmode
+[12:16:50] I am the only: !noclip
+[12:19:32] Dropped "I am the only" from server<STEAM_0:0:520909765>
+[12:27:38] Client "Штильц" connected.
+[12:32:56] Client "Штильц" spawned in server <STEAM_0:1:448448824> (took 318 seconds).
+[12:33:42] Dropped "Штильц" from server<STEAM_0:1:448448824>
+[12:45:14] Client "Штильц" connected.
+[12:45:49] Client "Штильц" spawned in server <STEAM_0:1:448448824> (took 35 seconds).
+[12:46:33] Штильц: /jcrim3a
+[12:54:50] Штильц: /hud 1
+[13:18:13] Штильц Open warp
+[13:18:14] Штильц Closed warp
+[13:20:46] Dropped "Штильц" from server<STEAM_0:1:448448824>
+[14:09:37] Client "Штильц" connected.
+[14:10:12] Client "Штильц" spawned in server <STEAM_0:1:448448824> (took 35 seconds).
+[14:10:49] Штильц: /votejcrim3
+[14:11:03] Штильц: /jcrim3a
+[14:11:04] Штильц: /jcrim3a
+[14:11:05] Штильц: /jcrim3a
+[14:11:07] Штильц: /jcrim3a
+[14:12:24] Штильц: а
+[14:29:05] Dropped "Штильц" from server<STEAM_0:1:448448824>
+[15:20:09] Client "yhali78" connected.
+[15:27:50] Client "..." connected.
+[15:28:35] Client "..." spawned in server <STEAM_0:0:226914413> (took 45 seconds).
+[15:31:19] ...: /jc1
+[15:40:11] ...<STEAM_0:0:226914413> spawned model models/pumpkin_3/pumpkin_3.mdl
+[15:40:22] ...<STEAM_0:0:226914413> spawned sent arccw_ammo_smg1_large
+[15:40:25] ...<STEAM_0:0:226914413> spawned sent sent_ball
+[15:40:43] ...<STEAM_0:0:226914413> spawned model models/props/cs_office/sofa_chair.mdl
+[16:33:01] Client "KUKURUZKA" connected.
+[16:40:47] Client "KUKURUZKA" spawned in server <STEAM_0:1:420015395> (took 466 seconds).
+[16:57:24] Client "I am the only" connected.
+[16:59:40] Client "I am the only" spawned in server <STEAM_0:0:520909765> (took 136 seconds).
+[17:00:23] Client "WSank" connected.
+[17:01:20] ...: привет
+[17:02:38] I am the only: /adminmode
+[17:02:39] I am the only: !noclip
+[17:03:05] I am the only: !menu
+[17:03:09] I am the only teleported to KUKURUZKA
+[17:03:13] I am the only: !menu
+[17:03:15] I am the only teleported to ...
+[17:03:19] I am the only: !noclip
+[17:03:21] I am the only: /adminmode
+[17:04:10] I am the only: /drop
+[17:04:46] I am the only: /drop
+[17:06:41] I am the only: /drop
+[17:07:39] I am the only: /drop
+[17:07:44] I am the only: /drop
+[17:08:06] I am the only: /drop
+[17:08:13] I am the only<STEAM_0:0:520909765> spawned model models/props_c17/furniturecouch001a.mdl
+[17:08:22] I am the only<STEAM_0:0:520909765> spawned ragdoll models/mossman.mdl
+[17:09:20] I am the only<STEAM_0:0:520909765> spawned ragdoll models/gman_high.mdl
+[17:09:21] I am the only<STEAM_0:0:520909765> spawned ragdoll models/barney.mdl
+[17:11:33] I am the only<STEAM_0:0:520909765> spawned ragdoll models/humans/group02/female_04.mdl
+[17:11:37] I am the only<STEAM_0:0:520909765> spawned ragdoll models/humans/group02/male_06.mdl
+[17:12:56] I am the only<STEAM_0:0:520909765> spawned ragdoll models/zombie/classic.mdl
+[17:13:00] I am the only<STEAM_0:0:520909765> spawned ragdoll models/combine_soldier_prisonguard.mdl
+[17:13:02] I am the only<STEAM_0:0:520909765> spawned ragdoll models/combine_super_soldier.mdl
+[17:13:30] ...<STEAM_0:0:226914413> spawned sent zmlab_palette
+[17:13:35] ...<STEAM_0:0:226914413> spawned sent zmlab_collectcrate
+[17:13:36] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:13:38] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:13:47] ...: /jnarko1
+[17:13:59] I am the only: /adminmode
+[17:14:00] I am the only: /adminmode
+[17:14:19] ...<STEAM_0:0:226914413> spawned sent zmlab_collectcrate
+[17:14:28] ...: /buymethz4
+[17:14:36] ...: /buymethz5
+[17:14:37] ...: /buymethz5
+[17:14:37] ...: /buymethz5
+[17:14:38] ...: /buymethz5
+[17:14:39] ...: /buymethz5
+[17:14:40] ...: /buymethz5
+[17:14:41] ...: /buymethz5
+[17:14:41] ...: /buymethz5
+[17:14:48] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:14:49] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:14:50] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:14:54] I am the only: /buyent2
+[17:14:55] I am the only: /buyent1
+[17:14:56] I am the only: /buyent2
+[17:14:58] I am the only: /buyent1
+[17:15:03] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:04] I am the only: !noclip
+[17:15:04] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:05] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:05] I am the only: !noclip
+[17:15:07] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:08] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:09] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:14] Client "morozice78" connected.
+[17:15:18] Client "WSank" connected.
+[17:15:29] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:30] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:31] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:34] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:43] ...: /buymethz5
+[17:15:46] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:46] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:47] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:15:48] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:16:11] ...<STEAM_0:0:226914413> spawned sent zmlab_palette
+[17:16:15] I am the only: /drop
+[17:16:27] ...<STEAM_0:0:226914413> spawned sent zmlab_palette
+[17:16:29] ...<STEAM_0:0:226914413> spawned sent zmlab_palette
+[17:17:01] I am the only: /jnarko1
+[17:17:19] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:17:34] I am the only: /drop
+[17:17:43] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:17:49] Client "One Touch Gamer" connected.
+[17:18:10] I am the only: /buymethz5
+[17:19:18] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:19:19] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:19:20] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:19:30] I am the only: /buymethz5
+[17:19:46] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:19:47] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:19:48] ...<STEAM_0:0:226914413> spawned sent zmlab_meth
+[17:21:09] I am the only: /buymethz5
+[17:21:31] I am the only: /buymethz4
+[17:22:20] I am the only<STEAM_0:0:520909765> spawned ragdoll models/humans/group01/male_06.mdl
+[17:25:36] ...<STEAM_0:0:226914413> spawned sent amb_test
+[17:27:41] I am the only<STEAM_0:0:520909765> spawned ragdoll models/police.mdl
+[17:28:26] I am the only<STEAM_0:0:520909765> spawned ragdoll models/police.mdl
+[17:29:22] Client "One Touch Gamer" spawned in server <STEAM_0:0:48628674> (took 693 seconds).
+[17:29:33] I am the only: !noclip
+[17:29:35] I am the only: !noclip
+[17:31:12] I am the only<STEAM_0:0:520909765> spawned ragdoll models/mossman.mdl
+[17:31:50] I am the only<STEAM_0:0:520909765> spawned ragdoll models/alyx.mdl
+[17:32:42] I am the only<STEAM_0:0:520909765> spawned model models/pumpkin_3/pumpkin_3.mdl
+[17:32:49] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x025x025.mdl
+[17:33:13] I am the only<STEAM_0:0:520909765> spawned ragdoll models/humans/group01/female_01.mdl
+[17:34:17] ... teleported to One Touch Gamer
+[17:35:07] I am the only<STEAM_0:0:520909765> spawned ragdoll models/humans/group01/female_01.mdl
+[17:35:42] I am the only: /adminmode
+[17:35:43] I am the only: !noclip
+[17:35:46] I am the only: !menu
+[17:35:49] I am the only teleported to ...
+[17:36:32] I am the only: !noclip
+[17:36:33] I am the only: !noclip
+[17:36:34] I am the only: !noclip
+[17:36:44] Client "✠✞FSG✞✠ッ" connected.
+[17:36:50] I am the only<STEAM_0:0:520909765> spawned ragdoll models/dog.mdl
+[17:36:57] Client "What's up?" connected.
+[17:37:01] I am the only<STEAM_0:0:520909765> spawned ragdoll models/vortigaunt.mdl
+[17:37:29] I am the only: !noclip
+[17:37:31] I am the only: !noclip
+[17:37:34] I am the only<STEAM_0:0:520909765> spawned ragdoll models/lamarr.mdl
+[17:37:49] I am the only<STEAM_0:0:520909765> spawned ragdoll models/antlion.mdl
+[17:37:57] I am the only<STEAM_0:0:520909765> spawned ragdoll models/antlion_guard.mdl
+[17:38:39] I am the only: !menu
+[17:38:41] I am the only: !noclip
+[17:38:44] I am the only teleported to ...
+[17:39:12] One Touch Gamer: /jcrim2
+[17:39:12] One Touch Gamer: /jcrim2
+[17:39:39] I am the only: /drop
+[17:40:49] I am the only: !noclip
+[17:41:00] I am the only: /drop
+[17:41:12] One Touch Gamer: /drop
+[17:41:39] I am the only: /drop
+[17:41:53] One Touch Gamer: /drop
+[17:41:58] One Touch Gamer: /drop
+[17:42:02] One Touch Gamer: /drop
+[17:42:39] I am the only: /drop
+[17:43:38] I am the only: !noclip
+[17:43:40] I am the only: /adminmode
+[17:43:41] I am the only: /adminmode
+[17:44:03] I am the only: !noclip
+[17:45:30] One Touch Gamer suicided!
+[17:45:31] I am the only: /drop
+[17:45:49] I am the only: !noclip
+[17:46:16] I am the only: !noclip
+[17:46:23] I am the only: /adminmode
+[17:48:55] KUKURUZKA: я афк был
+[17:49:38] One Touch Gamer: /buymoneyprinter1
+[17:49:49] KUKURUZKA: хз
+[17:50:01] KUKURUZKA: проверить
+[17:50:05] KUKURUZKA: что за сервер
+[17:50:26] Dropped "One Touch Gamer" from server<STEAM_0:0:48628674>
+[17:51:12] KUKURUZKA: всм
+[17:51:14] KUKURUZKA: а да
+[17:52:03] KUKURUZKA: мне туда надо
+[17:52:28] KUKURUZKA: там нету скинов
+[17:52:35] KUKURUZKA: там скинов нету
+[17:52:40] KUKURUZKA: просты модели
+[17:53:01] KUKURUZKA: в орг
+[17:53:02] KUKURUZKA: угу
+[17:54:59] KUKURUZKA: для орг
+[17:55:52] KUKURUZKA: а где золото?
+[17:55:59] KUKURUZKA: пон
+[17:56:43] KUKURUZKA: а вы осн?
+[17:56:51] KUKURUZKA: основатели?
+[17:57:56] KUKURUZKA: нет
+[17:57:58] KUKURUZKA: не против
+[17:58:06] I am the only: /adminmode
+[17:58:07] I am the only: !noclip
+[17:58:15] I am the only: !noclip
+[17:58:16] I am the only: /adminmode
+[17:58:45] ...<STEAM_0:0:226914413> spawned sent zmlab_combiner
+[17:58:55] KUKURUZKA: с этой я вроде знаком
+[17:58:59] I am the only: !noclip
+[17:59:00] KUKURUZKA: это что?
+[17:59:02] I am the only: !noclip
+[17:59:03] I am the only: !noclip
+[17:59:04] I am the only: !noclip
+[17:59:21] KUKURUZKA: перм?
+[17:59:30] KUKURUZKA: оружие?
+[17:59:38] I am the only: !noclip
+[17:59:40] I am the only: !noclip
+[17:59:41] KUKURUZKA: понял
+[18:00:00] ...<STEAM_0:0:226914413> spawned sent zmlab_methylamin
+[18:00:08] I am the only: !noclip
+[18:00:10] KUKURUZKA: аа
+[18:00:15] I am the only: /adminmode
+[18:00:16] KUKURUZKA: я знаком с этой системой
+[18:00:17] I am the only: !noclip
+[18:00:19] I am the only: /adminmode
+[18:00:32] KUKURUZKA: потом
+[18:00:33] ...<STEAM_0:0:226914413> spawned sent zmlab_methylamin
+[18:00:34] ...<STEAM_0:0:226914413> spawned sent zmlab_methylamin
+[18:00:35] ...<STEAM_0:0:226914413> spawned sent zmlab_methylamin
+[18:00:36] ...<STEAM_0:0:226914413> spawned sent zmlab_methylamin
+[18:00:40] KUKURUZKA: на поднос и в холодильник
+[18:01:06] KUKURUZKA: такой я уже варил
+[18:01:39] ...<STEAM_0:0:226914413> spawned sent zmlab_aluminium
+[18:01:40] ...<STEAM_0:0:226914413> spawned sent zmlab_filter
+[18:01:42] ...<STEAM_0:0:226914413> spawned sent zmlab_frezzer
+[18:02:00] I am the only: /buymethr6
+[18:02:03] I am the only: /buymethr3
+[18:02:05] I am the only: /buymethr2
+[18:02:07] I am the only: /buymethr1
+[18:02:46] I am the only: /buymethr2
+[18:02:58] ...<STEAM_0:0:226914413> spawned sent ent_water
+[18:02:59] ...<STEAM_0:0:226914413> spawned sent ent_water
+[18:03:00] ...<STEAM_0:0:226914413> spawned sent ent_water
+[18:03:01] ...<STEAM_0:0:226914413> spawned sent ent_water
+[18:03:02] ...<STEAM_0:0:226914413> spawned sent ent_water
+[18:03:35] ...<STEAM_0:0:226914413> spawned sent ent_iodine
+[18:03:36] ...<STEAM_0:0:226914413> spawned sent ent_iodine
+[18:03:37] ...<STEAM_0:0:226914413> spawned sent ent_iodine
+[18:03:38] ...<STEAM_0:0:226914413> spawned sent ent_iodine
+[18:03:39] ...<STEAM_0:0:226914413> spawned sent ent_iodine
+[18:03:43] ...<STEAM_0:0:226914413> spawned sent ent_redpho
+[18:03:44] ...<STEAM_0:0:226914413> spawned sent ent_redpho
+[18:03:45] ...<STEAM_0:0:226914413> spawned sent ent_redpho
+[18:03:46] ...<STEAM_0:0:226914413> spawned sent ent_redpho
+[18:03:47] ...<STEAM_0:0:226914413> spawned sent ent_redpho
+[18:04:05] ...<STEAM_0:0:226914413> spawned sent ent_muriatic
+[18:04:06] ...<STEAM_0:0:226914413> spawned sent ent_muriatic
+[18:04:07] ...<STEAM_0:0:226914413> spawned sent ent_muriatic
+[18:04:08] ...<STEAM_0:0:226914413> spawned sent ent_muriatic
+[18:04:09] ...<STEAM_0:0:226914413> spawned sent ent_muriatic
+[18:05:02] I am the only: /drop
+[18:05:08] ...<STEAM_0:0:226914413> spawned sent ent_hazmat
+[18:05:13] I am the only: /buymethr4
+[18:05:27] I am the only: /buymethr5
+[18:06:47] KUKURUZKA: как
+[18:08:47] KUKURUZKA: а зачем они нужны?
+[18:09:00] KUKURUZKA: ммм
+[18:09:22] KUKURUZKA: а маник дорогой?
+[18:09:37] KUKURUZKA: а сложно вармить?
+[18:09:42] KUKURUZKA: фармить*
+[18:09:54] KUKURUZKA: а долго?
+[18:10:26] ...<STEAM_0:0:226914413> spawned sent ent_meth_crystal
+[18:10:32] KUKURUZKA: не могу
+[18:10:48] KUKURUZKA: 2
+[18:11:19] KUKURUZKA: она с 3
+[18:11:20] KUKURUZKA: лвл
+[18:11:25] KUKURUZKA: ща
+[18:11:45] KUKURUZKA: 23
+[18:11:53] ... изменил тиму  KUKURUZKA на Нарковарщик
+[18:11:53] I am the only: /give 37000
+[18:12:04] I am the only: !menu
+[18:12:06] ... brought KUKURUZKA
+[18:12:08] KUKURUZKA: о
+[18:12:15] I am the only: /give 37000
+[18:12:18] KUKURUZKA: спасибо
+[18:12:22] ...<STEAM_0:0:226914413> spawned sent ent_meth_crystal
+[18:12:23] ...<STEAM_0:0:226914413> spawned sent ent_meth_crystal
+[18:12:55] ...<STEAM_0:0:226914413> spawned sent ent_meth_crystal
+[18:12:56] ...<STEAM_0:0:226914413> spawned sent ent_meth_crystal
+[18:12:58] KUKURUZKA: 115
+[18:13:00] KUKURUZKA: к
+[18:13:09] ...<STEAM_0:0:226914413> spawned sent ent_meth_crystal
+[18:14:12] I am the only: /buymethz5
+[18:14:22] KUKURUZKA: спасибо
+[18:14:25] I am the only: /buymethz5
+[18:14:33] KUKURUZKA: а куда?
+[18:14:35] KUKURUZKA: ему же?
+[18:14:47] KUKURUZKA: норм
+[18:15:42] I am the only: !noclip
+[18:15:46] I am the only: !noclip
+[18:16:03] KUKURUZKA: у меня цвет
+[18:16:55] KUKURUZKA: не понял
+[18:18:15] I am the only: !noclip
+[18:18:23] I am the only: !noclip
+[18:19:40] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[18:19:49] I am the only: /adminmode
+[18:19:49] I am the only: /adminmode
+[18:20:10] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_debris/metal_panel02a.mdl
+[18:20:24] KUKURUZKA: проп серф
+[18:20:27] KUKURUZKA<STEAM_0:1:420015395> spawned model models/weapons/w_pist_usp_silencer.mdl
+[18:20:38] I am the only<STEAM_0:0:520909765> spawned ragdoll models/antlion_guard.mdl
+[18:21:00] I am the only<STEAM_0:0:520909765> spawned ragdoll models/combine_soldier.mdl
+[18:21:52] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props/cs_militia/tree_large_militia.mdl
+[18:21:57] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_foliage/tree_poplar_01.mdl
+[18:22:13] I am the only<STEAM_0:0:520909765> spawned ragdoll models/lamarr.mdl
+[18:22:58] KUKURUZKA<STEAM_0:1:420015395> spawned model models/weapons/w_physics.mdl
+[18:23:11] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube05x1x05.mdl
+[18:23:12] KUKURUZKA<STEAM_0:1:420015395> spawned model models/weapons/w_stunbaton.mdl
+[18:23:45] KUKURUZKA: а как?
+[18:24:01] KUKURUZKA: а как это?
+[18:24:23] KUKURUZKA: а как?
+[18:24:25] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube075x2x025.mdl
+[18:24:30] KUKURUZKA: как?
+[18:24:42] KUKURUZKA: как это?
+[18:24:48] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube075x2x1.mdl
+[18:24:57] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/blocks/cube05x1x05.mdl
+[18:25:33] KUKURUZKA: где он?
+[18:26:41] KUKURUZKA: какое эпли?
+[18:26:49] KUKURUZKA: аа
+[18:26:51] I am the only: weld
+[18:26:52] KUKURUZKA: поставил
+[18:26:54] I am the only: apply
+[18:27:05] KUKURUZKA: убрад
+[18:27:08] KUKURUZKA: убрал*
+[18:27:27] KUKURUZKA: ну
+[18:27:55] KUKURUZKA: убрал
+[18:29:24] KUKURUZKA: как
+[18:29:34] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/blocks/cube05x1x05.mdl
+[18:30:08] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/blocks/cube05x1x05.mdl
+[18:30:51] KUKURUZKA: а че он так странно летит?\
+[18:31:33] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/blocks/cube05x1x05.mdl
+[18:31:54] ... suicided!
+[18:32:08] KUKURUZKA killed I am the only using prop_physics
+[18:32:48] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/blocks/cube05x1x05.mdl
+[18:33:18] KUKURUZKA: он сквозь проходит
+[18:33:25] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/blocks/cube05x1x05.mdl
+[18:34:44] KUKURUZKA: какие у тебя настройки стоят? в пресижионе
+[18:35:05] KUKURUZKA: какие у тебя настройки стоят? в пресижионе
+[18:35:10] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/blocks/cube05x1x05.mdl
+[18:35:32] KUKURUZKA: ооо
+[18:35:34] KUKURUZKA: робит
+[18:35:53] KUKURUZKA: им убить можно
+[18:35:59] KUKURUZKA: им убить можно\
+[18:36:16] KUKURUZKA: на меня жми
+[18:36:17] KUKURUZKA: им
+[18:36:42] KUKURUZKA: ты в годе?
+[18:36:56] KUKURUZKA: ай
+[18:38:11] KUKURUZKA: 10 хп
+[18:38:15] KUKURUZKA: оставил
+[18:38:28] KUKURUZKA was killed by prop_physics
+[18:40:18] KUKURUZKA: /buycold1
+[18:40:58] KUKURUZKA: /jcrim0
+[18:41:06] KUKURUZKA: /jc2
+[18:41:44] KUKURUZKA: ок
+[18:41:47] KUKURUZKA: пока
+[18:41:51] Dropped "..." from server<STEAM_0:0:226914413>
+[18:44:03] I am the only: !noclip
+[18:44:04] I am the only: /adminmode
+[18:44:08] I am the only: /adminmode
+[18:44:09] I am the only: !noclip
+[18:44:13] KUKURUZKA: он спать ушел
+[18:44:34] KUKURUZKA: приятного
+[18:44:48] KUKURUZKA<STEAM_0:1:420015395> spawned model models/pumpkin_3/pumpkin_3_phys.mdl
+[18:44:51] KUKURUZKA<STEAM_0:1:420015395> spawned model models/pumpkin_3/pumpkin_3.mdl
+[18:45:06] KUKURUZKA: они же одинаковые?
+[18:45:20] KUKURUZKA: а зачем 
+[18:45:21] I am the only<STEAM_0:0:520909765> spawned model models/pumpkin_3/pumpkin_3_phys.mdl
+[18:45:22] I am the only<STEAM_0:0:520909765> spawned model models/pumpkin_3/pumpkin_3.mdl
+[18:45:27] KUKURUZKA: 2 модельки ставить?
+[18:45:30] KUKURUZKA: аааа
+[18:45:41] I am the only:  
+[18:45:41] KUKURUZKA<STEAM_0:1:420015395> spawned model models/apple/apple.mdl
+[18:45:44] KUKURUZKA<STEAM_0:1:420015395> spawned model models/bag/bag.mdl
+[18:46:04] KUKURUZKA<STEAM_0:1:420015395> spawned model models/candy_01/candy_01.mdl
+[18:46:09] I am the only<STEAM_0:0:520909765> spawned model models/weapons/w_snip_awp.mdl
+[18:46:13] I am the only<STEAM_0:0:520909765> spawned model models/weapons/w_mach_m249para.mdl
+[18:46:13] KUKURUZKA<STEAM_0:1:420015395> spawned model models/kerze/kerze.mdl
+[18:46:34] KUKURUZKA<STEAM_0:1:420015395> spawned model models/m_dead/m_dead.mdl
+[18:46:39] KUKURUZKA<STEAM_0:1:420015395> spawned model models/m_pump/m_pump.mdl
+[18:46:50] KUKURUZKA<STEAM_0:1:420015395> spawned model models/m_skel/m_skel.mdl
+[18:46:55] KUKURUZKA<STEAM_0:1:420015395> spawned model models/scarecrow/scarecrow.mdl
+[18:47:57] KUKURUZKA<STEAM_0:1:420015395> spawned model models/maxofs2d/balloon_mossman.mdl
+[18:48:08] I am the only<STEAM_0:0:520909765> spawned ragdoll models/mossman.mdl
+[18:48:47] I am the only<STEAM_0:0:520909765> spawned ragdoll models/eli.mdl
+[18:48:49] I am the only<STEAM_0:0:520909765> spawned ragdoll models/barney.mdl
+[18:49:40] KUKURUZKA: оу май
+[18:50:12] KUKURUZKA<STEAM_0:1:420015395> spawned model models/maxofs2d/hover_rings.mdl
+[18:51:22] I am the only: !noclip
+[18:51:27] I am the only: !noclip
+[18:51:33] KUKURUZKA: а набор сложный?
+[18:51:42] I am the only: !noclip
+[18:51:42] I am the only killed KUKURUZKA using arccw_thr_semtex
+[18:51:42] I am the only suicided!
+[18:51:46] KUKURUZKA: аахахахаххахаха
+[18:52:03] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props/cs_assault/billboard.mdl
+[18:52:07] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props/cs_assault/billboard.mdl
+[18:53:00] I am the only: /drop
+[18:53:05] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_phx/misc/bunker01.mdl
+[18:53:06] I am the only: /drop
+[18:53:20] I am the only<STEAM_0:0:520909765> spawned model models/props_c17/furnituredrawer001a_chunk01.mdl
+[18:53:21] I am the only<STEAM_0:0:520909765> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+[18:54:37] I am the only: weld
+[18:54:41] I am the only<STEAM_0:0:520909765> spawned model models/props_interiors/bathtub01a.mdl
+[18:54:58] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_trainstation/trainstation_clock001.mdl
+[18:55:46] KUKURUZKA: /buycold3
+[18:55:55] KUKURUZKA: /me Перебинтовал руку
+[18:56:00] KUKURUZKA: /invholster 
+[18:56:01] KUKURUZKA: /invholster 
+[18:56:55] KUKURUZKA: /dropweapon
+[18:57:04] KUKURUZKA: /dropweapon
+[18:57:38] KUKURUZKA: /jcrim1
+[18:58:28] KUKURUZKA: /buymoneyprinter1
+[19:03:43] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_c17/door01_left.mdl
+[19:03:49] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_c17/fence01b.mdl
+[19:03:54] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_c17/fence01b.mdl
+[19:04:04] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_c17/fence01b.mdl
+[19:04:13] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_c17/fence03a.mdl
+[19:04:50] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_wasteland/exterior_fence003b.mdl
+[19:04:52] KUKURUZKA<STEAM_0:1:420015395> spawned model models/props_c17/fence01b.mdl
+[19:05:07] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/plates/plate2x3.mdl
+[19:05:08] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/plates/plate2x4.mdl
+[19:05:16] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/plates/plate2x2.mdl
+[19:05:49] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/plates/plate1x1.mdl
+[19:05:52] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/plates/plate1x2.mdl
+[19:05:59] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/plates/plate1x1.mdl
+[19:06:20] KUKURUZKA<STEAM_0:1:420015395> spawned model models/hunter/plates/plate1x1.mdl
+[19:07:17] I am the only: /adminmode
+[19:07:18] I am the only: !noclip
+[19:07:22] I am the only: !menu
+[19:07:31] I am the only teleported to KUKURUZKA
+[19:07:49] I am the only: !noclip
+[19:08:43] KUKURUZKA: а ты долго фармил?
+[19:09:13] KUKURUZKA: угу
+[19:09:45] KUKURUZKA: это зависит от онлайна?
+[19:09:56] KUKURUZKA: 13
+[19:10:14] KUKURUZKA: а
+[19:10:20] KUKURUZKA: тип надо скринить?
+[19:10:38] KUKURUZKA: а где потом чекать?
+[19:10:56] KUKURUZKA: а как смотреть сколько
+[19:11:03] KUKURUZKA: ну
+[19:11:06] KUKURUZKA: а если вообще
+[19:11:15] KUKURUZKA: а админ может?
+[19:11:19] KUKURUZKA: или создатель
+[19:11:23] KUKURUZKA: а ты?
+[19:11:44] KUKURUZKA: а какой тут макс. онлайн?
+[19:11:45] KUKURUZKA: был
+[19:12:14] KUKURUZKA: а отвечают на заявку далго?
+[19:12:19] KUKURUZKA: долго*
+[19:12:24] KUKURUZKA: мдэ
+[19:12:30] KUKURUZKA: может это наебалово?
+[19:12:53] KUKURUZKA: а где группу чекнуть?
+[19:12:54] KUKURUZKA: вк
+[19:13:45] KUKURUZKA: 59dd13cc5cb2137415778090a166336d
+[19:13:58] I am the only: 59dd13cc5cb2137415778090a166336d
+[19:14:12] KUKURUZKA: я хз рабочий он или нет
+[19:14:25] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[19:14:27] KUKURUZKA: он уже не робит
+[19:14:30] KUKURUZKA: 17 окт 
+[19:14:31] KUKURUZKA: был
+[19:16:45] KUKURUZKA: угу
+[19:17:31] KUKURUZKA: долго
+[19:18:05] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[19:18:14] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[19:18:22] I am the only<STEAM_0:0:520909765> spawned model models/hunter/plates/plate025x1.mdl
+[19:18:56] KUKURUZKA: дали
+[19:19:03] KUKURUZKA: вороны
+[19:19:15] KUKURUZKA: вороны
+[19:19:25] I am the only: /jcrim1
+[19:19:28] I am the only: !noclip
+[19:19:30] I am the only: !noclip
+[19:19:32] I am the only: !noclip
+[19:19:35] I am the only: !noclip
+[19:19:38] I am the only: /buycuff1
+[19:19:56] KUKURUZKA: нету ничего
+[19:20:05] KUKURUZKA: я купил
+[19:20:14] KUKURUZKA: в магазине
+[19:21:33] I am the only killed KUKURUZKA using arccw_rpg7_heat
+[19:21:42] I am the only: /drop
+[19:22:22] I am the only: /dropmoney 10000
+[19:22:56] KUKURUZKA: !menu
+[19:23:02] KUKURUZKA to admins: message
+[19:23:48] KUKURUZKA to I am the only: а
+[19:23:56] KUKURUZKA to I am the only: а
+[19:24:00] KUKURUZKA to I am the only: у
+[19:24:05] KUKURUZKA to I am the only: и
+[19:24:14] KUKURUZKA: умеешь так?
+[19:24:22] KUKURUZKA: писать так
+[19:24:49] KUKURUZKA: напиши пм
+[19:24:52] KUKURUZKA: мне
+[19:24:57] KUKURUZKA: !menu
+[19:25:07] I am the only: /pm
+[19:25:21] KUKURUZKA: KUKURUZKA
+[19:25:27] I am the only: /pm KUKURUZKA а
+[19:25:34] I am the only: а
+[19:25:39] KUKURUZKA: ты просто написал
+[19:25:49] KUKURUZKA: /pm I am the only а
+[19:25:50] I am the only: /pm KUKURUZKA a
+[19:25:52] KUKURUZKA: !menu
+[19:25:59] KUKURUZKA to I am the only: в
+[19:26:01] KUKURUZKA to I am the only: в
+[19:26:01] KUKURUZKA to I am the only: в
+[19:26:01] KUKURUZKA to I am the only: в
+[19:26:02] KUKURUZKA to I am the only: в
+[19:26:02] KUKURUZKA to I am the only: в
+[19:26:02] KUKURUZKA to I am the only: в
+[19:26:02] KUKURUZKA to I am the only: в
+[19:26:03] KUKURUZKA to I am the only: в
+[19:26:03] KUKURUZKA to I am the only: в
+[19:26:03] KUKURUZKA to I am the only: в
+[19:26:04] KUKURUZKA to I am the only: в
+[19:26:04] KUKURUZKA to I am the only: в
+[19:26:04] KUKURUZKA to I am the only: в
+[19:26:42] KUKURUZKA: да
+[19:26:44] I am the only: /adminmode
+[19:26:45] I am the only: !noclip
+[19:26:56] KUKURUZKA: !menu
+[19:27:01] KUKURUZKA to I am the only: эт что?
+[19:27:06] KUKURUZKA: !menu
+[19:27:15] KUKURUZKA to I am the only: что за дача Путина?
+[19:28:00] I am the only: /adminmode
+[19:28:01] I am the only: !noclip
+[19:28:39] I am the only: /jalien1
+[19:28:47] Client "Riψสz" connected.
+[19:28:47] I am the only: /buycuff1
+[19:29:11] I am the only: /DROP
+[19:29:38] I am the only: /adminmode
+[19:29:40] I am the only: !MENu
+[19:29:45] I am the only: !noclip
+[19:29:49] (TEAM) I am the only: !menu
+[19:29:50] I am the only brought KUKURUZKA
+[19:29:54] I am the only: !noclip
+[19:29:56] I am the only: /adminmode
+[19:29:58] I am the only: /adminmode
+[19:29:59] I am the only: /adminmode
+[19:30:04] I am the only: w1
+[19:30:07] I am the only: /adminmode
+[19:30:07] I am the only: /adminmode
+[19:30:12] I am the only: /adminmode
+[19:30:13] I am the only: /adminmode
+[19:30:16] I am the only: !noclip
+[19:30:17] I am the only: !noclip
+[19:30:19] I am the only: !noclip
+[19:30:20] I am the only: !noclip
+[19:30:23] I am the only: /adminmode
+[19:30:24] I am the only: /adminmode
+[19:30:29] I am the only: /adminmode
+[19:30:31] I am the only: !noclip
+[19:30:32] I am the only: !noclip
+[19:30:35] Client "Riss" connected.
+[19:31:11] I am the only killed KUKURUZKA using crossbow_bolt
+[19:31:16] I am the only: /drop
+[19:32:20] KUKURUZKA: пока
+[19:32:40] KUKURUZKA: /jalien4
+[19:32:56] I am the only: /drop
+[19:33:06] Dropped "I am the only" from server<STEAM_0:0:520909765>
+[19:33:16] Dropped "KUKURUZKA" from server<STEAM_0:1:420015395>
+[19:46:43] Client "lozik.228" connected.
+[19:58:25] Client "lozik.228" spawned in server <STEAM_0:0:554481376> (took 702 seconds).
+[20:02:05] Dropped "lozik.228" from server<STEAM_0:0:554481376>
+[20:28:38] Client "ℂ₳₮₳ŁẎŚ₮" connected.
+[20:38:18] Client "ℂ₳₮₳ŁẎŚ₮" spawned in server <STEAM_0:1:196906217> (took 580 seconds).
+[20:38:58] ℂ₳₮₳ŁẎŚ₮: !hud 2
+[20:39:01] ℂ₳₮₳ŁẎŚ₮: /hud 2
+[20:39:50] Dropped "ℂ₳₮₳ŁẎŚ₮" from server<STEAM_0:1:196906217>
+[20:40:08] Client "ℂ₳₮₳ŁẎŚ₮" connected.
+[20:40:39] Client "ℂ₳₮₳ŁẎŚ₮" spawned in server <STEAM_0:1:196906217> (took 31 seconds).
+[20:41:32] ℂ₳₮₳ŁẎŚ₮: /jc1
+[20:41:55] Dropped "ℂ₳₮₳ŁẎŚ₮" from server<STEAM_0:1:196906217>
+[20:42:08] Client "ℂ₳₮₳ŁẎŚ₮" connected.
+[20:42:39] Client "ℂ₳₮₳ŁẎŚ₮" spawned in server <STEAM_0:1:196906217> (took 31 seconds).
+[20:46:40] ℂ₳₮₳ŁẎŚ₮: So you got killed by me huh u mad ?? welp get my hack jk this is just a bind XXDDD
+[20:46:41] ℂ₳₮₳ŁẎŚ₮: love you :)))))))
+[20:46:41] ℂ₳₮₳ŁẎŚ₮: So you got killed by me huh u mad ?? welp get my hack jk this is just a bind XXDDD
+[20:46:42] ℂ₳₮₳ŁẎŚ₮: check out my friend's service ;) titanmods 
+[20:46:43] ℂ₳₮₳ŁẎŚ₮: check out my friend's service ;) titanmods 
+[20:46:44] ℂ₳₮₳ŁẎŚ₮: check out my friend's service ;) titanmods 
+[20:46:44] ℂ₳₮₳ŁẎŚ₮: check out my friend's service ;) titanmods 
+[20:46:45] ℂ₳₮₳ŁẎŚ₮: check out my friend's service ;) titanmods 
+[20:46:46] ℂ₳₮₳ŁẎŚ₮: love you :)))))))
+[20:46:47] ℂ₳₮₳ŁẎŚ₮: check out my friend's service ;) titanmods 
+[20:47:19] Dropped "ℂ₳₮₳ŁẎŚ₮" from server<STEAM_0:1:196906217>
+[20:51:19] Client "ℂ₳₮₳ŁẎŚ₮" connected.
+[20:52:16] Client "ℂ₳₮₳ŁẎŚ₮" spawned in server <STEAM_0:1:196906217> (took 57 seconds).
+[20:58:18] Dropped "ℂ₳₮₳ŁẎŚ₮" from server<STEAM_0:1:196906217>
+[21:05:19] Client "ℂ₳₮₳ŁẎŚ₮" connected.
+[21:06:14] Client "ℂ₳₮₳ŁẎŚ₮" spawned in server <STEAM_0:1:196906217> (took 55 seconds).
+[21:10:12] ℂ₳₮₳ŁẎŚ₮: /dropmoney 100000
+[21:11:15] Dropped "ℂ₳₮₳ŁẎŚ₮" from server<STEAM_0:1:196906217>
+[21:28:27] Client "knijo4ka" connected.
+[21:54:26] Client "Пакет" connected.
+[23:43:52] Client "MATH30" connected.
+[23:44:35] Client "MATH30" spawned in server <STEAM_0:1:117258430> (took 43 seconds).
+[23:44:56] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_militia/toilet.mdl
+[23:45:15] MATH30: /jc4
+[23:45:25] MATH30: /jc1
+[23:45:26] MATH30: /jc1
+[23:45:52] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/laundry_dryer001.mdl
+[23:45:59] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/laundry_dryer002.mdl
+[23:47:18] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_office/tv_plasma.mdl
+[23:47:21] MATH30<STEAM_0:1:117258430> spawned model models/props/cs_office/tv_plasma.mdl
+[23:47:26] MATH30<STEAM_0:1:117258430> spawned model models/maxofs2d/gm_painting.mdl
+[23:47:26] MATH30<STEAM_0:1:117258430> spawned model models/maxofs2d/gm_painting.mdl
+[23:47:26] MATH30<STEAM_0:1:117258430> spawned model models/maxofs2d/gm_painting.mdl
+[23:47:26] MATH30<STEAM_0:1:117258430> spawned model models/maxofs2d/gm_painting.mdl
+[23:47:27] MATH30<STEAM_0:1:117258430> spawned model models/maxofs2d/gm_painting.mdl
+[23:47:27] MATH30<STEAM_0:1:117258430> spawned model models/maxofs2d/gm_painting.mdl
+[23:47:30] MATH30<STEAM_0:1:117258430> spawned model models/weapons/w_rif_aug.mdl
+[23:47:40] MATH30<STEAM_0:1:117258430> spawned model models/weapons/w_rif_m4a1.mdl
+[23:47:56] MATH30<STEAM_0:1:117258430> spawned model models/weapons/w_snip_awp.mdl
+[23:48:24] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:48:43] MATH30<STEAM_0:1:117258430> spawned model models/props_c17/fence01b.mdl
+[23:48:47] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:49:12] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:49:21] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:49:50] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:50:12] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:50:24] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:50:25] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:51:13] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:51:32] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:51:38] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002f.mdl
+[23:51:49] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002f.mdl
+[23:52:11] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002f.mdl
+[23:52:27] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002f.mdl
+[23:52:28] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:52:45] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:53:34] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:53:43] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:53:54] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:54:05] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:54:16] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:54:29] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:54:37] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:54:44] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:54:51] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:54:57] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:55:01] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:55:11] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:55:19] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:55:32] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:55:48] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:55:58] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:56:09] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002b.mdl
+[23:56:22] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002a.mdl
+[23:56:29] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002a.mdl
+[23:56:34] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence002a.mdl
+[23:56:39] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:56:45] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:56:48] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:57:12] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence003b.mdl
+[23:57:18] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence003b.mdl
+[23:57:23] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence003b.mdl
+[23:57:34] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence003b.mdl
+[23:57:42] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence003b.mdl
+[23:57:56] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence003b.mdl
+[23:58:00] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence003b.mdl
+[23:58:05] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/exterior_fence003b.mdl
+[23:58:09] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:58:16] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002d.mdl
+[23:58:26] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:58:33] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:58:47] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:58:58] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+[23:59:02] MATH30<STEAM_0:1:117258430> spawned model models/props_wasteland/interior_fence002c.mdl
+<Logging continued in "data/ulx_logs/11-01-20.txt">

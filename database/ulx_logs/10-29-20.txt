@@ -1,0 +1,2217 @@
+<Logging continued from "data/ulx_logs/10-28-20.txt">
+[00:41:33] Client "Daruma csgorun.org" connected.
+[00:44:31] Client "Daruma csgorun.org" connected.
+[01:05:11] Client "Daruma csgorun.org" spawned in server <STEAM_0:1:184325360> (took 1240 seconds).
+[01:09:32] Dropped "Daruma csgorun.org" from server<STEAM_0:1:184325360>
+
+
+
+[06:05:58] New map: rp_downtown_v4_exl
+[09:57:07] Client "Штильц" connected.
+[09:57:52] Client "Штильц" spawned in server <STEAM_0:1:448448824> (took 45 seconds).
+[10:00:34] Dropped "Штильц" from server<STEAM_0:1:448448824>
+[10:29:36] Client "$Kæither" connected.
+[11:37:33] Client "Uriah" connected.
+[11:39:26] Client "Uriah" spawned in server <STEAM_0:0:442381390> (took 113 seconds).
+[11:40:23] Uriah: /jnarko1
+[11:41:19] Uriah: /buyent2
+[11:41:23] Uriah: /buymethr1
+[11:41:24] Uriah: /buymethr2
+[11:41:26] Uriah: /buymethr3
+[11:41:42] Uriah: /buymethr5
+[11:41:44] Uriah: /buymethr4
+[11:41:45] Uriah: /buymethr8
+[11:41:46] Uriah: /buymethr8
+[11:41:47] Uriah: /buymethr9
+[11:41:49] Uriah: /buymethr8
+[11:41:50] Uriah: /buymethr9
+[11:41:52] Uriah: /buymethr11
+[11:41:53] Uriah: /buymethr10
+[11:41:54] Uriah: /buymethr11
+[11:42:39] Client "I am the only" connected.
+[11:42:53] Uriah: /buymethr10
+[11:43:30] Uriah: /buymethr10
+[11:43:30] Uriah: /buymethr10
+[11:43:31] Uriah: /buymethr10
+[11:43:32] Uriah: /buymethr10
+[11:43:55] Uriah: /buyent1
+[11:44:19] Uriah<STEAM_0:0:442381390> spawned model models/hunter/misc/stair1x1inside.mdl
+[11:44:24] Uriah<STEAM_0:0:442381390> spawned model models/hunter/misc/stair1x1outside.mdl
+[11:44:38] Uriah<STEAM_0:0:442381390> spawned model models/hunter/misc/stair1x1.mdl
+[11:44:40] Uriah<STEAM_0:0:442381390> spawned model models/hunter/misc/stair1x1.mdl
+[11:45:17] Client "I am the only" spawned in server <STEAM_0:0:520909765> (took 158 seconds).
+[11:46:58] Uriah: /buymethr8
+[11:46:59] Uriah: /buymethr9
+[11:47:00] Uriah: /buymethr11
+[11:47:02] Uriah: /buymethr8
+[11:47:03] Uriah: /buymethr9
+[11:47:04] Uriah: /buymethr10
+[11:47:05] Uriah: /buymethr11
+[11:47:06] Uriah: /buymethr10
+[11:48:29] I am the only: /jnarko2
+[11:48:33] I am the only: /jnarko1
+[11:49:07] Uriah: рядом с банком
+[11:49:59] Uriah: /buymethr10
+[11:49:59] Uriah: /buymethr10
+[11:50:00] Uriah: /buymethr10
+[11:50:01] Uriah: /buymethr10
+[11:50:50] Uriah: тут
+[11:51:02] Uriah: вот банк как я думаю
+[11:51:13] Uriah: /buymethr5
+[11:51:16] Uriah: надень
+[11:51:20] Uriah: а то дамажить будет
+[11:51:47] Uriah: 2 этаж мой 1 этаж твой
+[11:51:54] Uriah: покупай двери
+[11:52:07] I am the only: /buymethz1
+[11:52:20] Uriah: /buymethr11
+[11:52:21] Uriah: /buymethr11
+[11:52:23] Uriah: /buymethr9
+[11:52:24] Uriah: /buymethr8
+[11:52:25] I am the only: /buymethz6
+[11:52:25] Uriah: /buymethr11
+[11:52:26] I am the only: /buymethz6
+[11:52:26] Uriah: /buymethr10
+[11:52:27] I am the only: /buymethz6
+[11:52:27] Uriah: /buymethr9
+[11:52:36] I am the only: /buymethz6
+[11:52:42] I am the only: /buymethz3
+[11:53:00] Uriah: /buymethr8
+[11:53:01] Uriah: /buymethr10
+[11:53:02] I am the only: /buymethz6
+[11:53:04] I am the only: /buymethz6
+[11:53:04] I am the only: /buymethz6
+[11:53:26] Uriah: /buymethz7
+[11:53:28] Uriah: /buymethz6
+[11:53:29] Uriah: /buymethz5
+[11:53:57] Uriah: /buymethz3
+[11:54:05] I am the only: /buymethz7
+[11:54:14] I am the only: /buymethz2
+[11:54:45] Uriah: /buymethz1
+[11:55:01] Uriah: /buymethz2
+[11:55:32] Uriah: /buymethz8
+[11:56:25] I am the only: ?
+[11:56:25] Uriah: как сделать металим этот?
+[11:56:34] Uriah: да
+[11:56:55] Uriah: у меня куплена морозилка, чёрная дыра, комбайн этот 
+[11:56:59] Uriah: и фильтр
+[11:57:06] Uriah: блять
+[11:57:09] Uriah: удалишь?
+[11:57:11] Uriah: дыру
+[11:57:26] Uriah: ок
+[11:57:37] I am the only: /buymethz6
+[11:58:14] Uriah: /buymethz6
+[11:59:06] Uriah: /buymethz7
+[11:59:06] Uriah: /buymethz7
+[11:59:07] Uriah: /buymethz7
+[11:59:08] Uriah: /buymethz7
+[11:59:09] Uriah: /buymethz7
+[11:59:09] Uriah: /buymethz7
+[11:59:10] Uriah: /buymethz7
+[11:59:11] Uriah: /buymethz7
+[11:59:12] Uriah: /buymethz7
+[11:59:12] Uriah: /buymethz7
+[11:59:13] Uriah: /buymethz7
+[11:59:14] Uriah: /buymethz7
+[11:59:14] Uriah: /buymethz7
+[11:59:15] Uriah: /buymethz7
+[11:59:58] Uriah: /buymethz7
+[11:59:59] Uriah: /buymethz7
+[11:59:59] Uriah: /buymethz7
+[12:00:00] Uriah: /buymethz7
+[12:00:01] Uriah: /buymethz7
+[12:00:02] Uriah: /buymethz7
+[12:00:02] Uriah: /buymethz7
+[12:00:03] Uriah: /buymethz7
+[12:00:04] Uriah: /buymethz7
+[12:00:05] Uriah: /buymethz7
+[12:00:05] Uriah: /buymethz7
+[12:00:06] Uriah: /buymethz7
+[12:00:07] Uriah: /buymethz7
+[12:00:08] Uriah: /buymethz7
+[12:00:08] Uriah: /buymethz7
+[12:00:58] Uriah: /buymethz7
+[12:00:59] Uriah: /buymethz7
+[12:01:00] Uriah: /buymethz7
+[12:01:00] Uriah: /buymethz7
+[12:01:01] Uriah: /buymethz7
+[12:01:02] Uriah: /buymethz7
+[12:01:03] Uriah: /buymethz7
+[12:01:32] Uriah: спс
+[12:01:51] I am the only: /buymethz5
+[12:01:52] I am the only: /buymethz5
+[12:01:53] Uriah: /buymethr10
+[12:01:53] I am the only: /buymethz5
+[12:01:54] I am the only: /buymethz5
+[12:01:54] Uriah: /buymethr10
+[12:01:54] Uriah: /buymethr10
+[12:01:55] Uriah: /buymethr10
+[12:02:53] I am the only: /buyent1
+[12:02:54] I am the only: /buyent2
+[12:02:55] Uriah: /buyent1
+[12:02:55] I am the only: /buyent1
+[12:02:56] I am the only: /buyent1
+[12:03:01] I am the only: /buyent1
+[12:03:22] Uriah: ок
+[12:04:27] I am the only: /buymethz6
+[12:04:29] I am the only: /buymethz6
+[12:04:29] I am the only: /buymethz6
+[12:05:22] Uriah: пон
+[12:05:52] I am the only: /buymethz6
+[12:05:53] I am the only: /buymethz6
+[12:06:06] I am the only: /buymethz6
+[12:06:21] I am the only: /buymethz6
+[12:07:16] Uriah: /buymethz5
+[12:07:49] Uriah: спс
+[12:07:52] Uriah: да
+[12:07:55] Uriah: успс
+[12:07:57] Uriah: спс
+[12:07:58] I am the only: /buymethz7
+[12:07:59] I am the only: /buymethz7
+[12:08:00] I am the only: /buymethz7
+[12:08:09] I am the only: /buymethz7
+[12:08:12] I am the only: /buymethz7
+[12:08:14] I am the only: /buymethz7
+[12:08:15] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[12:08:41] Uriah: оставлю потом
+[12:09:14] Uriah: /buymethz6
+[12:09:14] Uriah: /buymethz6
+[12:09:15] Uriah: /buymethz6
+[12:09:16] Uriah: /buymethz6
+[12:09:16] Uriah: /buymethz6
+[12:09:17] Uriah: /buymethz6
+[12:09:18] Uriah: /buymethz6
+[12:09:42] Uriah: /buymethz6
+[12:09:43] Uriah: /buymethz6
+[12:09:44] Uriah: /buymethz6
+[12:09:45] Uriah: /buymethz6
+[12:10:02] Uriah: /buymethz6
+[12:10:13] Uriah: /buymethz7
+[12:10:13] Uriah: /buymethz7
+[12:10:13] I am the only: /buymethz7
+[12:10:14] Uriah: /buymethz7
+[12:10:15] Uriah: /buymethz7
+[12:10:15] Uriah: /buymethz7
+[12:10:16] Uriah: /buymethz7
+[12:10:17] Uriah: /buymethz7
+[12:10:18] Uriah: /buymethz7
+[12:10:18] Uriah: /buymethz7
+[12:10:19] Uriah: /buymethz7
+[12:10:20] Uriah: /buymethz7
+[12:10:20] Uriah: /buymethz7
+[12:10:21] Uriah: /buymethz7
+[12:10:22] Uriah: /buymethz7
+[12:10:29] Uriah: /buymethr8
+[12:10:30] Uriah: /buymethr11
+[12:10:32] Uriah: /buymethr9
+[12:10:33] Uriah: /buymethr8
+[12:10:34] Uriah: /buymethr11
+[12:10:35] Uriah: /buymethr9
+[12:11:00] Uriah: /buymethr11
+[12:11:01] Uriah: /buymethr9
+[12:11:02] Uriah: /buymethr8
+[12:11:35] Uriah: /buymethz7
+[12:11:57] Uriah: /buymethr10
+[12:11:58] Uriah: /buymethr10
+[12:11:59] Uriah: /buymethr10
+[12:12:00] Uriah: /buymethr10
+[12:12:29] Uriah: чо те?
+[12:12:48] Uriah: ну вроде да
+[12:13:15] Uriah: /buymethr10
+[12:13:15] Uriah: /buymethr10
+[12:13:16] Uriah: /buymethr10
+[12:13:17] Uriah: /buymethr10
+[12:13:55] Uriah: /buymethr10
+[12:13:55] Uriah: /buymethr10
+[12:13:56] Uriah: /buymethr10
+[12:13:57] Uriah: /buymethr10
+[12:14:16] Uriah: надень костюм
+[12:14:30] Uriah: /buyent2
+[12:15:13] Uriah: /buymethz5
+[12:15:14] Uriah: /buymethz5
+[12:15:14] Uriah: /buymethz5
+[12:15:15] Uriah: /buymethz5
+[12:15:16] Uriah: /buymethz5
+[12:15:16] Uriah: /buymethz5
+[12:15:17] Uriah: /buymethz5
+[12:16:04] I am the only: Всё?
+[12:16:09] Uriah: нет ещё
+[12:16:11] I am the only: /buymethz5
+[12:16:20] I am the only: /buymethz5
+[12:16:30] I am the only: /buymethz6
+[12:16:32] I am the only: /buymethz6
+[12:16:33] I am the only: /buymethz6
+[12:16:48] I am the only: /buymethz6
+[12:16:50] I am the only: /buymethz6
+[12:16:51] I am the only: /buymethz6
+[12:17:06] I am the only: /buymoneyprinter1
+[12:17:46] Uriah: всё снимай
+[12:18:08] I am the only: /buymethz6
+[12:18:11] I am the only: /buymethz6
+[12:18:46] I am the only: /buymoneyprinter1
+[12:18:55] Uriah: /buymethz6
+[12:19:51] I am the only: /buymethz7
+[12:19:53] I am the only: /buymethz7
+[12:19:53] I am the only: /buymethz7
+[12:19:55] I am the only: /buymethz7
+[12:19:56] I am the only: /buymethz7
+[12:20:17] Uriah: /buymethz7
+[12:20:19] Uriah: /buymethz5
+[12:20:20] Uriah: /buymethz7
+[12:20:21] Uriah: /buymethz5
+[12:20:22] Uriah: /buymethz5
+[12:20:46] I am the only: /buymethz2
+[12:21:30] Uriah: /buymethr11
+[12:21:31] Uriah: /buymethr9
+[12:21:32] Uriah: /buymethr8
+[12:21:33] Uriah: /buymethr10
+[12:21:34] Uriah: /buymethr11
+[12:21:35] Uriah: /buymethr9
+[12:21:36] Uriah: /buymethr8
+[12:22:46] Uriah: /buymethz5
+[12:22:47] Uriah: /buymethz5
+[12:22:48] Uriah: /buymethz5
+[12:22:49] Uriah: /buymethz5
+[12:22:50] Uriah: /buymethz5
+[12:22:50] Uriah: /buymethz5
+[12:22:51] Uriah: /buymethz5
+[12:23:46] Uriah: хз баг наверно то что используют лабороторию 2 человека одновременно
+[12:24:07] I am the only: /buymethz5
+[12:24:09] I am the only: /buymethz5
+[12:24:09] I am the only: /buymethz5
+[12:24:29] Uriah: /buymethr10
+[12:24:30] Uriah: /buymethr10
+[12:24:30] Uriah: /buymethr10
+[12:24:31] Uriah: /buymethr10
+[12:24:32] Uriah: /buymethr10
+[12:25:28] I am the only: /buymethz6
+[12:25:30] I am the only: /buymethz6
+[12:26:00] I am the only: /buymethz6
+[12:26:01] I am the only: /buymethz6
+[12:26:02] I am the only: /buymethz6
+[12:26:04] Uriah: /buymethz6
+[12:26:05] Uriah: /buymethz6
+[12:26:06] Uriah: /buymethz7
+[12:26:07] Uriah: /buymethz6
+[12:26:08] Uriah: /buymethz7
+[12:26:09] Uriah: /buymethz7
+[12:26:10] Uriah: /buymethz7
+[12:26:16] Uriah: /buymethz6
+[12:26:18] Uriah: /buymethz7
+[12:26:33] Uriah: /buymethz6
+[12:26:33] Uriah: /buymethz7
+[12:26:34] Uriah: /buymethz7
+[12:26:35] Uriah: /buymethz7
+[12:26:36] Uriah: /buymethz7
+[12:27:08] I am the only: /buymethz7
+[12:27:10] I am the only: /buymethz7
+[12:27:10] I am the only: /buymethz7
+[12:27:11] I am the only: /buymethz7
+[12:27:14] I am the only: /buymethz7
+[12:27:16] I am the only: /buymethz7
+[12:27:17] I am the only: /buymethz7
+[12:27:18] I am the only: /buymethz7
+[12:27:48] I am the only: /buymethz7
+[12:27:48] Uriah: /buymethz7
+[12:27:49] Uriah: /buymethz7
+[12:27:49] I am the only: /buymethz7
+[12:27:49] Uriah: /buymethz7
+[12:27:50] I am the only: /buymethz7
+[12:27:50] I am the only: /buymethz7
+[12:27:50] Uriah: /buymethz7
+[12:27:51] I am the only: /buymethz7
+[12:27:51] Uriah: /buymethz7
+[12:27:52] Uriah: /buymethz7
+[12:27:52] I am the only: /buymethz7
+[12:27:53] Uriah: /buymethz7
+[12:27:53] I am the only: /buymethz7
+[12:27:53] Uriah: /buymethz7
+[12:27:54] I am the only: /buymethz7
+[12:27:54] Uriah: /buymethz7
+[12:27:55] I am the only: /buymethz7
+[12:27:55] Uriah: /buymethz7
+[12:27:56] Uriah: /buymethz7
+[12:28:27] Uriah: /buymethz7
+[12:28:27] Uriah: /buymethz7
+[12:28:28] Uriah: /buymethz7
+[12:28:29] Uriah: /buymethz7
+[12:28:49] I am the only: /buymethz7
+[12:28:53] I am the only: /buymethz7
+[12:28:54] I am the only: /buymethz7
+[12:28:55] I am the only: /buymethz7
+[12:29:38] I am the only: /buyent1
+[12:29:38] I am the only: /buyent3
+[12:29:40] I am the only: /buyent3
+[12:29:41] I am the only: /buyent3
+[12:29:42] I am the only: /buyent1
+[12:29:43] I am the only: /buyent3
+[12:29:43] I am the only: /buyent3
+[12:29:44] I am the only: /buyent1
+[12:29:45] I am the only: /buyent3
+[12:29:46] I am the only: /buyent1
+[12:29:48] I am the only: /buyent3
+[12:29:50] I am the only: /buyent3
+[12:29:53] I am the only: /buyent3
+[12:31:27] I am the only: /buymethz5
+[12:31:29] I am the only: /buymethz5
+[12:31:30] I am the only: /buymethz5
+[12:34:34] Client "вампир" connected.
+[12:35:40] I am the only: Я пойду сдам
+[12:35:54] Uriah: ок
+[12:37:19] I am the only: Я феникс коины фармлю
+[12:37:23] Uriah: ок
+[12:38:18] Uriah: 114к
+[12:38:46] Uriah: /dropweapon
+[12:38:50] Client "вампир" spawned in server <STEAM_0:0:423155927> (took 256 seconds).
+[12:38:57] Uriah: сломай в пизду всё
+[12:39:01] Uriah: сломай всё в пизду
+[12:39:14] Uriah: кстати откуда у тебя галил?
+[12:39:21] Uriah: где?ъ
+[12:39:38] Uriah: ГДЕ ВЗЯЛ?
+[12:39:50] Uriah: Где покупал?
+[12:39:59] Uriah: поняло
+[12:40:13] Uriah: /jcrim0
+[12:40:15] Uriah: /jcrim1
+[12:40:24] Uriah: /buyent2
+[12:40:49] Uriah: блять хочу золото спиздить
+[12:40:54] Uriah<STEAM_0:0:442381390> spawned model models/candy_01/candy_01.mdl
+[12:41:10] Uriah: ты забыл про пакетик
+[12:42:09] Uriah: дарова
+[12:42:15] вампир: дарова
+[12:42:30] Uriah: не буду сразу томить лицом к стенке
+[12:42:36] вампир: мм
+[12:42:43] Uriah: лицом к стене 1
+[12:42:49] Uriah: лицом к стене 2
+[12:42:57] вампир: я уже стене
+[12:43:01] Uriah: 500 долларов на пол
+[12:43:09] вампир: /dropmoney 500
+[12:43:18] Uriah: /dropmoney 500
+[12:43:21] Uriah: ладно это был тес
+[12:43:26] Uriah: тест на нормального игрока
+[12:43:29] Uriah: ты нормальный игрок
+[12:43:37] вампир: ты че как сф проверяешь 
+[12:44:06] Uriah: /dropweapon
+[12:44:53] вампир: /jc2
+[12:44:54] Uriah: майним)
+[12:47:27] I am the only: /buycold1
+[12:48:36] Uriah: /buyent2
+[12:48:58] I am the only: /kit wipe
+[12:49:30] Uriah: онлайна нету(
+[12:49:48] Uriah: хех
+[12:50:00] Uriah: коротко о том как я гуляю на карантине
+[12:50:14] Uriah: пойду к себе в синглплеер чтоли
+[12:50:20] Dropped "Uriah" from server<STEAM_0:0:442381390>
+[12:50:47] I am the only: /drop
+[12:50:53] Dropped "I am the only" from server<STEAM_0:0:520909765>
+[12:53:59] Client "GG.666" connected.
+[12:56:52] вампир: /jcrim1
+[12:57:52] вампир: /buymoneyprinter1
+[13:03:27] вампир: !menu
+[13:27:47] вампир: /dropmoney 50000
+[13:27:53] вампир: /dropmoney 2000
+[13:34:40] вампир: /buymoneyprinter1
+[13:39:29] вампир<STEAM_0:0:423155927> spawned model models/weapons/w_rif_m4a1.mdl
+[14:02:18] вампир: !menu
+[14:02:39] вампир: !menu
+[14:05:20] вампир<STEAM_0:0:423155927> spawned model models/weapons/w_stunbaton.mdl
+[14:07:46] вампир: /jc4
+[14:07:57] вампир: /jc2
+[14:08:53] вампир: /buywepmedium8
+[14:08:59] вампир: /dropweapon
+[14:09:08] вампир: /buywepmedium4
+[14:09:21] вампир: /dropweapon
+[14:09:42] вампир: /buywepmedium1
+[14:09:46] вампир: /dropweapon
+[14:10:36] вампир: /buywepmedium9
+[14:10:39] вампир: /buywepmedium5
+[14:10:48] вампир: /dropweapon
+[14:11:01] вампир: /buyatt6a
+[14:11:47] вампир: /dropweapon
+[14:11:56] вампир: /dropweapon
+[14:12:45] вампир: /jcrim0
+[14:12:48] вампир: /jcrim0
+[14:12:49] вампир: /jcrim0
+[14:13:17] вампир: /jc4
+[14:14:53] Client "OriOn*" connected.
+[14:20:51] Client "OriOn*" spawned in server <STEAM_0:1:100300468> (took 358 seconds).
+[14:28:13] вампир: /buyshipment Vector
+[14:28:39] OriOn*: /jc1
+[14:28:54] вампир: /dropweapon
+[14:28:57] вампир: /sellalldoors
+[14:29:00] Dropped "вампир" from server<STEAM_0:0:423155927>
+[14:29:04] OriOn*: /jc2
+[14:29:26] Client "LonBost ♿" connected.
+[14:30:23] OriOn*: /buywepeasy1
+[14:30:59] OriOn*<STEAM_0:1:100300468> spawned model models/hunter/misc/lift2x2.mdl
+[14:31:17] OriOn*: /buyam1
+[14:31:18] OriOn*: /buyam1
+[14:31:58] Dropped "OriOn*" from server<STEAM_0:1:100300468>
+[14:32:37] Client "LonBost ♿" spawned in server <STEAM_0:1:458416402> (took 191 seconds).
+[14:34:05] LonBost ♿: /jcrim1b
+[14:35:43] LonBost ♿: /buymoneyprinter1
+[14:38:18] LonBost ♿: /buymoneyprinter1
+[14:55:09] Client "teshi" connected.
+[14:59:41] LonBost ♿: /sellalldoors
+[14:59:45] Dropped "LonBost ♿" from server<STEAM_0:1:458416402>
+[15:00:02] Client "LonBost ♿" connected.
+[15:13:37] Client "_tutri_47" connected.
+[15:15:34] Client "**Dmitriy Ivanov**" connected.
+[15:15:39] Client "_tutri_47" spawned in server <STEAM_0:0:446999864> (took 122 seconds).
+[15:18:04] Client "Tigr" connected.
+[15:19:53] Client "**Dmitriy Ivanov**" spawned in server <STEAM_0:1:433532709> (took 259 seconds).
+[15:21:33] Client "Tigr" spawned in server <STEAM_0:0:189817073> (took 209 seconds).
+[15:24:51] Dropped "Tigr" from server<STEAM_0:0:189817073>
+[15:26:57] _tutri_47: /jcrim1
+[15:29:17] **Dmitriy Ivanov**: /jcrim3a
+[15:29:45] **Dmitriy Ivanov**: /sellalldoors
+[15:30:17] _tutri_47<STEAM_0:0:446999864> spawned model models/props_lab/blastdoor001c.mdl
+[15:30:43] _tutri_47<STEAM_0:0:446999864> spawned model models/props_lab/blastdoor001c.mdl
+[15:31:00] _tutri_47<STEAM_0:0:446999864> spawned model models/props_lab/blastdoor001c.mdl
+[15:31:29] _tutri_47<STEAM_0:0:446999864> spawned model models/props_c17/concrete_barrier001a.mdl
+[15:31:53] _tutri_47<STEAM_0:0:446999864> spawned model models/props_lab/blastdoor001a.mdl
+[15:31:59] _tutri_47<STEAM_0:0:446999864> spawned model models/props_lab/blastdoor001a.mdl
+[15:32:03] **Dmitriy Ivanov**: /votejpolice2a
+[15:32:17] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/exterior_fence003b.mdl
+[15:32:23] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/exterior_fence003b.mdl
+[15:32:35] **Dmitriy Ivanov**: /jpolice4f
+[15:32:41] **Dmitriy Ivanov**: /jalien1
+[15:33:03] **Dmitriy Ivanov**: /jnazi1
+[15:33:05] **Dmitriy Ivanov**: /jnazi4
+[15:33:54] **Dmitriy Ivanov**: Ещё
+[15:34:04] **Dmitriy Ivanov**: Эту отодвинь
+[15:34:18] **Dmitriy Ivanov**: Угусь
+[15:34:42] _tutri_47<STEAM_0:0:446999864> spawned model models/props_lab/blastdoor001a.mdl
+[15:34:52] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/exterior_fence003b.mdl
+[15:35:14] **Dmitriy Ivanov**: /jcrim3a
+[15:35:48] _tutri_47<STEAM_0:0:446999864> spawned model models/props_lab/blastdoor001a.mdl
+[15:36:01] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/exterior_fence003b.mdl
+[15:36:45] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/scarecrow/scarecrow.mdl
+[15:36:52] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/pumpkin_3/pumpkin_3_phys.mdl
+[15:37:10] _tutri_47<STEAM_0:0:446999864> spawned model models/props_c17/display_cooler01a.mdl
+[15:37:15] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[15:37:22] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/m_dead/m_dead.mdl
+[15:37:25] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/m_pump/m_pump.mdl
+[15:37:27] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/m_skel/m_skel.mdl
+[15:37:38] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x5.mdl
+[15:37:58] _tutri_47: /buymoneyprinter1
+[15:37:59] _tutri_47: /buymoneyprinter1
+[15:37:59] _tutri_47: /buymoneyprinter1
+[15:38:00] _tutri_47: /buymoneyprinter1
+[15:38:34] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x4.mdl
+[15:39:12] _tutri_47: /buyrech1
+[15:39:13] _tutri_47: /buyrech3
+[15:39:28] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/kerze/kerze.mdl
+[15:40:10] **Dmitriy Ivanov**: /kit starter
+[15:40:13] **Dmitriy Ivanov**: /kit wire
+[15:40:17] **Dmitriy Ivanov**: /kit were
+[15:40:21] **Dmitriy Ivanov**: /kit weri
+[15:41:08] **Dmitriy Ivanov**: /kit wipe
+[15:41:12] **Dmitriy Ivanov**: /kit wipe
+[15:41:14] Client "Uriah" connected.
+[15:41:26] _tutri_47<STEAM_0:0:446999864> spawned model models/props_junk/plasticcrate01a.mdl
+[15:41:33] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/misc/lift2x2.mdl
+[15:41:58] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x4.mdl
+[15:42:00] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:42:26] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate3x3.mdl
+[15:42:37] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:42:53] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:42:56] _tutri_47<STEAM_0:0:446999864> spawned model models/props_junk/plasticcrate01a.mdl
+[15:43:20] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:43:44] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/laundry_cart001.mdl
+[15:43:44] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:44:06] Client "Uriah" spawned in server <STEAM_0:0:442381390> (took 172 seconds).
+[15:44:35] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/laundry_cart001.mdl
+[15:44:47] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:45:54] Uriah: /jnarko1
+[15:46:02] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:46:03] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:46:03] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:46:17] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/misc/stair1x1.mdl
+[15:46:43] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[15:47:08] Uriah: привет
+[15:47:12] **Dmitriy Ivanov**: Да?Здравствуй
+[15:47:25] Uriah: можно с тобой дружить и у тебя пожить пожалуйста?
+[15:47:43] Uriah: спс
+[15:47:55] **Dmitriy Ivanov**: 5314
+[15:47:58] Uriah: понял
+[15:48:01] **Dmitriy Ivanov**: Или просто пиши мне
+[15:48:30] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate1x1.mdl
+[15:48:33] Uriah: можно на 2 этаже посидеть по выращивать?
+[15:48:33] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate1x2.mdl
+[15:48:54] Uriah: спс
+[15:49:02] Uriah: /buymethz2
+[15:49:03] Uriah: /buymethz3
+[15:49:23] Uriah: /buymethz1
+[15:49:36] Uriah: /buyent2
+[15:49:38] Uriah: /buyent1
+[15:49:56] Uriah: /buymethz6
+[15:49:57] Uriah: /buymethz7
+[15:50:10] Uriah: /buymethz6
+[15:50:42] **Dmitriy Ivanov**: /kit premium
+[15:51:14] **Dmitriy Ivanov**: /buymoneyprinter1
+[15:51:31] Uriah: /buymethz1
+[15:53:18] Uriah: /buymethr5
+[15:53:19] Uriah: /buymethr5
+[15:53:20] Uriah: /buymethr5
+[15:53:21] Uriah: /buymethr5
+[15:53:40] Uriah: /buymethr5
+[15:54:18] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x2x025.mdl
+[15:54:22] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:54:44] Uriah: /dropweapon
+[15:54:53] Uriah: /dropweapon
+[15:55:14] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/mechanics/solid_steel/step_beam_32.mdl
+[15:55:29] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate3x3.mdl
+[15:55:41] Uriah: /buymethz1
+[15:55:58] Uriah: /buymethz6
+[15:56:13] Uriah: /buymethz3
+[15:56:17] Uriah: /buymethz2
+[15:56:19] Uriah: /buymethz4
+[15:56:21] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:56:45] Uriah: /buymethz7
+[15:56:46] Uriah: /buymethz7
+[15:56:46] Uriah: /buymethz7
+[15:56:47] Uriah: /buymethz7
+[15:56:48] Uriah: /buymethz7
+[15:56:49] Uriah: /buymethz7
+[15:56:49] Uriah: /buymethz7
+[15:56:50] Uriah: /buymethz7
+[15:56:51] Uriah: /buymethz7
+[15:56:51] Uriah: /buymethz7
+[15:57:03] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:57:12] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:57:13] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:57:14] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:57:16] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:57:24] Uriah: /buymethz7
+[15:57:25] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:57:25] Uriah: /buymethz7
+[15:57:26] Uriah: /buymethz7
+[15:57:27] Uriah: /buymethz7
+[15:57:28] Uriah: /buymethz7
+[15:57:29] Uriah: /buymethz7
+[15:58:46] Uriah: /buymethz5
+[15:58:47] Uriah: /buymethz5
+[15:58:48] Uriah: /buymethz5
+[15:58:49] Uriah: /buymethz5
+[15:58:50] Uriah: /buymethz5
+[15:58:50] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:58:50] Uriah: /buymethz5
+[15:58:51] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:58:52] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:58:53] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:58:55] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:58:56] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:58:57] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:58:58] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:58:59] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:59:01] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:59:02] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:59:11] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[15:59:59] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:00:00] Uriah: /buymethz3
+[16:00:05] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:00:06] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:00:07] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:00:08] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:00:10] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:00:34] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:00:35] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:01:48] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:01:50] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x3x025.mdl
+[16:02:53] Uriah: /buymethz7
+[16:02:54] Uriah: /buymethz6
+[16:03:42] Uriah: /buymethz7
+[16:03:43] Uriah: /buymethz7
+[16:03:43] Uriah: /buymethz7
+[16:03:44] Uriah: /buymethz7
+[16:03:45] Uriah: /buymethz7
+[16:03:46] Uriah: /buymethz7
+[16:03:47] Uriah: /buymethz7
+[16:03:48] Uriah: /buymethz7
+[16:03:49] Uriah: /buymethz7
+[16:03:49] Uriah: /buymethz7
+[16:03:50] Uriah: /buymethz7
+[16:03:52] Uriah: /buymethz7
+[16:04:32] Uriah: /buymethz7
+[16:04:32] Uriah: /buymethz7
+[16:04:33] Uriah: /buymethz7
+[16:04:34] Uriah: /buymethz7
+[16:05:28] **Dmitriy Ivanov**: /dropmoney 4500
+[16:05:50] Uriah: /buymethz5
+[16:05:51] Uriah: /buymethz5
+[16:05:52] Uriah: /buymethz5
+[16:05:53] Uriah: /buymethz5
+[16:05:53] Uriah: /buymethz5
+[16:05:54] Uriah: /buymethz5
+[16:05:55] Uriah: /buymethz5
+[16:05:56] Uriah: /buymethz5
+[16:05:56] Uriah: /buymethz5
+[16:05:57] Uriah: /buymethz5
+[16:06:09] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/misc/stair1x1.mdl
+[16:06:27] Uriah: /buyent2
+[16:06:57] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/misc/stair1x1.mdl
+[16:07:00] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/misc/stair1x1.mdl
+[16:07:15] Uriah: /buymethz6
+[16:07:16] Uriah: /buymethz7
+[16:07:17] Uriah: /buymethz6
+[16:07:18] Uriah: /buymethz7
+[16:07:18] Uriah: /buymethz7
+[16:07:19] Uriah: /buymethz7
+[16:07:20] Uriah: /buymethz7
+[16:07:21] Uriah: /buymethz7
+[16:07:22] Uriah: /buymethz7
+[16:07:44] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x075x075.mdl
+[16:07:47] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x1x1.mdl
+[16:07:54] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x1x1.mdl
+[16:08:38] _tutri_47: /pm dmitriy го рыбу зарейдим
+[16:08:54] _tutri_47: н
+[16:09:03] **Dmitriy Ivanov**: /pm Данил_Грешный Приходи ко мне,обсудим это
+[16:10:37] **Dmitriy Ivanov**: /dropweapon
+[16:10:52] Uriah: /buymethz6
+[16:10:53] Uriah: /buymethz7
+[16:10:54] Uriah: /buymethz6
+[16:10:55] Uriah: /buymethz7
+[16:10:56] Uriah: /buymethz7
+[16:11:17] Uriah: /buymethz6
+[16:11:18] Uriah: /buymethz6
+[16:11:19] Uriah: /buymethz6
+[16:11:19] Uriah: /buymethz6
+[16:12:26] Uriah: /buymethz7
+[16:12:27] Uriah: /buymethz7
+[16:12:28] Uriah: /buymethz7
+[16:12:28] Uriah: /buymethz7
+[16:12:29] Uriah: /buymethz7
+[16:12:30] Uriah: /buymethz7
+[16:12:31] Uriah: /buymethz7
+[16:13:05] Uriah: дарова
+[16:13:40] Uriah: /buymethz7
+[16:13:41] Uriah: /buymethz7
+[16:13:42] Uriah: /buymethz7
+[16:13:43] Uriah: /buymethz7
+[16:13:44] Uriah: /buymethz7
+[16:13:44] Uriah: /buymethz7
+[16:13:45] Uriah: /buymethz7
+[16:13:49] Uriah: /buymethz7
+[16:14:59] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/interior_fence002d.mdl
+[16:15:16] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/interior_fence002d.mdl
+[16:15:30] _tutri_47<STEAM_0:0:446999864> spawned model models/props_wasteland/interior_fence002d.mdl
+[16:15:48] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x075x075.mdl
+[16:16:05] Uriah<STEAM_0:0:442381390> spawned model models/props_c17/display_cooler01a.mdl
+[16:16:20] Uriah: ВСМЫСЛЕ БЛЯТЬ 
+[16:16:44] Uriah: если что вор нихуя не даст
+[16:16:57] Client "I am the only" connected.
+[16:17:00] _tutri_47: /free
+[16:17:10] Uriah: /free
+[16:19:12] Client "I am the only" spawned in server <STEAM_0:0:520909765> (took 135 seconds).
+[16:19:43] Uriah: сьебался 1
+[16:19:45] Uriah: сьебался 2
+[16:19:51] Uriah: сьебался 3
+[16:19:52] _tutri_47 killed Uriah using player
+[16:19:58] Uriah: о да фри килл
+[16:20:23] _tutri_47: /drop
+[16:20:27] I am the only: /jsec1a
+[16:20:54] I am the only: /jkiller1a
+[16:21:00] I am the only: /jpolice4f
+[16:21:35] I am the only: /jcrim1
+[16:21:37] Uriah: блять не работает сборщик
+[16:21:55] Uriah: пиздец проебал деньги
+[16:22:15] Uriah: пиздуй нахуй гандон 
+[16:22:57] Uriah: /dropweapon
+[16:23:15] Uriah: чо те надо?
+[16:23:23] Uriah: что
+[16:23:31] Uriah: чо я те сделал блять чо те надо?
+[16:23:46] Uriah: ты мне по нон рп помоги 
+[16:23:56] Uriah: ну залети 
+[16:23:58] I am the only: /adminmode
+[16:24:00] I am the only: !noclip
+[16:24:17] Uriah: как эту хуиту продать? я торговцу даю он не даёт
+[16:24:22] Uriah: не продаётся
+[16:24:26] Uriah: аааааааааааааа
+[16:24:29] Uriah: спс
+[16:24:34] Uriah: /buymethz8
+[16:25:52] _tutri_47: /buyent3
+[16:25:54] _tutri_47: /buyent1
+[16:25:54] Uriah: пизда в - ушёл
+[16:25:55] _tutri_47: /buyent3
+[16:25:58] Uriah: и долбоёбы ломятся
+[16:26:00] _tutri_47: /drop
+[16:26:03] Uriah: /buyent2
+[16:26:07] Uriah: /buyent2
+[16:26:08] Uriah: /buyent2
+[16:26:08] I am the only: /buyent2
+[16:26:08] Uriah: /buyent2
+[16:26:09] Uriah: /buyent2
+[16:26:12] Uriah: спс
+[16:26:27] **Dmitriy Ivanov** killed Uriah using player
+[16:26:50] I am the only: Ахаха
+[16:27:13] Uriah: это моё
+[16:27:28] _tutri_47 killed Uriah using player
+[16:27:30] Uriah: ЭТО МОЁ ДАУН
+[16:27:36] Uriah: /OOC СУКА НУ ВСЁ ПИЗДА ТЕБЕ ХУЙЛО
+[16:27:39] I am the only: !noclip
+[16:27:41] _tutri_47: /drop
+[16:27:55] I am the only: /adminmode
+[16:27:57] Uriah killed I am the only using arccw_rpg7_heat
+[16:28:02] I am the only: /adminmode
+[16:28:03] I am the only: !noclip
+[16:28:06] Uriah killed **Dmitriy Ivanov** using arccw_rpg7_heat
+[16:28:14] I am the only: !noclip
+[16:28:19] Uriah: ща
+[16:28:22] I am the only: !menu
+[16:28:22] Uriah: /dropweapon
+[16:28:28] Uriah: да
+[16:28:28] I am the only: !menu
+[16:28:41] Uriah: в пизду рп хуйня на санд бокс пойду а ночью фармить, везде долбоёбы
+[16:28:44] I am the only jailed Uriah for 120 seconds
+[16:28:47] Dropped "Uriah" from server<STEAM_0:0:442381390>
+[16:28:51] I am the only: !noclip
+[16:29:31] I am the only: !noclip
+[16:30:25] I am the only: !noclip
+[16:30:34] I am the only: !noclip
+[16:30:54] I am the only: /me Достал травмат
+[16:30:56] I am the only: /adminmode
+[16:32:34] I am the only: /me Подлажил незаметно с4 человеку напроти
+[16:34:49] I am the only: /drop
+[16:35:50] I am the only: /buyent2
+[16:35:53] I am the only: /buyent3
+[16:35:54] I am the only: /buyent1
+[16:35:56] I am the only: /buyent3
+[16:35:57] I am the only: /buyent1
+[16:36:03] I am the only: /buyent3
+[16:36:04] I am the only: /buyent3
+[16:36:05] I am the only: /buyent3
+[16:36:05] I am the only: /buyent3
+[16:36:06] I am the only: /buyent3
+[16:36:07] I am the only: /buyent3
+[16:36:10] I am the only: /buyent3
+[16:36:13] I am the only: /buyent2
+[16:36:14] I am the only: /buyent3
+[16:36:15] I am the only: /buyent1
+[16:41:27] _tutri_47: /drop
+[16:41:35] _tutri_47: /sellalldoors
+[16:41:39] Dropped "_tutri_47" from server<STEAM_0:0:446999864>
+[16:44:37] I am the only: Lorenci
+[16:44:38] **Dmitriy Ivanov**: Dmitriy
+[16:48:33] **Dmitriy Ivanov**: /dropweapon
+[16:49:07] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[16:49:09] I am the only: /drop
+[16:49:37] I am the only: /buyent3
+[16:49:38] I am the only: /buyent1
+[16:49:39] **Dmitriy Ivanov**: /dropweapon
+[16:49:39] I am the only: /buyent3
+[16:49:50] I am the only: /DROP
+[16:52:58] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[16:52:58] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/mechanics/robotics/foot.mdl
+[16:52:58] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x025x025.mdl
+[16:52:58] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[16:54:03] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[16:54:03] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/mechanics/robotics/foot.mdl
+[16:54:03] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x025x025.mdl
+[16:54:03] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[16:54:38] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props/cs_office/sofa.mdl
+[16:54:41] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_c17/furniturecouch001a.mdl
+[16:54:49] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_c17/furniturecouch001a.mdl
+[16:57:07] **Dmitriy Ivanov**: Мигающий цвет вроде
+[16:59:16] **Dmitriy Ivanov**: Add Buddy
+[16:59:59] I am the only was killed by prop_physics
+[17:03:36] I am the only<STEAM_0:0:520909765> spawned model models/props_c17/canister02a.mdl
+[17:04:46] **Dmitriy Ivanov**: Да
+[17:04:57] I am the only was killed by prop_physics
+[17:06:17] **Dmitriy Ivanov**: !menu
+[17:06:34] **Dmitriy Ivanov** to admins: Я pREMIUM
+[17:07:59] I am the only<STEAM_0:0:520909765> spawned model models/pumpkin_3/pumpkin_3.mdl
+[17:08:52] **Dmitriy Ivanov** was killed by gmod_balloon
+[17:08:56] I am the only was killed by gmod_balloon
+[17:09:20] **Dmitriy Ivanov** was killed by gmod_balloon
+[17:10:35] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:10:37] I am the only: /drop
+[17:10:37] **Dmitriy Ivanov**: /me выбрал: 95
+[17:10:37] **Dmitriy Ivanov**: /roll 
+[17:10:43] I am the only: /me выбрал: 29
+[17:10:43] I am the only: /roll
+[17:10:44] **Dmitriy Ivanov** killed I am the only using player
+[17:10:58] **Dmitriy Ivanov**: /me выбрал: 27
+[17:10:58] **Dmitriy Ivanov**: /roll 
+[17:11:03] I am the only: /me выбрал: 66
+[17:11:03] I am the only: /roll
+[17:11:05] I am the only killed **Dmitriy Ivanov** using player
+[17:11:11] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:11:12] **Dmitriy Ivanov**: /me выбрал: 65
+[17:11:12] **Dmitriy Ivanov**: /roll 
+[17:11:13] I am the only: /drop
+[17:11:18] I am the only: /me выбрал: 94
+[17:11:18] I am the only: /roll
+[17:11:29] I am the only: /drop
+[17:11:29] **Dmitriy Ivanov**: /me выбрал: 90
+[17:11:29] **Dmitriy Ivanov**: /roll 
+[17:11:33] I am the only: /me выбрал: 19
+[17:11:33] I am the only: /roll
+[17:11:35] **Dmitriy Ivanov** killed I am the only using player
+[17:11:53] I am the only: /votejpolice2a
+[17:11:56] I am the only: /jpolice1
+[17:12:06] I am the only: /votejpolice2a
+[17:12:27] I am the only: /votejpolice2a
+[17:12:28] **Dmitriy Ivanov** killed I am the only using player
+[17:12:54] I am the only: /jpolice4f
+[17:13:00] I am the only: /jpolice2
+[17:13:11] I am the only: /votejpolice4
+[17:13:14] I am the only: /jpolice3
+[17:13:24] I am the only: /jpolice3
+[17:13:29] **Dmitriy Ivanov**: /me выбрал: 36
+[17:13:29] **Dmitriy Ivanov**: /roll 
+[17:13:33] I am the only: /me выбрал: 94
+[17:13:33] I am the only: /roll
+[17:13:39] **Dmitriy Ivanov**: /me выбрал: 7
+[17:13:39] **Dmitriy Ivanov**: /roll 
+[17:13:44] I am the only: /me выбрал: 85
+[17:13:44] I am the only: /roll
+[17:13:49] **Dmitriy Ivanov**: /me выбрал: 58
+[17:13:49] **Dmitriy Ivanov**: /roll 
+[17:13:52] I am the only: /me выбрал: 88
+[17:13:52] I am the only: /roll
+[17:13:59] **Dmitriy Ivanov**: /me выбрал: 6
+[17:13:59] **Dmitriy Ivanov**: /roll 
+[17:14:00] I am the only: /
+[17:14:02] I am the only: /me выбрал: 86
+[17:14:02] I am the only: /roll
+[17:14:04] I am the only killed **Dmitriy Ivanov** using player
+[17:14:14] **Dmitriy Ivanov**: /me выбрал: 45
+[17:14:14] **Dmitriy Ivanov**: /roll 
+[17:14:16] I am the only: /me выбрал: 38
+[17:14:16] I am the only: /roll
+[17:14:21] I am the only: /me выбрал: 88
+[17:14:21] I am the only: /roll
+[17:14:24] **Dmitriy Ivanov**: /me выбрал: 14
+[17:14:24] **Dmitriy Ivanov**: /roll 
+[17:14:29] **Dmitriy Ivanov**: /me выбрал: 60
+[17:14:29] **Dmitriy Ivanov**: /roll 
+[17:14:31] I am the only: /me выбрал: 29
+[17:14:31] I am the only: /roll
+[17:14:47] **Dmitriy Ivanov** killed I am the only using player
+[17:16:21] I am the only killed **Dmitriy Ivanov** using player
+[17:16:38] I am the only: /votejgover4
+[17:17:45] I am the only killed **Dmitriy Ivanov** using player
+[17:18:02] **Dmitriy Ivanov** killed I am the only using player
+[17:18:10] I am the only: /jpolice1
+[17:18:19] **Dmitriy Ivanov**: /jpolice4c
+[17:18:20] I am the only: /jpolice2
+[17:18:46] **Dmitriy Ivanov** killed I am the only using player
+[17:18:55] I am the only: /jpolice2
+[17:19:12] **Dmitriy Ivanov** killed I am the only using player
+[17:19:20] I am the only: /jpolice3
+[17:19:28] **Dmitriy Ivanov** killed I am the only using player
+[17:19:42] I am the only: /jpolice5
+[17:20:08] I am the only killed **Dmitriy Ivanov** using player
+[17:20:22] **Dmitriy Ivanov**: /jpolice4a
+[17:21:01] I am the only killed **Dmitriy Ivanov** using player
+[17:21:16] **Dmitriy Ivanov**: /jalien1a
+[17:21:31] **Dmitriy Ivanov**: /kit vip
+[17:21:34] **Dmitriy Ivanov**: /kit premium
+[17:22:41] **Dmitriy Ivanov** killed I am the only using arccw_melee_machete
+[17:22:51] I am the only killed **Dmitriy Ivanov** using player
+[17:23:07] **Dmitriy Ivanov**: /jhobo1b
+[17:23:42] I am the only killed **Dmitriy Ivanov** using player
+[17:24:48] I am the only: /DROP
+[17:25:14] **Dmitriy Ivanov**: /jalien3
+[17:26:33] I am the only killed **Dmitriy Ivanov** using player
+[17:27:37] **Dmitriy Ivanov**: /me Достал БоЛьШоЙ пистолет
+[17:27:42] I am the only killed **Dmitriy Ivanov** using stunstick
+[17:27:45] **Dmitriy Ivanov**: /me Masturbate
+[17:28:21] **Dmitriy Ivanov**: Я щас
+[17:29:02] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:29:04] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:29:08] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:29:29] **Dmitriy Ivanov**: /votejgover1
+[17:29:42] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_combine/breendesk.mdl
+[17:30:03] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_combine/breendesk.mdl
+[17:32:04] **Dmitriy Ivanov** killed I am the only using player
+[17:32:12] **Dmitriy Ivanov**: /kit vip
+[17:32:15] **Dmitriy Ivanov**: /kit premium
+[17:32:19] **Dmitriy Ivanov**: /buyent2
+[17:32:20] **Dmitriy Ivanov**: /buyent2
+[17:32:21] **Dmitriy Ivanov**: /buyent2
+[17:32:21] **Dmitriy Ivanov**: /buyent2
+[17:32:22] **Dmitriy Ivanov**: /buyent2
+[17:32:23] **Dmitriy Ivanov**: /buyent2
+[17:32:24] **Dmitriy Ivanov**: /buyent2
+[17:32:25] **Dmitriy Ivanov**: /buyent2
+[17:32:26] **Dmitriy Ivanov**: /buyent2
+[17:32:27] **Dmitriy Ivanov**: /buyent2
+[17:32:28] **Dmitriy Ivanov**: /buyent3
+[17:32:29] **Dmitriy Ivanov**: /buyent3
+[17:32:30] **Dmitriy Ivanov**: /buyent3
+[17:32:31] **Dmitriy Ivanov**: /buyent3
+[17:32:32] **Dmitriy Ivanov**: /buyent3
+[17:32:33] **Dmitriy Ivanov**: /buyent3
+[17:32:33] **Dmitriy Ivanov**: /buyent3
+[17:32:34] **Dmitriy Ivanov**: /buyent3
+[17:32:35] **Dmitriy Ivanov**: /buyent3
+[17:32:36] **Dmitriy Ivanov**: /buyent3
+[17:32:36] **Dmitriy Ivanov**: /buyent3
+[17:32:37] **Dmitriy Ivanov**: /buyent3
+[17:32:38] **Dmitriy Ivanov**: /buyent3
+[17:32:39] **Dmitriy Ivanov**: /buyent3
+[17:32:39] **Dmitriy Ivanov**: /buyent3
+[17:32:40] **Dmitriy Ivanov**: /buyent3
+[17:32:41] **Dmitriy Ivanov**: /buyent3
+[17:32:42] **Dmitriy Ivanov**: /buyent3
+[17:32:48] **Dmitriy Ivanov**: Стой
+[17:32:52] I am the only: /drop
+[17:33:21] **Dmitriy Ivanov** killed I am the only using player
+[17:33:41] I am the only killed **Dmitriy Ivanov** using player
+[17:33:55] **Dmitriy Ivanov**: /jpolice4c
+[17:34:02] **Dmitriy Ivanov**: /jpolice4c
+[17:34:18] **Dmitriy Ivanov**: Jr
+[17:34:19] **Dmitriy Ivanov**: Ок
+[17:44:21] Client "Штильц" connected.
+[17:45:02] Client "Штильц" spawned in server <STEAM_0:1:448448824> (took 41 seconds).
+[17:47:00] **Dmitriy Ivanov**: Посмотри в донате
+[17:47:07] **Dmitriy Ivanov**: :D
+[17:47:28] **Dmitriy Ivanov**: Создание свой профы
+[17:47:39] **Dmitriy Ivanov**: Я Dmitriy_Ivanod
+[17:47:40] **Dmitriy Ivanov**: Нет
+[17:47:46] **Dmitriy Ivanov**: Нужно обратиться к титану
+[17:47:54] **Dmitriy Ivanov**: 300
+[17:48:50] Штильц: че
+[17:48:51] **Dmitriy Ivanov** killed I am the only using player
+[17:49:12] Штильц: титан на жителей поставил
+[17:49:15] Штильц: сейчас за ТК отлетите нахуй
+[17:49:16] I am the only: /jc1
+[17:49:26] Штильц: и что
+[17:49:34] I am the only: 6
+[17:49:36] Штильц: это не значит что можно убивать рдмить 
+[17:49:48] Штильц: /jcrim3a
+[17:49:52] Штильц: Хеллоуин
+[17:50:06] Штильц: че
+[17:50:16] Штильц: 20 рулей
+[17:50:24] Штильц: у меня
+[17:50:50] Штильц: че
+[17:50:53] Штильц: лагает?
+[17:50:58] Штильц: шо лагаешь?
+[17:51:23] Штильц: какая инфузория
+[17:51:27] Штильц: че то знакомое
+[17:51:31] Штильц: но че это
+[17:51:33] Штильц: а
+[17:51:34] Штильц: да
+[17:51:35] Штильц: хахаах
+[17:51:37] Штильц: спермотозоид
+[17:51:57] Штильц: мне степендия пришла
+[17:52:00] Штильц: в размере 1064 рубля
+[17:52:13] Штильц killed **Dmitriy Ivanov** using player
+[17:52:21] Штильц: че такой косой блять
+[17:52:30] Штильц: че ебанулся
+[17:52:41] Штильц: мне через месяц еще 532 рубля придет
+[17:52:49] Штильц: тода мб дам
+[17:53:19] Штильц killed **Dmitriy Ivanov** using player
+[17:53:23] Штильц: зхахаха
+[17:53:37] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:53:38] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:53:39] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:53:40] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:53:42] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_dome360.mdl
+[17:53:45] **Dmitriy Ivanov** killed I am the only using player
+[17:53:55] Штильц: аххаахахах
+[17:53:58] Штильц: косоц бля
+[17:54:03] **Dmitriy Ivanov** killed Штильц using player
+[17:54:05] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/robotics/a3.mdl
+[17:54:15] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_c17/furnitureradiator001a.mdl
+[17:54:17] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props/cs_office/bookshelf1.mdl
+[17:54:19] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/robotics/a2.mdl
+[17:54:27] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/robotics/k3.mdl
+[17:54:29] Штильц: ?
+[17:54:30] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/robotics/k2.mdl
+[17:54:31] Штильц was killed by gmod_wheel
+[17:54:32] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/robotics/g2.mdl
+[17:54:36] **Dmitriy Ivanov** was killed by gmod_wheel
+[17:54:36] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/robotics/l3.mdl
+[17:54:47] **Dmitriy Ivanov**: /me выбрал: 42
+[17:54:47] **Dmitriy Ivanov**: /roll 
+[17:54:49] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/robotics/a3.mdl
+[17:54:56] Штильц: /me выбрал: 6
+[17:54:56] Штильц: /roll
+[17:55:04] Штильц killed **Dmitriy Ivanov** using player
+[17:55:25] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/robotics/a3.mdl
+[17:55:44] Штильц was killed by gmod_wheel
+[17:55:48] I am the only: !noclip
+[17:55:49] I am the only: !noclip
+[17:55:55] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/robotics/l3.mdl
+[17:56:08] Штильц killed I am the only using player
+[17:56:33] Штильц<STEAM_0:1:448448824> spawned model models/xeon133/slider/slider_stand_12x12x24.mdl
+[17:56:39] Штильц<STEAM_0:1:448448824> spawned model models/xeon133/slider/slider_stand_12x12x24.mdl
+[17:56:41] **Dmitriy Ivanov** was killed by prop_physics
+[17:56:58] Штильц was killed by gmod_wheel
+[17:57:15] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:28] I am the only<STEAM_0:0:520909765> spawned model models/hunter/plates/plate2x2.mdl
+[17:57:28] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[17:57:28] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/mechanics/robotics/foot.mdl
+[17:57:28] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x025x025.mdl
+[17:57:28] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[17:57:46] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[17:57:46] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/mechanics/robotics/foot.mdl
+[17:57:46] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x025x025.mdl
+[17:57:46] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[17:57:52] Client "✞_☢Satana☢_✞" connected.
+[17:58:38] Штильц: /jpolice4c
+[17:58:40] Штильц: /jpolice4b
+[17:59:04] Штильц: А?
+[17:59:14] Штильц was killed by prop_physics
+[17:59:17] **Dmitriy Ivanov** killed I am the only using player
+[18:00:25] Штильц: ахахаха
+[18:00:25] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/solid_steel/sheetmetal_box90_4.mdl
+[18:00:37] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/solid_steel/steel_beam45_3.mdl
+[18:00:38] Штильц: 996
+[18:00:59] Штильц: у него пинг 996 постоянно
+[18:01:03] Штильц: не уменьшается даже
+[18:01:13] Штильц: хахааха
+[18:01:27] Штильц: ща еще подниму тебе
+[18:01:39] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/solid_steel/steel_beam45_3.mdl
+[18:01:50] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[18:01:50] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/mechanics/robotics/foot.mdl
+[18:01:50] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x025x025.mdl
+[18:01:50] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[18:01:58] Штильц: поднимается)(
+[18:02:20] **Dmitriy Ivanov** killed Штильц using player
+[18:02:46] Штильц: еще?
+[18:03:06] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_angle180.mdl
+[18:04:18] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_angle180.mdl
+[18:04:21] Штильц killed **Dmitriy Ivanov** using player
+[18:04:42] I am the only: /DROP
+[18:04:57] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/scarecrow/scarecrow.mdl
+[18:05:03] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/pumpkin_3/pumpkin_3_phys.mdl
+[18:05:09] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_plate_curve360x2.mdl
+[18:05:28] Штильц was killed by prop_physics
+[18:05:51] **Dmitriy Ivanov** was killed by prop_physics
+[18:05:57] Штильц killed I am the only using player
+[18:06:26] **Dmitriy Ivanov** killed Штильц using player
+[18:08:15] I am the only<STEAM_0:0:520909765> spawned model models/xqm/cylinderx1big.mdl
+[18:08:32] **Dmitriy Ivanov**: /demote Штильц НеоДикватноэ павидэние
+[18:08:44] Штильц was killed by prop_physics
+[18:09:30] Штильц was killed by prop_physics
+[18:09:42] I am the only was killed by gmod_wheel
+[18:09:51] Штильц was killed by gmod_wheel
+[18:10:01] I am the only was killed by prop_physics
+[18:10:20] Штильц was killed by prop_physics
+[18:10:20] **Dmitriy Ivanov** was killed by prop_physics
+[18:10:37] **Dmitriy Ivanov** was killed by prop_physics
+[18:11:16] I am the only was killed by prop_physics
+[18:11:32] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_plate_curve2x2.mdl
+[18:11:39] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/solid_steel/sheetmetal_box90_4.mdl
+[18:11:41] **Dmitriy Ivanov** killed I am the only using player
+[18:11:56] I am the only<STEAM_0:0:520909765> spawned model models/props_phx/construct/metal_plate_curve2x2.mdl
+[18:12:11] **Dmitriy Ivanov** killed Штильц using player
+[18:12:18] I am the only<STEAM_0:0:520909765> spawned model models/mechanics/solid_steel/step_beam_16.mdl
+[18:12:19] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate6x6.mdl
+[18:12:35] I am the only<STEAM_0:0:520909765> spawned model models/hunter/misc/stair1x1outside.mdl
+[18:12:39] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate6x6.mdl
+[18:12:45] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate6x6.mdl
+[18:12:46] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate6x6.mdl
+[18:12:47] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate6x6.mdl
+[18:12:48] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate6x6.mdl
+[18:12:49] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate6x6.mdl
+[18:12:50] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate6x6.mdl
+[18:12:50] Штильц: обосралося?
+[18:12:55] Штильц: зачем
+[18:13:01] Штильц:  убрпи
+[18:13:04] Штильц: убери
+[18:13:11] Штильц: убери
+[18:13:14] Штильц: роад билодин
+[18:13:44] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:13:53] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/weaponstripper.mdl
+[18:14:07] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:14:09] **Dmitriy Ivanov** killed Штильц using player
+[18:14:22] **Dmitriy Ivanov**: /jbussiness1
+[18:14:29] I am the only<STEAM_0:0:520909765> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[18:14:30] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_phx/construct/windows/window_dome360.mdl
+[18:14:31] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_phx/construct/windows/window_dome360.mdl
+[18:14:32] Штильц: че
+[18:14:33] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_phx/construct/windows/window_dome360.mdl
+[18:14:33] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_phx/construct/windows/window_dome360.mdl
+[18:14:34] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_phx/construct/windows/window_dome360.mdl
+[18:14:35] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props_phx/construct/windows/window_dome360.mdl
+[18:14:57] I am the only<STEAM_0:0:520909765> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[18:15:00] I am the only was killed by prop_physics
+[18:15:06] **Dmitriy Ivanov** was killed by prop_physics
+[18:15:24] **Dmitriy Ivanov** was killed by prop_physics
+[18:15:41] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x025x025.mdl
+[18:15:42] Штильц: ой
+[18:15:43] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[18:15:49] Штильц: сорян
+[18:15:55] Штильц:  ну 10с
+[18:15:56] Штильц: 10 см
+[18:16:01] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[18:16:20] Штильц: опа
+[18:16:22] Штильц: ты тут?
+[18:16:26] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x075x025.mdl
+[18:16:29] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/weaponstripper.mdl
+[18:16:34] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:16:51] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:17:01] Штильц: аа
+[18:17:02] Штильц: ок
+[18:17:09] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:17:23] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:17:28] Штильц<STEAM_0:1:448448824> spawned model models/hunter/blocks/cube3x8x025.mdl
+[18:17:30] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:17:31] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:17:32] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:17:36] Штильц<STEAM_0:1:448448824> spawned model models/hunter/blocks/cube3x8x025.mdl
+[18:17:41] Штильц<STEAM_0:1:448448824> spawned model models/hunter/blocks/cube3x8x025.mdl
+[18:17:45] Штильц<STEAM_0:1:448448824> spawned model models/hunter/blocks/cube3x8x025.mdl
+[18:17:48] **Dmitriy Ivanov** was killed by prop_physics
+[18:17:54] Client "sqezzee" connected.
+[18:18:27] Штильц: 5 см
+[18:19:05] Штильц killed I am the only using player
+[18:19:05] I am the only<STEAM_0:0:520909765> spawned model models/props_foliage/tree_poplar_01.mdl
+[18:19:10] Штильц: /drop
+[18:19:13] I am the only<STEAM_0:0:520909765> spawned model models/props_foliage/tree_poplar_01.mdl
+[18:19:21] I am the only<STEAM_0:0:520909765> spawned model models/props_wasteland/dockplank01b.mdl
+[18:19:25] I am the only<STEAM_0:0:520909765> spawned model models/props_wasteland/wheel01a.mdl
+[18:19:30] Штильц was killed by prop_physics
+[18:19:44] I am the only<STEAM_0:0:520909765> spawned model models/props_wasteland/wheel01.mdl
+[18:20:21] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x4x025.mdl
+[18:20:31] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x4x025.mdl
+[18:20:31] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x4x025.mdl
+[18:20:32] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x4x025.mdl
+[18:20:59] Штильц was killed by prop_physics
+[18:22:01] **Dmitriy Ivanov** was killed by prop_physics
+[18:23:04] **Dmitriy Ivanov** was killed by prop_physics
+[18:23:10] Client "sqezzee" spawned in server <STEAM_0:1:546970646> (took 316 seconds).
+[18:23:37] **Dmitriy Ivanov**: Встал
+[18:24:16] I am the only: !noclip
+[18:24:18] **Dmitriy Ivanov** was killed by prop_physics
+[18:24:21] I am the only: !noclip
+[18:24:52] I am the only was killed by prop_physics
+[18:24:59] I am the only: !noclip
+[18:25:01] I am the only: !noclip
+[18:25:39] Штильц: удалите
+[18:25:48] Штильц: удалите
+[18:26:16] I am the only: !menu
+[18:26:39] Штильц: /drop
+[18:26:54] Штильц: ?
+[18:26:57] Штильц: что
+[18:27:05] Штильц: ксс контент скачан?
+[18:27:18] Client "Андрюх" connected.
+[18:27:35] I am the only: /adminmode
+[18:27:36] I am the only: !noclip
+[18:27:41] I am the only: /adminmode
+[18:27:44] I am the only: !noclip
+[18:27:45] I am the only: !noclip
+[18:27:48] I am the only: !noclip
+[18:27:57] **Dmitriy Ivanov** killed I am the only using player
+[18:28:04] Штильц: нахуй вы на спавне
+[18:28:07] **Dmitriy Ivanov**: /dropweapon
+[18:28:09] I am the only killed **Dmitriy Ivanov** using crossbow_bolt
+[18:28:11] Client "Андрюх" spawned in server <STEAM_0:0:546805613> (took 53 seconds).
+[18:28:14] I am the only: /drop
+[18:28:20] Штильц to admins: человек новичок зашел он щас подумает рдм сервер
+[18:28:34] Штильц: /drop
+[18:28:55] **Dmitriy Ivanov**: /jhobo1b
+[18:29:01] **Dmitriy Ivanov**: /kit vip
+[18:29:02] Штильц: не
+[18:29:12] Андрюх: /hud 2
+[18:29:17] I am the only: !noclip
+[18:29:18] I am the only: !noclip
+[18:29:29] I am the only: !noclip
+[18:29:32] I am the only: !noclip
+[18:29:35] I am the only: /adminmode
+[18:29:36] I am the only: !noclip
+[18:29:43] Андрюх: /dropweapon
+[18:29:44] Dropped "sqezzee" from server<STEAM_0:1:546970646>
+[18:29:48] Андрюх: /dropweapon
+[18:30:36] Dropped "Андрюх" from server<STEAM_0:0:546805613>
+[18:30:36] Client "Андрюх" connected.
+[18:31:01] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube025x1x025.mdl
+[18:31:04] I am the only: !noclip
+[18:31:05] Client "Андрюх" spawned in server <STEAM_0:0:546805613> (took 29 seconds).
+[18:31:17] Штильц: сука
+[18:31:26] **Dmitriy Ivanov**: /dropweapon
+[18:31:27] Штильц: ноклип
+[18:31:29] Штильц: клок
+[18:31:31] Штильц: выруби
+[18:31:34] Штильц: клок выруби
+[18:31:35] I am the only: /adminmode
+[18:31:46] Штильц: скок
+[18:32:12] **Dmitriy Ivanov**: 2к
+[18:32:46] Штильц: нет
+[18:32:49] Штильц: это донат професси
+[18:32:55] Штильц: гос
+[18:33:00] Штильц: это гос
+[18:33:04] Штильц: это как супер солдат
+[18:33:13] I am the only: /adminmode
+[18:33:15] I am the only: !noclip
+[18:33:26] Dropped "Андрюх" from server<STEAM_0:0:546805613>
+[18:33:26] Client "Андрюх" connected.
+[18:33:42] **Dmitriy Ivanov**: /me Инсульт
+[18:33:50] **Dmitriy Ivanov**: /jgover3
+[18:33:55] Client "Андрюх" spawned in server <STEAM_0:0:546805613> (took 29 seconds).
+[18:34:01] I am the only: !menu
+[18:34:02] Client "系 hety 系 MinimalRP" connected.
+[18:34:05] I am the only brought **Dmitriy Ivanov**
+[18:34:05] **Dmitriy Ivanov**: /jalien1a
+[18:34:08] I am the only: !noclip
+[18:34:15] **Dmitriy Ivanov**: /jalien1a
+[18:34:18] I am the only: !noclip
+[18:34:41] I am the only: !noclip
+[18:34:44] Штильц: а как ты не горишь
+[18:34:53] Штильц: че ты не горишь
+[18:35:05] Штильц: это гей
+[18:35:25] Штильц: сука антон
+[18:35:44] Штильц: почему ты не горишь
+[18:35:44] Штильц: ало
+[18:36:02] Штильц: клокъ
+[18:36:06] I am the only: /adminmode
+[18:36:23] Штильц: как сидится
+[18:36:27] **Dmitriy Ivanov**: Нормально
+[18:36:31] **Dmitriy Ivanov**: Начальник
+[18:36:33] Штильц: за мной
+[18:36:37] **Dmitriy Ivanov**: Хочу на свободу в газову
+[18:36:42] I am the only: /adminmode
+[18:36:43] Штильц: сюда
+[18:36:49] I am the only: !noclip
+[18:36:57] I am the only: !noclip
+[18:37:17] Штильц: дор абуз
+[18:37:23] Штильц: !menu
+[18:37:36] Штильц: ну шо
+[18:37:37] Штильц: попался
+[18:37:38] Андрюх: /give 4000
+[18:37:40] **Dmitriy Ivanov**: +
+[18:37:44] Андрюх: /dropmoney 4000
+[18:38:14] I am the only: !noclip
+[18:38:20] I am the only: !MENU
+[18:38:24] I am the only brought Андрюх
+[18:38:25] I am the only: !noclip
+[18:38:27] I am the only: /adminmode
+[18:38:47] Андрюх: /dropmoney 200
+[18:38:48] **Dmitriy Ivanov**: Slap my hand
+[18:38:56] **Dmitriy Ivanov**: This is no't a trick
+[18:39:01] **Dmitriy Ivanov**: Slap it
+[18:39:03] Client "系 hety 系 MinimalRP" spawned in server <STEAM_0:1:501582033> (took 301 seconds).
+[18:39:08] Штильц killed I am the only using player
+[18:39:43] **Dmitriy Ivanov** killed I am the only using arccw_melee_machete
+[18:39:46] **Dmitriy Ivanov** killed Штильц using arccw_melee_machete
+[18:40:03] Штильц: да
+[18:40:12] Штильц: скучно
+[18:40:26] Штильц: все
+[18:40:27] Штильц: пока
+[18:40:34] I am the only: /adminmode
+[18:40:35] I am the only: /adminmode
+[18:40:36] Штильц: ухожу с сервера
+[18:40:43] Штильц: завтра зайду
+[18:40:49] Dropped "Штильц" from server<STEAM_0:1:448448824>
+[18:40:57] **Dmitriy Ivanov**: /give 100
+[18:41:02] Андрюх: /dropweapon
+[18:41:41] **Dmitriy Ivanov** killed Андрюх using arccw_melee_machete
+[18:41:58] **Dmitriy Ivanov** killed I am the only using arccw_melee_machete
+[18:42:26] 系 hety 系 MinimalRP: /hud 2
+[18:43:14] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/props_wasteland/wood_fence01a.mdl
+[18:43:43] 系 hety 系 MinimalRP: Брысь
+[18:43:44] I am the only: HI
+[18:43:46] I am the only: YTN
+[18:43:48] I am the only: NIT
+[18:43:48] (TEAM) 系 hety 系 MinimalRP: hi
+[18:44:52] Dropped "Андрюх" from server<STEAM_0:0:546805613>
+[18:44:52] Client "Андрюх" connected.
+[18:45:10] 系 hety 系 MinimalRP: nevery
+[18:45:14] 系 hety 系 MinimalRP: дай денег
+[18:45:20] Client "Андрюх" spawned in server <STEAM_0:0:546805613> (took 28 seconds).
+[18:45:22] I am the only: /give 1
+[18:45:28] 系 hety 系 MinimalRP: мало
+[18:45:31] 系 hety 系 MinimalRP: дай больше
+[18:45:35] I am the only: /give 2
+[18:45:39] 系 hety 系 MinimalRP: ооо
+[18:45:41] 系 hety 系 MinimalRP: много
+[18:45:47] 系 hety 系 MinimalRP: ещё в 2к раз больше даш
+[18:45:48] 系 hety 系 MinimalRP: пущу
+[18:45:57] I am the only: /give 2
+[18:46:09] 系 hety 系 MinimalRP: ещё 2 тысячи раз даш
+[18:46:12] 系 hety 系 MinimalRP: Ооооо
+[18:46:17] 系 hety 系 MinimalRP: снятие
+[18:46:21] 系 hety 系 MinimalRP: я кидаю демку
+[18:46:23] 系 hety 系 MinimalRP: ГГ
+[18:46:32] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/weapons/w_rif_m4a1.mdl
+[18:46:43] 系 hety 系 MinimalRP: руки верх
+[18:46:52] Андрюх<STEAM_0:0:546805613> spawned model models/props_lab/blastdoor001c.mdl
+[18:47:03] 系 hety 系 MinimalRP: ненадо
+[18:47:07] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/weapons/w_rif_m4a1.mdl
+[18:47:18] Андрюх<STEAM_0:0:546805613> spawned model models/props_lab/blastdoor001c.mdl
+[18:47:27] **Dmitriy Ivanov**: /kit gun3
+[18:47:37] 系 hety 系 MinimalRP: /kit admin
+[18:47:42] 系 hety 系 MinimalRP: /menu
+[18:47:45] 系 hety 系 MinimalRP: /ulx ban
+[18:47:51] 系 hety 系 MinimalRP: /ulx off +-@
+[18:47:56] 系 hety 系 MinimalRP: /ulx grabbed
+[18:48:00] 系 hety 系 MinimalRP: /droped
+[18:48:03] 系 hety 系 MinimalRP: вахахаха
+[18:48:05] 系 hety 系 MinimalRP: получилось
+[18:48:12] 系 hety 系 MinimalRP: нет
+[18:48:19] 系 hety 系 MinimalRP: хааххахаа
+[18:48:34] 系 hety 系 MinimalRP: он платинум
+[18:48:36] 系 hety 系 MinimalRP: ты модер
+[18:48:39] 系 hety 系 MinimalRP: никчёмные
+[18:48:59] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/props_lab/blastdoor001c.mdl
+[18:49:09] **Dmitriy Ivanov**: /dropweapon
+[18:49:11] 系 hety 系 MinimalRP: АпЧХи
+[18:49:20] 系 hety 系 MinimalRP:  ты геи
+[18:50:09] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/props_lab/blastdoor001a.mdl
+[18:50:25] Dropped "Андрюх" from server<STEAM_0:0:546805613>
+[18:50:25] Client "Андрюх" connected.
+[18:50:52] Client "Андрюх" spawned in server <STEAM_0:0:546805613> (took 27 seconds).
+[18:50:58] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/weapons/w_eq_fraggrenade_thrown.mdl
+[18:51:03] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/maxofs2d/cube_tool.mdl
+[18:51:03] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/maxofs2d/cube_tool.mdl
+[18:51:03] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/maxofs2d/cube_tool.mdl
+[18:51:04] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/maxofs2d/cube_tool.mdl
+[18:51:04] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/maxofs2d/cube_tool.mdl
+[18:51:04] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/maxofs2d/cube_tool.mdl
+[18:51:04] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/maxofs2d/cube_tool.mdl
+[18:51:04] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/maxofs2d/cube_tool.mdl
+[18:51:09] 系 hety 系 MinimalRP: сьебися
+[18:51:15] 系 hety 系 MinimalRP: сьебался
+[18:51:18] I am the only: /buyent2
+[18:51:19] I am the only: /buyent1
+[18:51:19] **Dmitriy Ivanov** killed 系 hety 系 MinimalRP using arccw_melee_machete
+[18:51:19] I am the only: /buyent2
+[18:51:20] I am the only: /buyent2
+[18:51:21] 系 hety 系 MinimalRP: хахахахаха
+[18:51:21] I am the only: /buyent1
+[18:51:22] I am the only: /buyent2
+[18:51:22] I am the only: /buyent2
+[18:51:42] I am the only: /DROP
+[18:51:42] I am the only killed 系 hety 系 MinimalRP using arccw_thr_semtex
+[18:51:55] **Dmitriy Ivanov** killed I am the only using player
+[18:52:31] 系 hety 系 MinimalRP: чё сука
+[18:52:33] 系 hety 系 MinimalRP: кто там пиздел
+[18:52:33] I am the only: ^
+[18:52:39] I am the only<STEAM_0:0:520909765> spawned model models/props_trainstation/trainstation_column001.mdl
+[18:52:42] I am the only<STEAM_0:0:520909765> spawned model models/props_trainstation/trainstation_column001.mdl
+[18:52:58] 系 hety 系 MinimalRP killed I am the only using arccw_rpg7_heat
+[18:53:18] Андрюх killed I am the only using player
+[18:53:34] Андрюх killed 系 hety 系 MinimalRP using player
+[18:54:19] I am the only was killed by prop_physics
+[18:54:26] 系 hety 系 MinimalRP killed Андрюх using player
+[18:54:37] I am the only<STEAM_0:0:520909765> spawned model models/props_lab/blastdoor001c.mdl
+[18:54:46] Андрюх: /dropweapon
+[18:55:01] Client "NikTIGErock" connected.
+[18:55:11] Андрюх killed 系 hety 系 MinimalRP using player
+[18:55:41] Client "Kokoune" connected.
+[18:55:52] **Dmitriy Ivanov**: /dropweapon
+[18:55:57] **Dmitriy Ivanov**: /dropweapon
+[18:55:58] 系 hety 系 MinimalRP killed Андрюх using rpg_missile
+[18:56:02] **Dmitriy Ivanov**: /dropweapon
+[18:56:08] **Dmitriy Ivanov**: /dropweapon
+[18:56:12] 系 hety 系 MinimalRP killed I am the only using rpg_missile
+[18:56:19] Андрюх killed 系 hety 系 MinimalRP using player
+[18:56:46] Андрюх killed 系 hety 系 MinimalRP using player
+[18:57:31] Client "NikTIGErock" spawned in server <STEAM_0:0:463307030> (took 150 seconds).
+[18:57:41] **Dmitriy Ivanov**: /kits
+[18:57:44] **Dmitriy Ivanov**: /kit 
+[18:57:55] **Dmitriy Ivanov**: /kit gun3
+[18:57:59] Андрюх killed I am the only using player
+[18:58:06] 系 hety 系 MinimalRP killed Андрюх using player
+[18:58:15] **Dmitriy Ivanov** killed 系 hety 系 MinimalRP using player
+[18:58:47] 系 hety 系 MinimalRP killed **Dmitriy Ivanov** using player
+[18:58:47] 系 hety 系 MinimalRP killed I am the only using player
+[18:59:01] **Dmitriy Ivanov**: /jcrim3a
+[18:59:16] 系 hety 系 MinimalRP killed NikTIGErock using player
+[18:59:18] 系 hety 系 MinimalRP killed Андрюх using player
+[18:59:21] I am the only: /drop
+[18:59:34] I am the only killed 系 hety 系 MinimalRP using rpg_missile
+[18:59:36] NikTIGErock: /nick NikTIGErock
+[18:59:45] I am the only killed Андрюх using rpg_missile
+[18:59:48] NikTIGErock: /rpname NikTIGErock
+[18:59:58] NikTIGErock: /jpolice4f
+[18:59:59] **Dmitriy Ivanov** killed 系 hety 系 MinimalRP using arccw_rpg7_heat
+[18:59:59] **Dmitriy Ivanov** killed Андрюх using arccw_rpg7_heat
+[19:00:22] **Dmitriy Ivanov** killed Андрюх using arccw_rpg7_heat
+[19:00:30] 系 hety 系 MinimalRP killed NikTIGErock using player
+[19:00:36] I am the only killed 系 hety 系 MinimalRP using rpg_missile
+[19:00:39] I am the only killed Андрюх using rpg_missile
+[19:00:50] Андрюх<STEAM_0:0:546805613> spawned model models/props_lab/blastdoor001c.mdl
+[19:01:27] 系 hety 系 MinimalRP killed **Dmitriy Ivanov** using player
+[19:01:28] 系 hety 系 MinimalRP killed I am the only using player
+[19:01:42] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:01:43] I am the only<STEAM_0:0:520909765> spawned model models/props_lab/blastdoor001a.mdl
+[19:01:55] **Dmitriy Ivanov** killed 系 hety 系 MinimalRP using rpg_missile
+[19:02:15] I am the only: /drop
+[19:02:44] 系 hety 系 MinimalRP killed **Dmitriy Ivanov** using player
+[19:03:56] I am the only: /adminmode
+[19:03:57] I am the only: !noclip
+[19:04:03] 系 hety 系 MinimalRP killed **Dmitriy Ivanov** using player
+[19:04:06] I am the only: !noclip
+[19:04:09] I am the only: !noclip
+[19:04:22] I am the only: !noclip
+[19:04:31] I am the only: !noclip
+[19:04:34] I am the only: !noclip
+[19:04:35] I am the only: !noclip
+[19:04:41] I am the only: !noclip
+[19:05:36] 系 hety 系 MinimalRP killed Андрюх using player
+[19:05:42] 系 hety 系 MinimalRP killed NikTIGErock using player
+[19:05:45] Андрюх: Andrey это я чел)
+[19:05:57] 系 hety 系 MinimalRP killed **Dmitriy Ivanov** using player
+[19:06:14] I am the only: !noclip
+[19:06:17] I am the only: /adminmode
+[19:06:19] I am the only: /adminmode
+[19:06:42] I am the only: !noclip
+[19:06:50] I am the only: !noclip
+[19:08:54] Андрюх<STEAM_0:0:546805613> spawned model models/props_lab/blastdoor001c.mdl
+[19:09:08] Андрюх<STEAM_0:0:546805613> spawned model models/props_lab/blastdoor001a.mdl
+[19:09:58] I am the only: !noclip
+[19:10:10] I am the only: !noclip
+[19:10:14] I am the only: !noclip
+[19:10:32] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x1x075.mdl
+[19:11:20] **Dmitriy Ivanov** killed NikTIGErock using rpg_missile
+[19:11:33] NikTIGErock: !noclip
+[19:11:39] I am the only: !noclip
+[19:11:40] **Dmitriy Ivanov** killed 系 hety 系 MinimalRP using rpg_missile
+[19:11:49] I am the only: !noclip
+[19:12:10] **Dmitriy Ivanov**: /dropweapon
+[19:12:16] NikTIGErock: !noclip
+[19:12:38] NikTIGErock: !menu
+[19:12:54] I am the only: !noclip
+[19:13:07] I am the only: !noclip
+[19:13:34] I am the only: /give 5000
+[19:13:42] I am the only: /give 5000
+[19:13:48] Dropped "系 hety 系 MinimalRP" from server<STEAM_0:1:501582033>
+[19:14:02] Андрюх: /dropmoney 1000
+[19:14:15] Андрюх: /give 4000
+[19:14:35] I am the only: !noclip
+[19:14:56] I am the only: !noclip
+[19:14:59] I am the only: !noclip
+[19:15:08] I am the only: !noclip
+[19:15:12] I am the only: !noclip
+[19:15:14] I am the only: !noclip
+[19:15:20] I am the only: !noclip
+[19:15:23] I am the only: !noclip
+[19:15:25] I am the only: !noclip
+[19:15:27] I am the only: !noclip
+[19:15:31] I am the only: !noclip
+[19:15:35] I am the only: !noclip
+[19:15:48] I am the only: !noclip
+[19:15:49] I am the only: !noclip
+[19:15:53] I am the only: !noclip
+[19:15:54] I am the only: !noclip
+[19:16:07] Андрюх to admins: TP
+[19:16:11] I am the only: !noclip
+[19:16:12] I am the only: !noclip
+[19:16:27] NikTIGErock: /adminmode 
+[19:16:34] Client "Kokoune" spawned in server <STEAM_0:1:559727756> (took 1253 seconds).
+[19:16:35] NikTIGErock: !noclip
+[19:16:47] NikTIGErock: !noclip
+[19:16:48] **Dmitriy Ivanov**: /dropweapon
+[19:16:57] Client "sqezzee" connected.
+[19:17:17] **Dmitriy Ivanov**: /dropweapon
+[19:17:18] I am the only: /adminmode
+[19:17:34] NikTIGErock: !noclip
+[19:17:35] I am the only: /drop
+[19:17:37] NikTIGErock: !noclip
+[19:17:38] NikTIGErock: !noclip
+[19:17:57] **Dmitriy Ivanov**: /jpolice4c
+[19:17:57] I am the only: /jcrim1
+[19:18:00] NikTIGErock: /jpolice1
+[19:18:03] I am the only: /buycuff1
+[19:18:09] NikTIGErock: /adminmode
+[19:18:32] Client "sqezzee" spawned in server <STEAM_0:1:546970646> (took 95 seconds).
+[19:18:37] I am the only: /buycuff1
+[19:18:47] I am the only: /buycuff1
+[19:19:01] I am the only: /buycuff1
+[19:19:05] I am the only: /buycuff1
+[19:19:40] I am the only: /buycuff1
+[19:21:43] (TEAM) Андрюх: поставь сного и введи пароль
+[19:21:54] sqezzee: /jcrim1
+[19:22:28] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:22:43] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:22:44] Андрюх killed I am the only using rpg_missile
+[19:22:45] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:22:54] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:22:54] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:22:55] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:22:56] NikTIGErock: !noclip
+[19:22:57] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:23:00] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:23:00] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:23:17] sqezzee: /jc2
+[19:23:21] Андрюх suicided!
+[19:23:23] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:23:23] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:23:24] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:23:36] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:23:41] sqezzee: /jnarko1
+[19:23:45] NikTIGErock: !noclip
+[19:23:52] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:23:53] sqezzee: /jc1
+[19:23:55] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:23:58] I am the only<STEAM_0:0:520909765> spawned model models/props_junk/wood_crate001a.mdl
+[19:24:57] I am the only killed **Dmitriy Ivanov** using arccw_thr_semtex
+[19:24:59] I am the only: /adminmode
+[19:24:59] Dropped "sqezzee" from server<STEAM_0:1:546970646>
+[19:25:01] I am the only: !noclip
+[19:25:04] I am the only: /drop
+[19:25:12] I am the only: !noclip
+[19:25:13] I am the only: /adminmode
+[19:25:30] I am the only<STEAM_0:0:520909765> spawned model models/props_lab/kennel_physics.mdl
+[19:25:32] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x2x1.mdl
+[19:25:59] I am the only suicided!
+[19:26:04] I am the only: !noclip
+[19:26:05] I am the only: !noclip
+[19:26:10] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/blocks/cube075x1x1.mdl
+[19:26:12] I am the only: !noclip
+[19:26:16] I am the only: !noclip
+[19:26:51] Dropped "I am the only" from server<STEAM_0:0:520909765>
+[19:28:07] NikTIGErock was killed by npc_monk
+[19:28:15] NikTIGErock: /jcrim1a
+[19:28:18] NikTIGErock: /jcrim2
+[19:28:25] **Dmitriy Ivanov**: /jcrim3a
+[19:28:25] NikTIGErock: asd
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:17] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:18] Андрюх to admins: HELLO BY ANDREY
+[19:29:25] Dropped "Андрюх" from server<STEAM_0:0:546805613>
+[19:29:25] Client "Андрюх" connected.
+[19:29:53] Client "Андрюх" spawned in server <STEAM_0:0:546805613> (took 28 seconds).
+[19:30:29] **Dmitriy Ivanov**: /kit vip
+[19:30:32] **Dmitriy Ivanov**: /kit premium
+[19:30:59] NikTIGErock: /ttp asdasd
+[19:31:03] Client "▰Angry▰Timur▰" connected.
+[19:31:14] NikTIGErock: /speed 10
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:31:45] Андрюх to admins: Hello BY Andrey
+[19:32:45] Client "▰Angry▰Timur▰" spawned in server <STEAM_0:0:431600296> (took 102 seconds).
+[19:34:04] Dropped "NikTIGErock" from server<STEAM_0:0:463307030>
+[19:34:58] Андрюх<STEAM_0:0:546805613> spawned model models/props/cs_militia/table_shed.mdl
+[19:34:59] Андрюх<STEAM_0:0:546805613> spawned model models/props/cs_militia/television_console01.mdl
+[19:35:03] Андрюх<STEAM_0:0:546805613> spawned model models/props_lab/huladoll.mdl
+[19:35:04] **Dmitriy Ivanov**: Почему вы такой быстрый?
+[19:35:12] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:35:16] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:35:23] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:35:27] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:35:32] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:35:38] ▰Angry▰Timur▰: /buymoneyprinter1
+[19:35:59] Андрюх: net_graph 1
+[19:36:50] **Dmitriy Ivanov**: Угусь
+[19:37:00] **Dmitriy Ivanov**: Немножечко поднялся
+[19:37:05] **Dmitriy Ivanov**: Буквально на секунду
+[19:37:16] Андрюх: точно поднялса 
+[19:37:17] **Dmitriy Ivanov**: Но у меня даже не игровой ноут
+[19:37:25] **Dmitriy Ivanov**: Ну тип на секунду стал 21
+[19:37:27] Андрюх: Сколько фпс щяс
+[19:37:27] **Dmitriy Ivanov**: А не 20
+[19:37:31] **Dmitriy Ivanov**: 20-21
+[19:37:34] **Dmitriy Ivanov**: Ой
+[19:37:38] **Dmitriy Ivanov**: 23-24
+[19:37:50] **Dmitriy Ivanov**: Хммм,шо ты делаешь?
+[19:37:58] **Dmitriy Ivanov**: У меня фпс понизился
+[19:38:00] **Dmitriy Ivanov**: До 14
+[19:38:05] **Dmitriy Ivanov**: Теперь поднялс
+[19:38:23] **Dmitriy Ivanov**: Что ты там шаманишь?!
+[19:38:27] **Dmitriy Ivanov**: :D
+[19:38:35] **Dmitriy Ivanov**: Всё?
+[19:38:46] Kokoune: /votejpolice4
+[19:38:59] Kokoune: /jpolice1
+[19:39:11] **Dmitriy Ivanov** killed Kokoune using player
+[19:39:17] Kokoune: /jc1
+[19:40:18] **Dmitriy Ivanov** killed ▰Angry▰Timur▰ using player
+[19:40:58] Dropped "Kokoune" from server<STEAM_0:1:559727756>
+[19:41:13] **Dmitriy Ivanov** killed ▰Angry▰Timur▰ using rpg_missile
+[19:41:35] **Dmitriy Ivanov** killed ▰Angry▰Timur▰ using rpg_missile
+[19:44:02] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_c17/lockers001a.mdl
+[19:44:09] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_c17/lockers001a.mdl
+[19:44:14] Dropped "Андрюх" from server<STEAM_0:0:546805613>
+[19:44:16] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_c17/lockers001a.mdl
+[19:44:33] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_c17/lockers001a.mdl
+[19:46:07] **Dmitriy Ivanov** killed ▰Angry▰Timur▰ using player
+[19:46:36] **Dmitriy Ivanov** killed ▰Angry▰Timur▰ using rpg_missile
+[19:46:55] **Dmitriy Ivanov** killed ▰Angry▰Timur▰ using rpg_missile
+[19:47:22] **Dmitriy Ivanov**: /give 5000
+[19:49:17] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_phx/misc/soccerball.mdl
+[19:50:03] **Dmitriy Ivanov**: /dropweapon
+[19:51:23] **Dmitriy Ivanov**: /kit gun3
+[19:51:49] **Dmitriy Ivanov** killed ▰Angry▰Timur▰ using arccw_thr_semtex
+[19:54:04] **Dmitriy Ivanov** killed ▰Angry▰Timur▰ using arccw_thr_semtex
+[19:55:29] **Dmitriy Ivanov**: /dropweapon
+[19:55:34] **Dmitriy Ivanov**: /dropweapon
+[19:55:37] **Dmitriy Ivanov**: /dropweapon
+[19:55:41] **Dmitriy Ivanov**: /dropweapon
+[19:55:45] **Dmitriy Ivanov**: /dropweapon
+[19:55:53] **Dmitriy Ivanov**: /dropweapon
+[19:57:40] **Dmitriy Ivanov**: /dropmoney 20000
+[19:59:13] Dropped "▰Angry▰Timur▰" from server<STEAM_0:0:431600296>
+[20:00:55] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x4.mdl
+[20:01:09] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x4.mdl
+[20:01:25] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/hunter/plates/plate2x2.mdl
+[20:10:16] **Dmitriy Ivanov**: /buymoneyprinter1
+[20:31:31] Client "F4LL3N" connected.
+[20:31:34] Client "SERDONR" connected.
+[20:33:55] Client "F4LL3N" spawned in server <STEAM_0:1:125704306> (took 144 seconds).
+[20:35:13] F4LL3N to admins: тп вопрос
+[20:35:29] F4LL3N: Набор прошел?
+[20:35:35] **Dmitriy Ivanov**: Так-с
+[20:35:39] **Dmitriy Ivanov**: Сейчас
+[20:35:45] F4LL3N: Я просто завку писал уже
+[20:35:59] F4LL3N: Я заходил когда тут титанов был
+[20:36:03] F4LL3N: Да слабо 
+[20:36:22] F4LL3N: Просто я давно очень писалцв
+[20:36:31] **Dmitriy Ivanov**: Может рассмотрит
+[20:36:36] **Dmitriy Ivanov**: Это нужно уточнять у него
+[20:36:45] **Dmitriy Ivanov**: Он бывает тут по выходным 
+[20:36:48] **Dmitriy Ivanov**: Чаще всего
+[20:37:13] **Dmitriy Ivanov**: Что-то ещё?
+[20:37:16] F4LL3N: Не 
+[20:37:21] F4LL3N: Тут так все изменилось
+[20:37:24] F4LL3N: +Спавн
+[20:37:31] **Dmitriy Ivanov**: Да,посмотрите на свой скин
+[20:37:40] **Dmitriy Ivanov**: Это вроде на время хеллуина
+[20:37:51] F4LL3N: Как 3 лицо сделтаь
+[20:37:52] **Dmitriy Ivanov**: Через камеру посмотрите на себя
+[20:37:55] **Dmitriy Ivanov**: Тут его НЕТ!
+[20:38:04] F4LL3N: ОО топ 
+[20:38:14] **Dmitriy Ivanov**: Хотите подарок?
+[20:38:19] **Dmitriy Ivanov**: Для быстрого старта
+[20:38:25] **Dmitriy Ivanov**: /sellalldoors
+[20:38:26] F4LL3N: Гл
+[20:38:33] **Dmitriy Ivanov**: Что?
+[20:38:36] **Dmitriy Ivanov**: Хотите или нет?
+[20:38:41] F4LL3N: Давайте
+[20:38:49] **Dmitriy Ivanov**: /give 50000
+[20:38:55] F4LL3N: ООО спасибо
+[20:39:23] **Dmitriy Ivanov**: /dropweapon
+[20:39:34] F4LL3N: /jpolice4f
+[20:39:37] F4LL3N: /jalien1
+[20:39:55] **Dmitriy Ivanov**: Удачи вам,если что пишите в // 
+[20:39:57] F4LL3N: Вы тут замистетиль?
+[20:40:02] **Dmitriy Ivanov**: Нет
+[20:40:09] **Dmitriy Ivanov**: Я просто знакомый создателя
+[20:40:09] F4LL3N: Модер?
+[20:40:15] **Dmitriy Ivanov**: Нет,я не модер
+[20:40:17] F4LL3N: Ааааа понятно 
+[20:40:18] **Dmitriy Ivanov**: И не админ
+[20:40:22] **Dmitriy Ivanov**: Я обычный игрок
+[20:40:23] Client "SERDONR" spawned in server <STEAM_0:1:557862957> (took 529 seconds).
+[20:40:27] **Dmitriy Ivanov**: Просто помогаю людям
+[20:40:30] F4LL3N: Я помню тут модер был
+[20:40:40] **Dmitriy Ivanov**: Ясно
+[20:40:42] **Dmitriy Ivanov**: Удачи вам
+[20:40:45] F4LL3N: Спасибо
+[20:41:07] F4LL3N: /jcrim1
+[20:41:26] F4LL3N: эТ мой друн
+[20:41:31] F4LL3N: Друг зашел
+[20:41:41] F4LL3N<STEAM_0:1:125704306> spawned model models/props_interiors/furniture_couch02a.mdl
+[20:41:45] **Dmitriy Ivanov**: Ясно,спасибо что приглашаете своих друзей к нам!
+[20:41:55] F4LL3N: /jc1
+[20:42:22] **Dmitriy Ivanov**: Сэр
+[20:42:29] **Dmitriy Ivanov**: Вам нужна помощь по городу?
+[20:42:39] F4LL3N: Да он бомж а то
+[20:42:45] **Dmitriy Ivanov**: Ну 
+[20:42:52] **Dmitriy Ivanov**: Я и предлагаю показать вам,что тут есть...
+[20:43:04] SERDONR: /jalien1
+[20:43:05] F4LL3N: Лан я спать 
+[20:43:08] F4LL3N: Завтра зайду
+[20:43:09] **Dmitriy Ivanov**: Хорошо
+[20:43:13] SERDONR: /jc2
+[20:43:13] F4LL3N: Он завтра будет в сети:
+[20:43:16] F4LL3N: ?
+[20:43:22] **Dmitriy Ivanov**: Приятных снов,сэр
+[20:43:27] **Dmitriy Ivanov**: Я не знаю,может быть
+[20:43:27] F4LL3N: Спасибо??
+[20:43:30] F4LL3N: )))
+[20:43:32] **Dmitriy Ivanov**: Но только с самого утра
+[20:43:36] F4LL3N: Ну,ок досвидание 
+[20:43:37] **Dmitriy Ivanov**: Скорей всего
+[20:43:43] **Dmitriy Ivanov**: Досвидания
+[20:43:47] Dropped "F4LL3N" from server<STEAM_0:1:125704306>
+[20:44:35] SERDONR: /buycold2
+[20:44:51] **Dmitriy Ivanov**: Нужна помощь?
+[20:44:57] **Dmitriy Ivanov**: Почему?
+[20:45:06] Client "Бантик" connected.
+[20:45:13] **Dmitriy Ivanov**: Да,так и есть
+[20:45:26] **Dmitriy Ivanov**: Но не жалейте меня,мне это в радость!
+[20:45:32] **Dmitriy Ivanov**: Приятных вам снов,сэр
+[20:45:49] **Dmitriy Ivanov**: К сожеленнию нет
+[20:46:07] **Dmitriy Ivanov**: Для этого есть отдельная профа
+[20:46:20] **Dmitriy Ivanov**: Да,но она не до конца дороботана
+[20:46:30] **Dmitriy Ivanov**: Маньяку,ничего при старте не даётся
+[20:46:39] **Dmitriy Ivanov**: Может,мне вам как-то помочь?
+[20:46:52] **Dmitriy Ivanov**: Например:деньгами или оружием
+[20:46:56] **Dmitriy Ivanov**: Да,конечно
+[20:48:07] **Dmitriy Ivanov**: Без проблем,сэр
+[20:48:38] **Dmitriy Ivanov**: И да,к слову.Создателем PhonexRP является-Titanovsky
+[20:49:02] **Dmitriy Ivanov**: А ГА,тоесть,главным-админом-Фюррер Уток
+[20:49:12] **Dmitriy Ivanov**: Или-же Александр_Штрассе
+[20:49:21] **Dmitriy Ivanov**: Как вам удобнее его называть,так и называйте
+[20:49:44] **Dmitriy Ivanov**: Хорошо,постарайтесь,если вам не трудно :)
+[20:50:18] **Dmitriy Ivanov**: Кхм
+[20:50:32] **Dmitriy Ivanov**: Ничего,всего вам наилучшего!
+[20:51:53] SERDONR<STEAM_0:1:557862957> spawned model models/weapons/w_rif_ak47.mdl
+[20:52:05] SERDONR<STEAM_0:1:557862957> spawned model models/props_c17/pulleywheels_small01.mdl
+[20:52:16] SERDONR<STEAM_0:1:557862957> spawned model models/props_wasteland/interior_fence003f.mdl
+[20:52:21] SERDONR<STEAM_0:1:557862957> spawned model models/props_wasteland/laundry_dryer001.mdl
+[20:54:01] SERDONR: Мне пора
+[20:54:24] SERDONR: спасибо за сервер
+[20:54:45] Client "Фюрер Уток [CR2066]" connected.
+[20:54:51] Dropped "SERDONR" from server<STEAM_0:1:557862957>
+[20:55:59] Client "Фюрер Уток [CR2066]" spawned in server <STEAM_0:0:103023757> (took 74 seconds).
+[20:56:40] **Dmitriy Ivanov**: Привет
+[20:56:55] **Dmitriy Ivanov**: Спят
+[20:57:13] **Dmitriy Ivanov**: Через камеру на себя 
+[20:57:15] **Dmitriy Ivanov**: Посмотри
+[20:57:31] **Dmitriy Ivanov**: В честь праздника
+[20:57:38] Фюрер Уток [CR2066]: /jpolice4f
+[20:57:40] Фюрер Уток [CR2066]: /jnazi4
+[20:57:48] **Dmitriy Ivanov**: Потом,завод исчез 
+[20:58:06] **Dmitriy Ivanov**: Теперь это просто здание
+[20:58:33] **Dmitriy Ivanov**: Супер-солдат и Божество
+[20:58:39] **Dmitriy Ivanov**: После рассмотрел донат
+[20:58:47] **Dmitriy Ivanov**: Титаниума больше вроде как нет
+[20:58:53] **Dmitriy Ivanov**: И да
+[20:59:00] **Dmitriy Ivanov**: Посмотри в список покупок )
+[20:59:22] **Dmitriy Ivanov**: Донат профу
+[20:59:28] **Dmitriy Ivanov**: Я наконец-то купил
+[20:59:40] **Dmitriy Ivanov**: Кого делать для C.W.T.C?
+[21:00:14] **Dmitriy Ivanov**: О,он так-же доделал маники
+[21:00:19] **Dmitriy Ivanov**: /buymoneyprinter1
+[21:00:37] Client "系 hety 系 MinimalRP" connected.
+[21:01:05] **Dmitriy Ivanov**: Доделал
+[21:01:13] **Dmitriy Ivanov**: Всё теперь работает
+[21:01:21] **Dmitriy Ivanov**: Окей )
+[21:01:27] **Dmitriy Ivanov**: NAG?
+[21:01:43] **Dmitriy Ivanov**: Это что-то по типу анархистов
+[21:01:47] Client "系 hety 系 MinimalRP" spawned in server <STEAM_0:1:501582033> (took 70 seconds).
+[21:01:53] **Dmitriy Ivanov**: Ну да
+[21:02:00] **Dmitriy Ivanov**: У меня и скины на все темы есть )
+[21:02:30] **Dmitriy Ivanov**: И да
+[21:02:44] **Dmitriy Ivanov**: Он исправил,то,что маньяк и потрошитель не могли выходить из метро
+[21:02:51] **Dmitriy Ivanov**: Да
+[21:03:01] **Dmitriy Ivanov**: И это радует...
+[21:03:23] Фюрер Уток [CR2066]: !menu
+[21:03:57] **Dmitriy Ivanov**: Это немного плохой человек
+[21:04:10] **Dmitriy Ivanov**: Использовать баги-это не очень правельно
+[21:04:17] **Dmitriy Ivanov**: Кхем
+[21:04:27] **Dmitriy Ivanov**: ..........Допустим
+[21:04:37] **Dmitriy Ivanov**: Я в этом не разбираюсь
+[21:04:50] Client "Тамара" connected.
+[21:04:54] **Dmitriy Ivanov**: Титан,ущёл в Rust
+[21:05:01] **Dmitriy Ivanov**: Упиваться с горя и рейдить людей
+[21:05:19] **Dmitriy Ivanov**: Не нужно
+[21:05:23] **Dmitriy Ivanov**: Продать тебе скрипты
+[21:05:35] **Dmitriy Ivanov**: Или что-то вроде этого
+[21:05:59] **Dmitriy Ivanov**: А,кстате
+[21:06:08] **Dmitriy Ivanov**: Тут челик спрашивал
+[21:06:14] **Dmitriy Ivanov**: Примут ли его XD
+[21:06:20] **Dmitriy Ivanov**: На пост хелпера
+[21:06:40] **Dmitriy Ivanov**: Ник не помню,щас в консоль зайду
+[21:06:57] **Dmitriy Ivanov**: [Dima_Ibyshev] Набор прошел?
+[21:07:11] 系 hety 系 MinimalRP:  !discord
+[21:07:25] **Dmitriy Ivanov**: В F4-ИНФО
+[21:08:05] 系 hety 系 MinimalRP: /dropmoney 22
+[21:08:18] **Dmitriy Ivanov**: Сижу тут уже час один
+[21:08:29] **Dmitriy Ivanov**: Люди заходят и выходят,чуть-ли не сразу
+[21:08:56] **Dmitriy Ivanov**: Приболел чтоль?
+[21:09:03] 系 hety 系 MinimalRP: /kit wipe
+[21:09:08] **Dmitriy Ivanov**: Ясно
+[21:09:17] Client "Тамара" spawned in server <STEAM_0:0:426732094> (took 267 seconds).
+[21:09:22] **Dmitriy Ivanov**: Мдам
+[21:09:29] **Dmitriy Ivanov**: Кейсы такая хуйня :D
+[21:10:14] Фюрер Уток [CR2066]: /jalien4
+[21:10:49] **Dmitriy Ivanov**: Агась
+[21:11:39] **Dmitriy Ivanov**: Многие считают,что я админ XD
+[21:11:40] Dropped "系 hety 系 MinimalRP" from server<STEAM_0:1:501582033>
+[21:11:40] Client "系 hety 系 MinimalRP" connected.
+[21:11:54] **Dmitriy Ivanov**: Здравствуйте,вам нужна какая-либо помощь?
+[21:11:58] Фюрер Уток [CR2066]: /tts Котлеты
+[21:12:03] Фюрер Уток [CR2066]: /tts Баба Валя
+[21:12:05] Client "系 hety 系 MinimalRP" spawned in server <STEAM_0:1:501582033> (took 25 seconds).
+[21:12:36] Client "Uriah" connected.
+[21:13:16] **Dmitriy Ivanov**: Добро пожаловать!В наш 'Raradies auf Deutsch'
+[21:13:36] Dropped "系 hety 系 MinimalRP" from server<STEAM_0:1:501582033>
+[21:13:37] Client "系 hety 系 MinimalRP" connected.
+[21:14:02] Client "系 hety 系 MinimalRP" spawned in server <STEAM_0:1:501582033> (took 25 seconds).
+[21:14:10] Client "Uriah" spawned in server <STEAM_0:0:442381390> (took 94 seconds).
+[21:14:58] **Dmitriy Ivanov**: Бабуль,за мной
+[21:15:01] Uriah: дарова нах позвал?
+[21:15:13] **Dmitriy Ivanov**: Бабуль...
+[21:15:22] **Dmitriy Ivanov**: Babushka
+[21:15:24] **Dmitriy Ivanov**: Пошли
+[21:15:36] **Dmitriy Ivanov**: Стойте
+[21:15:37] Uriah: почему я гуманоид ебаный?
+[21:15:38] **Dmitriy Ivanov**: Окей
+[21:15:45] Uriah: а
+[21:15:51] Uriah: хеллоуин забыл
+[21:15:51] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/chairs/armchair.mdl
+[21:16:03] **Dmitriy Ivanov**: /jpolice4c
+[21:16:17] Uriah: нет
+[21:16:31] Uriah: у меня тоже есть игрушка
+[21:16:43] Uriah: нету 
+[21:16:57] Uriah: вот я 2 раза выиграл
+[21:16:59] Uriah: 1 рпг
+[21:17:03] Uriah: другой пердёж моргенштерна
+[21:17:06] **Dmitriy Ivanov**: За мной,я покажу вам наш город
+[21:17:07] Uriah: который я проебал
+[21:17:10] Uriah: /dropweapon
+[21:17:17] **Dmitriy Ivanov**: Это малая часть
+[21:17:28] **Dmitriy Ivanov**: Помощь вам не нужна?
+[21:17:30] **Dmitriy Ivanov**: С деньгами?
+[21:17:33] Uriah: /jnarko1
+[21:17:38] **Dmitriy Ivanov**: Перегруппироваться!
+[21:17:42] **Dmitriy Ivanov**: Кхем
+[21:17:43] **Dmitriy Ivanov**: Хорошо
+[21:17:54] Uriah: ахахахах
+[21:17:56] **Dmitriy Ivanov**: У меня просто рация трезвонит,доброго дня
+[21:18:07] Uriah: АХЪАХХАХУАХХАВХА
+[21:18:12] Uriah: АХАААААААААААХАХАХХАХАХА
+[21:18:16] **Dmitriy Ivanov**: Бабка не хочет экскурсий
+[21:18:38] 系 hety 系 MinimalRP: /dropweapon
+[21:18:38] Uriah: го сломаем?
+[21:18:41] Client "LonBost ♿" connected.
+[21:18:55] Uriah: там ордер нужен
+[21:19:19] 系 hety 系 MinimalRP killed Uriah using arccw_rpg7_heat
+[21:19:32] Uriah: отпизди его к хуям *умер*
+[21:19:40] 系 hety 系 MinimalRP killed **Dmitriy Ivanov** using arccw_rpg7_heat
+[21:19:44] Uriah: я голоден
+[21:20:19] **Dmitriy Ivanov**: )
+[21:20:20] Uriah: ахахахха
+[21:20:28] Uriah: ХАХАХАХАХ
+[21:20:35] Uriah: ахзазазаухахзваъ
+[21:20:38] Uriah: аааааааааааааааааа
+[21:20:47] Uriah: Я ТАК ОРУ АХАХАХАХАХ
+[21:20:53] Uriah: ПХАВХПХАХПХАЪХ=АХЗААААААААААААА
+[21:20:55] Uriah: АХАХАХХАХАХ
+[21:21:01] Uriah: АЗАЗХВАХАХХААХХАХАХАХХА
+[21:21:01] **Dmitriy Ivanov**: /kit gun3
+[21:21:02] Client "LonBost ♿" spawned in server <STEAM_0:1:458416402> (took 141 seconds).
+[21:21:05] **Dmitriy Ivanov**: /kit vip
+[21:21:06] Uriah: АЗХАХХАХАХАХАХАХАЭАААААА
+[21:21:07] 系 hety 系 MinimalRP: У ВАС ПЕРАЖКИ ВКУСНЫЕ
+[21:21:07] **Dmitriy Ivanov**: /kit premium
+[21:21:10] 系 hety 系 MinimalRP: ОЧЕНЬ
+[21:21:12] Uriah: АХПАХАХВХЪАА
+[21:21:16] 系 hety 系 MinimalRP killed Uriah using arccw_rpg7_heat
+[21:21:16] 系 hety 系 MinimalRP killed Фюрер Уток [CR2066] using arccw_rpg7_heat
+[21:21:28] Фюрер Уток [CR2066]: !пщв
+[21:21:32] Фюрер Уток [CR2066] granted god mode upon Themself
+[21:21:32] Фюрер Уток [CR2066]: !god
+[21:21:36] **Dmitriy Ivanov** killed 系 hety 系 MinimalRP using rpg_missile
+[21:21:46] Uriah: когда не дали рубль
+[21:22:15] **Dmitriy Ivanov** killed 系 hety 系 MinimalRP using player
+[21:22:16] Uriah: согласен дай поесть я голоден!
+[21:22:28] Фюрер Уток [CR2066]: /me выкинул бабкины пирожки
+[21:22:29] **Dmitriy Ivanov** killed Uriah using npc_tripmine
+[21:22:30] Uriah: /me похавал
+[21:22:33] 系 hety 系 MinimalRP killed **Dmitriy Ivanov** using player
+[21:22:37] Фюрер Уток [CR2066] killed 系 hety 系 MinimalRP using player
+[21:22:56] Uriah: 10 часов бабка говорит пирожки
+[21:23:02] Uriah: ахахахахахах
+[21:23:15] LonBost ♿: /jcrim1b
+[21:23:17] Uriah: ХУЙ
+[21:23:27] Uriah: пирожки с хуем
+[21:23:33] Uriah: новый рецепт
+[21:23:39] **Dmitriy Ivanov**<STEAM_0:1:433532709> spawned model models/props/cs_office/sofa.mdl
+[21:23:43] Uriah: ЖРИ ПИРОЖКИ БЛЯТЬ
+[21:24:34] **Dmitriy Ivanov** killed 系 hety 系 MinimalRP using player
+[21:24:44] Uriah: у бабки есть в наличии
+[21:24:49] 系 hety 系 MinimalRP: /dropweapon
+[21:26:33] Uriah: я не гей
+[21:26:43] 系 hety 系 MinimalRP killed **Dmitriy Ivanov** using player
+[21:26:52] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[21:26:52] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[21:27:02] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[21:27:06] Uriah: нет я сексом с босом не занимался
+[21:27:11] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[21:27:37] Uriah: что я сделал
+[21:27:49] Uriah: это реклама
+[21:28:25] LonBost ♿ killed 系 hety 系 MinimalRP using player
+[21:29:14] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[21:29:14] **Dmitriy Ivanov**: /kit premium
+[21:29:16] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[21:29:16] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[21:29:19] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned sent amb_candy
+[21:30:04] Фюрер Уток [CR2066]: !noclip
+[21:30:43] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/hunter/misc/stair1x1.mdl
+[21:30:49] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/hunter/misc/stair1x1.mdl
+[21:30:53] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/hunter/misc/stair1x1.mdl
+[21:31:19] Uriah: /buyent2
+[21:31:20] Uriah: /buyent2
+[21:31:20] Uriah: /buyent2
+[21:31:21] Uriah: /buyent2
+[21:31:22] Uriah: /buyent2
+[21:31:31] LonBost ♿: /dropweapon
+[21:31:43] **Dmitriy Ivanov**: Вы открыли: Денежный Кейс #2Вам выпало: 1/10   ( 0$ )
+[21:32:02] 系 hety 系 MinimalRP: /dropweapon
+[21:32:08] Uriah: мент хуй
+[21:32:21] Uriah: мент хуй
+[21:32:23] Uriah: мент
+[21:32:24] Uriah: хуй
+[21:32:41] Uriah: /jhobo1
+[21:32:41] **Dmitriy Ivanov**: /sellalldoors
+[21:32:48] **Dmitriy Ivanov**: /sellalldoors
+[21:32:57] Dropped "系 hety 系 MinimalRP" from server<STEAM_0:1:501582033>
+[21:33:01] Client "系 hety 系 MinimalRP" connected.
+[21:33:27] Client "系 hety 系 MinimalRP" spawned in server <STEAM_0:1:501582033> (took 26 seconds).
+[21:33:49] **Dmitriy Ivanov** killed Uriah using player
+[21:34:13] Uriah: мент 
+[21:34:16] 系 hety 系 MinimalRP<STEAM_0:1:501582033> spawned model models/props_lab/blastdoor001c.mdl
+[21:34:18] Uriah: мент хуй
+[21:34:43] Dropped "系 hety 系 MinimalRP" from server<STEAM_0:1:501582033>
+[21:34:43] Client "系 hety 系 MinimalRP" connected.
+[21:34:52] Uriah: /buyent2
+[21:34:53] Uriah: /buyent2
+[21:34:54] Uriah: /buyent2
+[21:34:54] Uriah: /buyent2
+[21:34:55] Uriah: /buyent2
+[21:34:56] Uriah: /buyent2
+[21:34:57] Uriah: /buyent2
+[21:34:57] Uriah: /buyent2
+[21:35:05] Uriah: /buyent2
+[21:35:05] Uriah: /buyent2
+[21:35:06] Uriah: /buyent2
+[21:35:07] Uriah: /buyent2
+[21:35:09] Client "系 hety 系 MinimalRP" spawned in server <STEAM_0:1:501582033> (took 26 seconds).
+[21:35:29] Client "baybee cs.fail" connected.
+[21:35:58] Uriah: мент хуй
+[21:36:23] **Dmitriy Ivanov**: /kit vip
+[21:36:24] Uriah: мент хуй!
+[21:36:26] **Dmitriy Ivanov**: /kit gun3
+[21:36:26] Uriah: ты хуй
+[21:37:02] Uriah: мент хуй
+[21:37:08] Uriah: мент хуй
+[21:37:10] Dropped "系 hety 系 MinimalRP" from server<STEAM_0:1:501582033>
+[21:37:11] Client "系 hety 系 MinimalRP" connected.
+[21:37:18] Uriah: ты ху
+[21:37:25] Uriah: тупой хуй
+[21:37:35] Client "系 hety 系 MinimalRP" spawned in server <STEAM_0:1:501582033> (took 24 seconds).
+[21:37:43] Uriah: твои родители случайно не геи?
+[21:38:06] Dropped "Фюрер Уток [CR2066]" from server<STEAM_0:0:103023757>
+[21:38:17] **Dmitriy Ivanov** killed Uriah using arccw_thr_semtex
+[21:38:35] **Dmitriy Ivanov** killed Uriah using arccw_thr_semtex
+[21:38:35] Uriah: твои родители случайно не геи?
+[21:39:07] Uriah: писюн
+[21:39:11] LonBost ♿: /dropweapon
+[21:39:12] Uriah: писька
+[21:39:13] Uriah: ты хуй
+[21:39:30] Uriah: /me выебал хуя
+[21:40:28] **Dmitriy Ivanov** killed Uriah using player
+[21:40:34] Uriah: что я сделал?
+[21:41:04] **Dmitriy Ivanov**: Вас не слышно через стекло
+[21:41:11] **Dmitriy Ivanov** killed Uriah using player
+[21:41:26] (Console) banned steamid STEAM_0:1:501582033(系 hety 系 MinimalRP)  permanently ( fix)
+[21:41:26] Dropped "系 hety 系 MinimalRP" from server<STEAM_0:1:501582033>
+[21:42:10] Uriah: привет
+[21:42:22] Uriah: вижу через твои глаза
+[21:42:23] Uriah: ты хуй
+[21:42:27] LonBost ♿: /dropweapon
+[21:42:45] Uriah: ты в говне хуй
+[21:43:01] Uriah: ХУЙ
+[21:43:24] LonBost ♿: /sellalldoors
+[21:43:34] **Dmitriy Ivanov** killed Uriah using player
+[21:43:46] Uriah: я ебал твою маму
+[21:43:59] Uriah: АХАХАХАХАХА
+[21:44:18] **Dmitriy Ivanov**: /dropweapon
+[21:44:23] **Dmitriy Ivanov**: /dropweapon
+[21:44:29] **Dmitriy Ivanov**: /dropweapon
+[21:44:34] LonBost ♿ killed Uriah using arccw_rpg7_heat
+[21:44:38] Dropped "Uriah" from server<STEAM_0:0:442381390>
+[21:44:44] LonBost ♿ suicided!
+[21:46:15] (Console) banned steamid STEAM_0:0:442381390 permanently (Neadvekvat)
+[21:47:01] Dropped "LonBost ♿" from server<STEAM_0:1:458416402>
+[21:47:56] **Dmitriy Ivanov**: /dropweapon
+[21:48:21] **Dmitriy Ivanov**: /dropweapon
+[21:48:24] Dropped "Тамара" from server<STEAM_0:0:426732094>
+[21:48:29] **Dmitriy Ivanov**: /dropweapon
+[21:48:37] **Dmitriy Ivanov**: /dropweapon
+[21:48:44] **Dmitriy Ivanov**: /dropweapon
+[21:49:32] Dropped "**Dmitriy Ivanov**" from server<STEAM_0:1:433532709>
+[22:06:19] Client "петя 9 лет" connected.
+[22:07:42] Client "петя 9 лет" spawned in server <STEAM_0:1:532006201> (took 83 seconds).
+[22:09:13] Dropped "петя 9 лет" from server<STEAM_0:1:532006201>

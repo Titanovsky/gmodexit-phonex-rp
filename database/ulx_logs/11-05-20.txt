@@ -1,0 +1,37 @@
+[06:06:02] New map: rp_downtown_v4_exl
+[06:08:10] Client "Анимешник" connected.
+[06:09:28] Client "Анимешник" spawned in server <STEAM_0:1:163559456> (took 78 seconds).
+[06:40:58] Анимешник: /votejgover2
+[06:42:48] Анимешник: /votejcrim3
+[06:42:52] Анимешник: /jkiller1a
+[06:43:08] Анимешник: /jnarko2
+[06:43:10] Анимешник: /jnarko1
+[06:45:11] Анимешник: /buymethr1
+[06:45:37] Анимешник: /buymethr2
+[06:45:38] Анимешник: /buymethr3
+[06:46:45] Анимешник: /buymethr4
+[06:47:18] Анимешник: /buymethr11
+[06:47:19] Анимешник: /buymethr10
+[06:48:03] Анимешник: /buymethr8
+[06:48:05] Анимешник: /buymethr9
+[06:48:07] Анимешник: /buymethr10
+[06:48:09] Анимешник: /buymethr11
+[06:49:16] Dropped "Анимешник" from server<STEAM_0:1:163559456>
+[09:19:15] Client "sub xero noob" connected.
+[09:23:23] Client "M31" connected.
+[09:25:05] Client "sub xero noob" spawned in server <STEAM_0:0:119821219> (took 350 seconds).
+[09:27:39] Dropped "sub xero noob" from server<STEAM_0:0:119821219>
+[10:27:44] Client "Анимешник" connected.
+[10:28:57] Client "Анимешник" spawned in server <STEAM_0:1:163559456> (took 73 seconds).
+[10:29:51] Анимешник: /jc2
+[10:30:11] Анимешник: /buyshipment Vector
+[10:30:28] Анимешник: /buyshipment Winchester 1873
+[10:30:28] Анимешник: /buyshipment M1014
+[10:30:29] Анимешник: /buyshipment M1014
+[10:31:04] Анимешник: /dropweapon
+[10:31:13] Анимешник: /buyshipment M1014
+[10:31:41] Анимешник: /drop
+[10:32:56] Dropped "Анимешник" from server<STEAM_0:1:163559456>
+[13:12:59] Client "GLD" connected.
+[13:16:20] Client "GLD" spawned in server <STEAM_0:1:512630168> (took 201 seconds).
+[13:19:01] Dropped "GLD" from server<STEAM_0:1:512630168>

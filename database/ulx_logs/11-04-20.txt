@@ -1,0 +1,121 @@
+<Logging continued from "data/ulx_logs/11-03-20.txt">
+[03:09:20] Client "Анимешник" connected.
+[03:10:56] Client "Анимешник" spawned in server <STEAM_0:1:163559456> (took 96 seconds).
+[03:17:01] Анимешник: /jcrim0
+[03:17:30] Анимешник: /jpolice5
+[03:17:45] Анимешник: /jpolice2
+[03:22:52] Анимешник: /jcrim1
+[03:23:49] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate1x3.mdl
+[03:23:58] Анимешник<STEAM_0:1:163559456> spawned model models/mechanics/solid_steel/sheetmetal_box90_4.mdl
+[03:24:03] Анимешник<STEAM_0:1:163559456> spawned model models/mechanics/solid_steel/sheetmetal_box90_4.mdl
+[03:24:15] Анимешник: /buymoneyprinter1
+[03:24:17] Анимешник: /buymoneyprinter1
+[03:24:18] Анимешник: /buymoneyprinter1
+[05:05:45] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_office/sofa_chair.mdl
+[05:07:04] Анимешник<STEAM_0:1:163559456> spawned model models/props_interiors/pot02a.mdl
+[05:07:26] Анимешник<STEAM_0:1:163559456> spawned model models/props_interiors/pot01a.mdl
+[05:07:58] Анимешник<STEAM_0:1:163559456> spawned model models/props_interiors/pot01a.mdl
+[05:08:28] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_office/paperbox_pile_01.mdl
+[05:08:45] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/crate_large.mdl
+[05:08:47] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/crate_extrasmallmill.mdl
+[05:08:55] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/logpile2.mdl
+[05:09:11] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate2x2.mdl
+[05:09:12] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate1x2.mdl
+[05:09:25] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate1x1.mdl
+[05:09:50] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate1x1.mdl
+[05:12:00] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate1x1.mdl
+[05:13:20] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/table_shed.mdl
+[05:13:27] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_office/plant01.mdl
+[05:13:30] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_office/plant01.mdl
+[05:13:59] Анимешник<STEAM_0:1:163559456> spawned model models/props_lab/clipboard.mdl
+[05:14:13] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_office/tv_plasma.mdl
+[05:14:23] Анимешник<STEAM_0:1:163559456> spawned model models/props_junk/plasticcrate01a.mdl
+[05:14:53] Анимешник<STEAM_0:1:163559456> spawned model models/props_c17/furniturefireplace001a.mdl
+[05:18:12] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/gun_cabinet.mdl
+[05:18:29] Анимешник<STEAM_0:1:163559456> spawned model models/props_debris/metal_panel02a.mdl
+[05:18:56] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/footlocker01_closed.mdl
+[05:19:10] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/cinderblock_stack.mdl
+[05:19:14] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/cinderblock_stack.mdl
+[05:19:23] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/cinderblock_stack.mdl
+[05:19:50] Анимешник<STEAM_0:1:163559456> spawned model models/props_lab/monitor01a.mdl
+[05:20:00] Анимешник<STEAM_0:1:163559456> spawned model models/props_lab/harddrive02.mdl
+[05:20:12] Анимешник<STEAM_0:1:163559456> spawned model models/props_c17/computer01_keyboard.mdl
+[05:20:39] Анимешник<STEAM_0:1:163559456> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[05:20:54] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/table_shed.mdl
+[05:20:59] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/table_shed.mdl
+[05:22:05] Анимешник<STEAM_0:1:163559456> spawned model models/maxofs2d/gm_painting.mdl
+[05:22:29] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/barstool01.mdl
+[05:22:36] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/barstool01.mdl
+[05:22:42] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/barstool01.mdl
+[05:22:44] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/barstool01.mdl
+[05:22:48] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/barstool01.mdl
+[05:22:49] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/barstool01.mdl
+[05:23:23] Анимешник<STEAM_0:1:163559456> spawned model models/props_wasteland/exterior_fence002a.mdl
+[05:23:48] Анимешник<STEAM_0:1:163559456> spawned model models/props_wasteland/exterior_fence002a.mdl
+[05:23:56] Анимешник<STEAM_0:1:163559456> spawned model models/props_wasteland/interior_fence003f.mdl
+[05:24:26] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_office/paperbox_pile_01.mdl
+[05:24:44] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/crate_stackmill.mdl
+[05:24:55] Анимешник<STEAM_0:1:163559456> spawned model models/maxofs2d/gm_painting.mdl
+[05:25:38] Анимешник<STEAM_0:1:163559456> spawned model models/props_c17/pulleywheels_small01.mdl
+[05:25:40] Анимешник<STEAM_0:1:163559456> spawned model models/props_c17/pulleywheels_large01.mdl
+[05:26:28] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/crate_stackmill.mdl
+[05:26:43] Анимешник<STEAM_0:1:163559456> spawned model models/items/ammocrate_smg1.mdl
+[05:26:44] Анимешник<STEAM_0:1:163559456> spawned model models/items/ammocrate_rockets.mdl
+[05:26:46] Анимешник<STEAM_0:1:163559456> spawned model models/items/ammocrate_smg1.mdl
+[05:26:51] Анимешник<STEAM_0:1:163559456> spawned model models/props_trainstation/bench_indoor001a.mdl
+[05:27:03] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/crate_large.mdl
+[05:27:07] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/cinderblock_stack.mdl
+[05:27:10] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/logpile2.mdl
+[05:27:16] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/cinderblock_stack.mdl
+[05:27:23] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/cinderblock_stack.mdl
+[05:27:46] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate1x3.mdl
+[05:27:48] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate1x2.mdl
+[05:28:51] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate1x3.mdl
+[05:28:52] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate1x2.mdl
+[05:30:38] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate2x2.mdl
+[05:36:48] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_office/file_cabinet1.mdl
+[05:36:52] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_office/file_cabinet1.mdl
+[05:38:24] Анимешник<STEAM_0:1:163559456> spawned model models/props_lab/securitybank.mdl
+[05:38:46] Анимешник<STEAM_0:1:163559456> spawned model models/props_lab/workspace002.mdl
+[05:39:03] Анимешник<STEAM_0:1:163559456> spawned model models/props_phx/rt_screen.mdl
+[05:39:12] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_office/bookshelf1.mdl
+[05:39:22] Анимешник<STEAM_0:1:163559456> spawned model models/props_combine/breenchair.mdl
+[05:39:32] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/table_shed.mdl
+[05:39:51] Анимешник<STEAM_0:1:163559456> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[05:40:00] Анимешник<STEAM_0:1:163559456> spawned model models/props_wasteland/kitchen_counter001b.mdl
+[05:40:31] Анимешник<STEAM_0:1:163559456> spawned model models/props_interiors/sinkkitchen01a.mdl
+[05:40:46] Анимешник<STEAM_0:1:163559456> spawned model models/props_junk/metalbucket01a.mdl
+[05:40:58] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/nuclearcontrolbox.mdl
+[05:41:04] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/nucleartestcabinet.mdl
+[05:41:10] Анимешник<STEAM_0:1:163559456> spawned model models/props/de_nuke/nucleartestcabinet.mdl
+[05:41:28] Анимешник<STEAM_0:1:163559456> spawned model models/props/cs_militia/logpile2.mdl
+[05:41:40] Анимешник<STEAM_0:1:163559456> spawned model models/props_trainstation/tracksign02.mdl
+[05:41:42] Анимешник<STEAM_0:1:163559456> spawned model models/props_trainstation/tracksign02.mdl
+[05:41:44] Анимешник<STEAM_0:1:163559456> spawned model models/props_trainstation/tracksign02.mdl
+[05:41:47] Анимешник<STEAM_0:1:163559456> spawned model models/props_docks/channelmarker_gib02.mdl
+[05:42:25] Анимешник<STEAM_0:1:163559456> spawned model models/props_trainstation/trainstation_clock001.mdl
+[05:43:13] Анимешник<STEAM_0:1:163559456> spawned model models/mechanics/solid_steel/i_beam2_8.mdl
+[05:43:19] Анимешник<STEAM_0:1:163559456> spawned model models/mechanics/solid_steel/i_beam2_8.mdl
+[05:43:56] Анимешник<STEAM_0:1:163559456> spawned model models/mechanics/solid_steel/i_beam2_8.mdl
+[05:44:54] Анимешник<STEAM_0:1:163559456> spawned model models/mechanics/solid_steel/steel_beam45_3.mdl
+[05:45:33] Анимешник<STEAM_0:1:163559456> spawned model models/mechanics/solid_steel/steel_beam45_8.mdl
+[05:45:35] Анимешник<STEAM_0:1:163559456> spawned model models/mechanics/solid_steel/steel_beam45_4.mdl
+[05:45:50] Анимешник<STEAM_0:1:163559456> spawned model models/props_phx/rt_screen.mdl
+[05:50:36] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/blocks/cube025x1x025.mdl
+[05:50:39] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/blocks/cube025x2x025.mdl
+[05:53:35] Анимешник<STEAM_0:1:163559456> spawned model models/hunter/plates/plate025x150.mdl
+[05:55:57] Анимешник: /jnarko2
+[05:56:22] Анимешник: /jkiller1a
+
+
+
+[06:05:58] New map: rp_downtown_v4_exl
+[16:07:02] Client "NLigh" connected.
+[16:08:31] Client "NLigh" spawned in server <STEAM_0:0:463307030> (took 89 seconds).
+[16:12:10] NLigh: /adminmode
+[16:12:19] NLigh: !noclip
+[16:13:10] NLigh: !noclip
+[16:18:41] Dropped "NLigh" from server<STEAM_0:0:463307030>
+[19:01:08] Client "Анимешник" connected.
+[19:02:39] Client "Анимешник" spawned in server <STEAM_0:1:163559456> (took 91 seconds).
+[19:14:10] Dropped "Анимешник" from server<STEAM_0:1:163559456>

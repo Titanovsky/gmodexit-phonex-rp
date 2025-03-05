@@ -1,0 +1,584 @@
+[06:06:01] New map: rp_downtown_v4_exl
+[09:12:37] Client "Titanovsky" connected.
+[09:13:48] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 71 seconds).
+[10:49:13] Titanovsky<STEAM_0:1:95303327> spawned sent amb_drink_wine
+[10:51:45] Titanovsky<STEAM_0:1:95303327> spawned sent amb_drink_wine
+[10:51:47] Titanovsky<STEAM_0:1:95303327> spawned sent amb_drink_kvass
+[10:51:48] Titanovsky<STEAM_0:1:95303327> spawned sent amb_drink_beer
+[10:51:52] Titanovsky<STEAM_0:1:95303327> spawned sent amb_drink_beer
+[10:52:54] Titanovsky<STEAM_0:1:95303327> spawned sent amb_drink_kvass
+[10:53:30] Titanovsky<STEAM_0:1:95303327> spawned sent amb_drink_champagne
+[10:54:32] Titanovsky<STEAM_0:1:95303327> spawned sent amb_drink_wine
+[10:54:40] Titanovsky<STEAM_0:1:95303327> spawned sent amb_drink_vodka
+
+
+
+[10:56:07] New map: rp_downtown_v4_exl
+[11:28:26] Client "Titanovsky" connected.
+[11:28:47] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 21 seconds).
+[11:38:51] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[13:13:44] Client "-" connected.
+[13:18:47] Client "-" spawned in server <STEAM_0:1:502738437> (took 303 seconds).
+[13:20:33] -: /buycold1
+[13:20:49] Dropped "-" from server<STEAM_0:1:502738437>
+[13:23:58] Client "Idabkark" connected.
+[13:31:58] Client "Idabkark" spawned in server <STEAM_0:1:109601755> (took 480 seconds).
+[13:35:09] Idabkark: /jc2
+[13:36:07] Idabkark<STEAM_0:1:109601755> spawned model models/hunter/blocks/cube075x5x075.mdl
+[13:36:36] Idabkark<STEAM_0:1:109601755> spawned model models/hunter/plates/plate1x1.mdl
+[13:36:41] Idabkark<STEAM_0:1:109601755> spawned model models/hunter/plates/plate1x3.mdl
+[13:36:44] Idabkark<STEAM_0:1:109601755> spawned model models/hunter/plates/plate2x2.mdl
+[13:36:59] Idabkark<STEAM_0:1:109601755> spawned model models/hunter/plates/plate2x2.mdl
+[13:38:20] Idabkark<STEAM_0:1:109601755> spawned model models/props_wasteland/interior_fence002c.mdl
+[13:38:52] Idabkark<STEAM_0:1:109601755> spawned model models/props_c17/fence02a.mdl
+[13:39:16] Idabkark<STEAM_0:1:109601755> spawned model models/props_c17/fence01b.mdl
+[13:39:31] Idabkark<STEAM_0:1:109601755> spawned model models/props/cs_militia/fence_ranch.mdl
+[13:39:45] Idabkark<STEAM_0:1:109601755> spawned model models/props_lab/blastdoor001c.mdl
+[13:40:19] Idabkark<STEAM_0:1:109601755> spawned model models/props_lab/blastdoor001a.mdl
+[13:40:58] Idabkark: /buywepeasy1
+[13:41:15] Idabkark: /buyitembattery
+[13:41:16] Idabkark: /buyitembattery
+[13:41:21] Idabkark: /buyitembattery
+[13:41:34] Idabkark: /dropweapon
+[13:41:55] Idabkark: /jcrim1
+[13:42:21] Dropped "Idabkark" from server<STEAM_0:1:109601755>
+[15:33:02] Client "I am the only" connected.
+[15:35:16] Client "I am the only" spawned in server <STEAM_0:0:520909765> (took 134 seconds).
+[15:38:03] I am the only: /sellalldoors
+[15:38:39] I am the only: /jc4
+[15:39:18] I am the only: /jnarko1
+[15:41:01] I am the only: /drop
+[15:41:41] I am the only: /buymethr1
+[15:41:43] I am the only: /buymethr2
+[15:41:43] I am the only: /buymethr2
+[15:41:44] I am the only: /buymethr3
+[15:41:45] I am the only: /buymethr3
+[15:41:55] I am the only: /buymethr11
+[15:41:56] I am the only: /buymethr9
+[15:41:57] I am the only: /buymethr8
+[15:41:59] I am the only: /buymethr11
+[15:42:00] I am the only: /buymethr9
+[15:42:01] I am the only: /buymethr8
+[15:42:03] I am the only: /buymethr11
+[15:42:04] I am the only: /buymethr9
+[15:42:05] I am the only: /buymethr8
+[15:42:07] I am the only: /buymethr11
+[15:42:08] I am the only: /buymethr9
+[15:42:09] I am the only: /buymethr8
+[15:42:11] I am the only: /buymethr11
+[15:42:12] I am the only: /buymethr9
+[15:42:13] I am the only: /buymethr8
+[15:43:03] I am the only: /buymethr8
+[15:43:13] I am the only: /buymethr4
+[15:43:21] I am the only: /buymethr10
+[15:43:22] I am the only: /buymethr10
+[15:43:22] I am the only: /buymethr10
+[15:43:23] I am the only: /buymethr10
+[15:43:24] I am the only: /buymethr10
+[15:43:25] I am the only: /buymethr10
+[15:43:25] I am the only: /buymethr10
+[15:43:26] I am the only: /buymethr10
+[15:43:27] I am the only: /buymethr10
+[15:43:40] I am the only: /buymethr10
+[15:43:41] I am the only: /buymethr10
+[15:44:23] I am the only: /buymethr10
+[15:44:46] I am the only<STEAM_0:0:520909765> spawned model models/props_c17/fence01a.mdl
+[15:45:53] I am the only: /buyent2
+[15:45:54] I am the only: /buyent2
+[15:45:54] I am the only: /buyent1
+[15:45:56] I am the only: /buyent2
+[15:49:06] I am the only: !noclip
+[15:49:07] I am the only: !noclip
+[15:49:19] I am the only: /buymethz1
+[15:49:37] I am the only: /buymethz3
+[15:49:38] I am the only: /buymethz2
+[15:50:33] I am the only: /buymethz6
+[15:50:35] I am the only: /buymethz6
+[15:50:36] I am the only: /buymethz6
+[15:51:30] I am the only: /buymethz7
+[15:51:31] I am the only: /buymethz7
+[15:51:32] I am the only: /buymethz7
+[15:51:33] I am the only: /buymethz7
+[15:51:35] I am the only: /buymethz7
+[15:51:38] I am the only: /buymethz7
+[16:00:39] I am the only: /buymethz6
+[16:00:40] I am the only: /buymethz6
+[16:00:41] I am the only: /buymethz6
+[16:01:48] I am the only: /buymethz7
+[16:07:42] I am the only: /buymethz6
+[16:08:33] I am the only: /buymethz7
+[16:08:35] I am the only: /buymethz7
+[16:08:36] I am the only: /buymethz7
+[16:08:40] I am the only: /buymethz7
+[16:08:42] I am the only: /buymethz7
+[16:08:44] I am the only: /buymethz7
+[16:09:13] I am the only: /buymethz7
+[16:09:15] I am the only: /buymethz7
+[16:09:16] I am the only: /buymethz7
+[16:10:02] I am the only: !noclip
+[16:10:03] I am the only: !noclip
+[16:10:10] I am the only: /buymethz5
+[16:10:11] I am the only: /buymethz5
+[16:10:12] I am the only: /buymethz5
+[16:10:12] I am the only: /buymethz5
+[16:10:18] I am the only: /buymethz5
+[16:10:19] I am the only: /buymethz5
+[16:10:21] I am the only: /buymethz5
+[16:10:29] I am the only: /buymethz5
+[16:10:30] I am the only: /buymethz5
+[16:10:32] I am the only: /buymethz5
+[16:11:04] I am the only was killed by zmlab_filter
+[16:11:10] I am the only: !noclip
+[16:11:15] I am the only: !noclip
+[16:16:46] I am the only: /buymethz6
+[16:16:50] I am the only: /buymethz6
+[16:17:05] I am the only: /buymethz6
+[16:17:50] I am the only: /buymethz7
+[16:18:47] I am the only: /buymethz5
+[16:18:48] I am the only: /buymethz5
+[16:18:50] I am the only: /buymethz5
+[16:19:21] I am the only: !noclip
+[16:19:22] I am the only: !noclip
+[16:19:48] I am the only: /buyent2
+[16:19:49] I am the only: /buyent1
+[16:19:50] I am the only: /buyent2
+[16:19:51] I am the only: /buyent1
+[16:19:52] I am the only: /buyent1
+[16:19:53] I am the only: /buyent1
+[16:19:54] I am the only: /buyent1
+[16:22:24] Client "[HoD]Raper Syaka" connected.
+[16:25:45] I am the only: /drop
+[16:26:26] I am the only: /buymethz5
+[16:27:50] I am the only: /jcrim1
+[16:27:54] I am the only: /adminmode
+[16:27:55] I am the only: !noclip
+[16:28:19] I am the only: !noclip
+[16:28:23] I am the only: !noclip
+[16:28:24] I am the only: !noclip
+[16:28:29] I am the only: !noclip
+[16:28:32] I am the only: !noclip
+[16:28:35] I am the only: !noclip
+[16:28:36] I am the only: !noclip
+[16:28:39] I am the only: !noclip
+[16:28:40] I am the only: !noclip
+[16:28:49] I am the only: !noclip
+[16:28:50] I am the only: !noclip
+[16:28:52] I am the only: !noclip
+[16:28:54] I am the only: !noclip
+[16:28:58] I am the only: !noclip
+[16:28:58] I am the only: !noclip
+[16:30:22] I am the only: /DROP
+[16:30:37] I am the only: /DROP
+[16:30:38] I am the only: !noclip
+[16:30:39] I am the only suicided!
+[16:30:41] I am the only: !noclip
+[16:30:52] I am the only: /sellalldoors
+[16:30:52] Client "[HoD]Raper Syaka" connected.
+[16:30:53] I am the only: /adminmode
+[16:31:03] Client "[HoD]Raper Syaka" connected.
+[16:31:56] I am the only: /adminmode
+[16:31:56] I am the only: !noclip
+[16:31:58] I am the only: !noclip
+[16:32:20] I am the only: !noclip
+[16:32:31] I am the only: !noclip
+[16:32:32] I am the only: /adminmode
+[16:32:40] I am the only: /buyent3
+[16:32:42] I am the only: /buyent3
+[16:32:43] I am the only: /buyent1
+[16:32:44] I am the only: /buyent3
+[16:32:45] I am the only: /buyent1
+[16:32:46] I am the only: /buyent1
+[16:32:47] I am the only: /buyent3
+[16:32:49] I am the only: /buyent3
+[16:32:50] I am the only: /buyent3
+[16:32:51] I am the only: /buyent1
+[16:32:52] I am the only: /buyent3
+[16:32:53] I am the only: /buyent3
+[16:32:53] I am the only: /buyent3
+[16:32:54] I am the only: /buyent3
+[16:33:01] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x2x025.mdl
+[16:33:41] I am the only: /buymoneyprinter1
+[16:34:38] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x125x025.mdl
+[16:34:41] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x075x025.mdl
+[16:34:50] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x05x025.mdl
+[16:35:02] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x125x025.mdl
+[16:35:08] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x075x025.mdl
+[16:35:23] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x075x025.mdl
+[16:35:35] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x125x025.mdl
+[16:36:10] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube075x1x025.mdl
+[16:37:06] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x075x025.mdl
+[16:37:23] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x1x025.mdl
+[16:37:27] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x125x025.mdl
+[16:37:41] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube05x075x025.mdl
+[16:38:33] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x125x025.mdl
+[16:39:48] I am the only: /buymoneyprinter1
+[16:41:01] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x075x025.mdl
+[16:41:20] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube025x125x025.mdl
+[16:41:33] I am the only<STEAM_0:0:520909765> spawned model models/hunter/blocks/cube05x075x025.mdl
+[16:42:40] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/breendesk.mdl
+[16:42:54] I am the only<STEAM_0:0:520909765> spawned model models/props_lab/monitor01a.mdl
+[16:42:59] I am the only<STEAM_0:0:520909765> spawned model models/props_c17/computer01_keyboard.mdl
+[16:43:04] I am the only<STEAM_0:0:520909765> spawned model models/props_lab/citizenradio.mdl
+[16:43:19] I am the only<STEAM_0:0:520909765> spawned model models/props_lab/frame002a.mdl
+[16:43:26] I am the only<STEAM_0:0:520909765> spawned model models/props_lab/huladoll.mdl
+[16:43:41] I am the only<STEAM_0:0:520909765> spawned model models/props_lab/clipboard.mdl
+[16:43:52] I am the only<STEAM_0:0:520909765> spawned model models/props_combine/breenchair.mdl
+[16:44:20] I am the only<STEAM_0:0:520909765> spawned ragdoll models/mossman.mdl
+[16:45:39] I am the only<STEAM_0:0:520909765> spawned ragdoll models/mossman.mdl
+[16:46:14] I am the only<STEAM_0:0:520909765> spawned ragdoll models/gman_high.mdl
+[16:46:21] I am the only<STEAM_0:0:520909765> spawned ragdoll models/humans/group02/male_06.mdl
+[16:59:39] I am the only<STEAM_0:0:520909765> spawned ragdoll models/gibs/fast_zombie_legs.mdl
+[16:59:42] I am the only<STEAM_0:0:520909765> spawned ragdoll models/zombie/poison.mdl
+[17:00:23] I am the only<STEAM_0:0:520909765> spawned ragdoll models/zombie/classic.mdl
+[17:01:25] I am the only<STEAM_0:0:520909765> spawned ragdoll models/zombie/classic.mdl
+[17:03:05] I am the only<STEAM_0:0:520909765> spawned ragdoll models/manhack.mdl
+[17:03:43] I am the only<STEAM_0:0:520909765> spawned ragdoll models/zombie/classic.mdl
+[17:04:06] I am the only<STEAM_0:0:520909765> spawned ragdoll models/combine_super_soldier.mdl
+[17:04:52] I am the only<STEAM_0:0:520909765> spawned model models/weapons/w_mach_m249para.mdl
+[17:06:13] I am the only<STEAM_0:0:520909765> spawned ragdoll models/combine_soldier_prisonguard.mdl
+[17:07:30] I am the only<STEAM_0:0:520909765> spawned model models/weapons/w_rif_m4a1_silencer.mdl
+[17:10:02] I am the only: !noclip
+[17:10:12] I am the only: !noclip
+[17:10:14] I am the only: /adminmode
+[17:10:15] I am the only: /adminmode
+[17:11:16] I am the only: /adminmode 
+[17:11:18] I am the only: !noclip
+[17:11:18] I am the only: !noclip
+[17:11:19] I am the only: !noclip
+[17:11:20] I am the only: !noclip
+[17:11:21] I am the only: !noclip
+[17:11:23] I am the only: !noclip
+[17:11:28] I am the only: /adminmode 
+[17:11:51] I am the only: !noclip /adminmode
+[17:12:12] I am the only: !noclip
+[17:12:13] I am the only: !noclip
+[17:12:33] I am the only: /adminmode
+[17:12:38] I am the only: /adminmode
+[17:13:03] I am the only: /adminmode
+[17:13:04] I am the only: /adminmode
+[17:13:22] I am the only: !noclip
+[17:13:23] I am the only: !noclip
+[17:13:58] I am the only: !noclip
+[17:14:01] I am the only: !noclip
+[17:14:09] I am the only: !noclip
+[17:14:10] I am the only: !noclip
+[17:14:37] I am the only: !noclip and /adminmode
+[17:14:54] I am the only: !noclip
+[17:14:55] I am the only: !noclip
+[17:14:56] I am the only: /adminmode
+[17:14:57] I am the only: /adminmode
+[17:19:33] I am the only: /drop
+[17:19:44] I am the only: /drop
+[17:19:55] I am the only: !noclip
+[17:19:58] I am the only: !noclip
+[17:20:04] I am the only: !noclip
+[17:21:14] I am the only: !noclip
+[17:35:34] I am the only: /buyent3
+[17:35:35] I am the only: /buyent3
+[17:35:36] I am the only: /buyent3
+[17:35:37] I am the only: /buyent3
+[17:35:38] I am the only: /buyent3
+[17:35:38] I am the only: /buyent3
+[17:35:39] I am the only: /buyent3
+[17:35:40] I am the only: /buyent3
+[17:35:41] I am the only: /buyent3
+[17:35:42] I am the only: /buyent3
+[17:35:42] I am the only: /buyent3
+[17:35:43] I am the only: /buyent3
+[17:35:44] I am the only: /buyent3
+[17:35:45] I am the only: /buyent3
+[17:35:47] I am the only: /buyent3
+[17:35:48] I am the only: /buyent3
+[17:35:49] I am the only: /buyent2
+[17:41:00] I am the only: /buyent1
+[17:41:01] I am the only: /buyent3
+[17:57:05] I am the only: /adminmode
+[17:57:06] I am the only: !noclip
+[17:57:13] I am the only: !noclip
+[17:57:16] I am the only: !noclip
+[17:57:19] I am the only: !noclip
+[17:58:08] I am the only: !noclip
+[17:58:10] I am the only: !noclip
+[17:58:14] I am the only: !noclip
+[17:58:15] I am the only: !noclip
+[17:58:17] I am the only: !noclip
+[17:58:19] I am the only: !noclip
+[17:58:21] I am the only: !noclip
+[17:58:22] I am the only: !noclip
+[17:58:24] I am the only: !noclip
+[17:58:24] I am the only: !noclip
+[17:58:26] I am the only: !noclip
+[17:58:27] I am the only: !noclip
+[17:58:29] I am the only: !noclip
+[17:58:30] I am the only: !noclip
+[17:58:32] I am the only: !noclip
+[17:58:33] I am the only: !noclip
+[17:58:36] I am the only: !noclip
+[17:58:36] I am the only: !noclip
+[17:58:39] I am the only: !noclip
+[17:58:41] I am the only: !noclip
+[17:59:01] I am the only: !noclip
+[17:59:07] I am the only: !noclip
+[17:59:21] I am the only: /adminmode
+[18:03:22] I am the only: !noclip
+[18:03:31] I am the only: !noclip
+[18:04:02] I am the only: !noclip
+[18:04:13] I am the only: !noclip
+[18:32:09] I am the only: !noclip
+[18:32:26] I am the only: !noclip
+[18:34:12] I am the only: !noclip
+[18:35:11] I am the only: !noclip
+[18:36:52] I am the only: /drop
+[18:37:28] I am the only: /drop
+[18:37:32] I am the only: /drop
+[18:41:14] Dropped "I am the only" from server<STEAM_0:0:520909765>
+
+
+
+[20:41:00] New map: rp_downtown_v4_exl
+[21:05:45] Client "I am the only" connected.
+[21:06:22] Client "Фюрер Уток [CR2066]" connected.
+[21:07:28] Client "Фюрер Уток [CR2066]" connected.
+[21:07:42] Client "I am the only" spawned in server <STEAM_0:0:520909765> (took 117 seconds).
+[21:10:11] Client "Titanovsky" connected.
+
+
+
+[21:19:44] New map: rp_downtown_v4_exl
+[21:21:26] Client "Фюрер Уток [CR2066]" connected.
+[21:21:54] Client "Titanovsky" connected.
+[21:22:28] Client "Фюрер Уток [CR2066]" spawned in server <STEAM_0:0:103023757> (took 62 seconds).
+[21:23:01] Фюрер Уток [CR2066]<STEAM_0:0:103023757> spawned model models/scarecrow/scarecrow.mdl
+[21:23:16] Client "Titanovsky" connected.
+[21:23:53] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 37 seconds).
+[21:24:44] Titanovsky: там надо было Steam API поменять
+[21:24:49] Titanovsky: та как я сменил пароль своего аккаунта
+[21:24:52] Titanovsky: и почему-то ебучий стим
+[21:24:54] Titanovsky: при смене пароля
+[21:24:59] Фюрер Уток [CR2066]: Ясно
+[21:25:01] Titanovsky: уничтожает SteamAPI
+[21:25:03] Titanovsky: а без него не зайти
+[21:25:06] Фюрер Уток [CR2066]: Ясно
+[21:25:08] Client "▰Angry▰Timur▰" connected.
+[21:25:09] Titanovsky: зачем он это делает
+[21:25:13] Titanovsky: эта сука мне ещё
+[21:25:16] Titanovsky: рынок ограничила до 4 ноября
+[21:25:20] Titanovsky: а скидки пропадут уже 1 ноября
+[21:25:22] Titanovsky: ебанный насос
+[21:25:27] Titanovsky: я хотел продать на 100 рублей вещи
+[21:25:29] Titanovsky: угу
+[21:25:30] Titanovsky: продал
+[21:25:35] Titanovsky: ебучий стим
+[21:25:42] Titanovsky: ладно следующая распродажа будект
+[21:25:48] Titanovsky: я в дискорде написал ты посмотри
+[21:25:51] Фюрер Уток [CR2066]: Видел
+[21:26:06] Titanovsky: может после отпуска моего стрендед забабахаем?
+[21:26:18] Фюрер Уток [CR2066]: Ну типо можно, главное с ролевыми элементами
+[21:26:21] Фюрер Уток [CR2066]: чтобы не тупо
+[21:26:23] Фюрер Уток [CR2066]: дрочильня
+[21:26:25] Фюрер Уток [CR2066]: за ресы
+[21:26:32] Titanovsky: ну будет армия CWTC
+[21:26:36] Titanovsky: Новое правительство
+[21:26:41] Titanovsky: примитивное
+[21:26:46] Client "Lorenci" connected.
+[21:26:46] Фюрер Уток [CR2066]: Ясно
+[21:26:47] Client "▰Angry▰Timur▰" spawned in server <STEAM_0:0:431600296> (took 99 seconds).
+[21:26:48] Фюрер Уток [CR2066]: Кстати да
+[21:26:50] Фюрер Уток [CR2066]: Возможно
+[21:26:50] Titanovsky: Все работае
+[21:26:52] Titanovsky: я пошёл
+[21:26:56] Titanovsky: давайте родненькие
+[21:26:57] Фюрер Уток [CR2066]: Ибо меня ДРП заебал немного
+[21:26:58] Фюрер Уток [CR2066]: Ок
+[21:27:03] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[21:27:11] Client "[HoD]Raper Syaka" connected.
+[21:28:23] Client "[HoD]Raper Syaka" spawned in server <STEAM_0:1:69685915> (took 72 seconds).
+[21:28:30] Фюрер Уток [CR2066]: /tts Понимаю
+[21:28:34] Фюрер Уток [CR2066]: /tts Это к Титану
+[21:28:41] Фюрер Уток [CR2066]: /tts ДРП скорее всего умрет
+[21:28:50] Фюрер Уток [CR2066]: /tts Будет Стрендед, но с РП элементами
+[21:28:58] Фюрер Уток [CR2066]: /tts Ибо ДРП говно само по себе 
+[21:29:12] Фюрер Уток [CR2066]: /tts Но если ДРП будет жить
+[21:29:13] Client "Lorenci" spawned in server <STEAM_0:0:431981598> (took 147 seconds).
+[21:29:21] Фюрер Уток [CR2066]: /tts Без моего появления тут, чтобы был онлайн
+[21:29:28] Фюрер Уток [CR2066]: /tts Тогда посмотрим
+[21:29:35] Фюрер Уток [CR2066]: /tts А пока барахтаемся до 18 ноября
+[21:29:47] [HoD]Raper Syaka: хайль фюрер
+[21:29:52] Фюрер Уток [CR2066]: /tts Да да
+[21:29:56] Фюрер Уток [CR2066]: /tts Хайль Штрассе!
+[21:30:23] Lorenci: /adminmode
+[21:30:40] Фюрер Уток [CR2066]: /tts Идите играйте РП процесс
+[21:30:48] Фюрер Уток [CR2066]: /tts Идите конфетки собирайте
+[21:30:51] [HoD]Raper Syaka: /jc2
+[21:31:00] Фюрер Уток [CR2066]: /tts Только чтобы без меня и не под моим давлением
+[21:31:35] [HoD]Raper Syaka: /jnarko1
+[21:31:41] (Console) banned steamid STEAM_0:1:184325360 permanently (Avekvat_ne_tvoi_format)
+[21:32:03] Фюрер Уток [CR2066]: /tts Титан походу в консоли шалит
+[21:32:24] (tsay from Console) klop_zaregal_neadekvat_nick
+[21:32:24] Фюрер Уток [CR2066]: /jnazi4
+[21:32:35] Фюрер Уток [CR2066]: /tts Понимаю
+[21:32:55] (tsay from Console) ya_ne_lublu_ludei_kotorie_regaut_neadekvat_nick
+[21:33:10] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001a.mdl
+[21:33:13] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001a.mdl
+[21:33:15] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001a.mdl
+[21:33:21] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001a.mdl
+[21:33:23] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001a.mdl
+[21:33:49] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/sofa_chair.mdl
+[21:33:53] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:33:56] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:33:57] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:33:59] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:34:01] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:34:02] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:34:05] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:34:06] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:34:08] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:34:09] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:34:26] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_militia/table_shed.mdl
+[21:34:29] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_militia/television_console01.mdl
+[21:34:43] [HoD]Raper Syaka: вы кто
+[21:35:15] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:18] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:21] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:23] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:24] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:25] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:27] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:28] Фюрер Уток [CR2066]: !menu
+[21:35:28] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:31] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:34] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:35] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:48] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:35:59] Фюрер Уток [CR2066] unbanned steamid STEAM_0:0:138834770
+[21:36:20] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:36:23] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:36:25] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:36:26] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:36:28] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:36:28] Фюрер Уток [CR2066]: !menu
+[21:36:29] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:36:35] Фюрер Уток [CR2066] unbanned steamid STEAM_0:0:442381390
+[21:36:56] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:36:58] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:36:58] Client "Uriah" connected.
+[21:37:05] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:37:06] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:37:07] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:37:08] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:37:09] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:37:10] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:37:12] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:37:13] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:38:29] [HoD]Raper Syaka: /buycold1
+[21:40:12] ▰Angry▰Timur▰ killed [HoD]Raper Syaka using player
+[21:40:45] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:41:08] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_c17/gravestone004a.mdl
+[21:41:16] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/frame002a.mdl
+[21:41:26] Фюрер Уток [CR2066]: /tts Че ты там поёшь сука?
+[21:41:28] Client "Uriah" spawned in server <STEAM_0:0:442381390> (took 270 seconds).
+[21:41:31] Фюрер Уток [CR2066]: /tts На еврейском
+[21:41:38] Фюрер Уток [CR2066]: /tts Щас огнеметом сожгу
+[21:41:53] Фюрер Уток [CR2066]: /tts Фойя мэна фойя
+[21:42:08] [HoD]Raper Syaka: /buymeth1
+[21:42:18] [HoD]Raper Syaka: /buymeth3
+[21:42:18] [HoD]Raper Syaka: /buymeth4
+[21:42:30] [HoD]Raper Syaka: /buymoneyprinter1
+[21:42:30] ▰Angry▰Timur▰: /dropweapon
+[21:42:35] ▰Angry▰Timur▰: 1hp
+[21:42:38] ▰Angry▰Timur▰: ТИ ЧЕ
+[21:43:08] ▰Angry▰Timur▰: /sellalldoors
+[21:43:56] Dropped "Фюрер Уток [CR2066]" from server<STEAM_0:0:103023757>
+[21:44:03] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube075x2x025.mdl
+[21:44:12] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube075x075x025.mdl
+[21:44:14] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube075x1x025.mdl
+[21:44:22] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube075x1x025.mdl
+[21:44:29] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/gibs/hgibs_rib.mdl
+[21:44:46] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/gibs/wood_gib01b.mdl
+[21:44:59] Uriah: дарова
+[21:45:19] Uriah: я залип
+[21:45:28] Uriah: о привет
+[21:45:38] Uriah: /jnarko1
+[21:45:56] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:45:59] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/file_cabinet3.mdl
+[21:46:03] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_c17/furnitureradiator001a.mdl
+[21:46:13] Uriah: о привет
+[21:46:20] [HoD]Raper Syaka: ghbdtn
+[21:46:23] [HoD]Raper Syaka: привет
+[21:46:26] Uriah: го дружить?
+[21:46:27] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/sofa_chair.mdl
+[21:46:37] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_office/plant01.mdl
+[21:46:55] Uriah: я не админ
+[21:47:07] [HoD]Raper Syaka: что
+[21:47:47] Uriah: импостор
+[21:48:09] Uriah: хай дуду
+[21:48:11] Uriah: пошёл в пизду
+[21:48:42] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_trainstation/trashcan_indoor001b.mdl
+[21:48:43] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned ragdoll models/gibs/fast_zombie_torso.mdl
+[21:48:45] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_trainstation/trashcan_indoor001b.mdl
+[21:49:18] Uriah: пиздуй
+[21:49:24] Uriah: нет
+[21:49:32] Uriah: говорю пиздуй = иди
+[21:50:16] Uriah: АХАХХАХАХАХ
+[21:50:27] [HoD]Raper Syaka: где полиция
+[21:50:28] Dropped "Uriah" from server<STEAM_0:0:442381390>
+[21:50:55] [HoD]Raper Syaka: /jc1
+[21:51:41] ▰Angry▰Timur▰: /dropweapon
+[21:52:10] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[21:52:12] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/gibs/wood_gib01b.mdl
+[21:52:27] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_militia/footlocker01_closed.mdl
+[21:52:38] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_lab/monitor01a.mdl
+[21:52:48] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/weapons/w_pist_deagle.mdl
+[21:52:48] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_lab/servers.mdl
+[21:53:11] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_lab/servers.mdl
+[21:53:20] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001c.mdl
+[21:53:21] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001c.mdl
+[21:53:24] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_lab/monitor01a.mdl
+[21:53:26] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001c.mdl
+[21:53:28] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001c.mdl
+[21:53:31] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_lab/blastdoor001c.mdl
+[21:53:48] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[21:53:54] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props/cs_militia/footlocker01_closed.mdl
+[21:54:30] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_trainstation/tracksign02.mdl
+[21:54:56] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_lab/citizenradio.mdl
+[21:55:10] ▰Angry▰Timur▰ was killed by prop_physics
+[21:55:45] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/weapons/w_physics.mdl
+[21:55:46] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/weapons/w_rif_ak47.mdl
+[21:56:27] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props/de_nuke/crate_large.mdl
+[21:56:35] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/maxofs2d/cube_tool.mdl
+[21:56:37] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_c17/doll01.mdl
+[21:56:52] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:56:53] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:56:56] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube05x105x05.mdl
+[21:57:00] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube075x075x075.mdl
+[21:57:10] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:57:11] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube05x05x05.mdl
+[21:57:13] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube05x105x05.mdl
+[21:57:19] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube075x075x075.mdl
+[21:57:42] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_lab/harddrive02.mdl
+[21:58:18] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_lab/monitor01a.mdl
+[21:58:27] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_lab/monitor01a.mdl
+[21:58:32] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/apple/apple.mdl
+[21:58:43] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_phx/construct/windows/window_dome360.mdl
+[21:58:43] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_lab/harddrive02.mdl
+[21:58:45] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/props_phx/construct/windows/window_dome360.mdl
+[21:58:49] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/misc/sphere025x025.mdl
+[21:59:12] [HoD]Raper Syaka: а хуй тебе
+[21:59:35] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/misc/sphere025x025.mdl
+[21:59:36] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/misc/sphere025x025.mdl
+[21:59:40] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/mechanics/solid_steel/step_beam_16.mdl
+[21:59:41] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/mechanics/solid_steel/crossbeam_8.mdl
+[21:59:46] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/mechanics/solid_steel/crossbeam_4.mdl
+[22:00:07] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube05x05x05.mdl
+[22:00:29] [HoD]Raper Syaka: эээ
+[22:00:49] ▰Angry▰Timur▰<STEAM_0:0:431600296> spawned model models/props_junk/popcan01a.mdl
+[22:00:53] [HoD]Raper Syaka: вы кто
+[22:01:39] [HoD]Raper Syaka<STEAM_0:1:69685915> spawned model models/hunter/blocks/cube075x2x1.mdl
+[22:01:51] Dropped "▰Angry▰Timur▰" from server<STEAM_0:0:431600296>
+[22:03:59] Dropped "[HoD]Raper Syaka" from server<STEAM_0:1:69685915>
+[22:08:43] Dropped "Lorenci" from server<STEAM_0:0:431981598>
+[22:20:05] Client "Lorenci" connected.
+[22:20:54] Client "Lorenci" spawned in server <STEAM_0:0:431981598> (took 49 seconds).
+[22:23:08] Dropped "Lorenci" from server<STEAM_0:0:431981598>
+[23:56:50] Client "Maks" connected.
+<Logging continued in "data/ulx_logs/10-31-20.txt">
