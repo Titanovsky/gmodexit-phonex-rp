@@ -32,13 +32,16 @@
 
 ## База данных
 
-* Инфа о игроках: Имя, SteamID, последний заход и дата регистрации ([здесь](https://github.com/Titanovsky/gmodexit-homeway/blob/main/database/homeway_players.md))
+* Инфа о игроках ([здесь](https://github.com/Titanovsky/gmodexit-phonex-rp/blob/main/database/players_phonex_rp.md))
+* Статистика ролевая игроков ([здесь](https://github.com/Titanovsky/gmodexit-phonex-rp/blob/main/database/stats_phonex_rp.md))
+* Некоторые данные по ULX
 
 ## Дополнительная инфа
 
 * Проект не на Ambi Eco. Там, грубо говоря, прародитель Ambi Eco. Сборка очень старая и скорее всего не работает
 * Сборка сделана на DarkRP с изменениями
 * Я её делал в те времена, когда мог зацепить бекдуры, так что, будьте аккруатны
+* Нет ассетов (аддонов, где материалы, модели и звуки)
 
 ## Демонстрация
 
